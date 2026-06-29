@@ -1,10 +1,163 @@
 {
-  "generated_at": "2026-06-29 23:43:55 Europe/Berlin",
-  "total": 2723,
-  "ok": 1350,
+  "generated_at": "2026-06-29 23:53:18 Europe/Berlin",
+  "total": 2740,
+  "ok": 1367,
   "skipped": 1373,
   "broken": 0,
   "checks": [
+    {
+      "source_file": "404.html",
+      "tag": "link",
+      "attr": "href",
+      "url": "./shared/assets/brand/favicon.svg",
+      "resolved_path": "shared/assets/brand/favicon.svg",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "link",
+      "attr": "href",
+      "url": "./shared/assets/brand/favicon.svg",
+      "resolved_path": "shared/assets/brand/favicon.svg",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "link",
+      "attr": "href",
+      "url": "./shared/css/styles.css",
+      "resolved_path": "shared/css/styles.css",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./",
+      "resolved_path": "index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "img",
+      "attr": "src",
+      "url": "./shared/assets/brand/brand-mark.svg",
+      "resolved_path": "shared/assets/brand/brand-mark.svg",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./",
+      "resolved_path": "index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./",
+      "resolved_path": "index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./cities/",
+      "resolved_path": "cities/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./topics/",
+      "resolved_path": "topics/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./archive/",
+      "resolved_path": "archive/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./about/",
+      "resolved_path": "about/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./",
+      "resolved_path": "index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./archive/",
+      "resolved_path": "archive/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./cities/",
+      "resolved_path": "cities/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./topics/",
+      "resolved_path": "topics/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "404.html",
+      "tag": "script",
+      "attr": "src",
+      "url": "./shared/js/main.js",
+      "resolved_path": "shared/js/main.js",
+      "status": "ok",
+      "note": "reachable"
+    },
     {
       "source_file": "about/index.html",
       "tag": "link",

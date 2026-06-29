@@ -41,6 +41,7 @@
 - archive retention added: daily JSON files and generated daily archive folders keep the latest 10 archive days
 - `/service/` page added with trusted service links for official warnings, administration, police, health, transport, work, family, education, and integration
 - homepage service teaser added in the former empty right-side panel
+- root `404.html` added for GitHub Pages, with noindex and links back to main public sections
 
 ## რა გავაკეთეთ უკვე
 
