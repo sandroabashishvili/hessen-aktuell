@@ -34,7 +34,7 @@ Generate local/default build:
 Generate publish-ready GitHub Pages build:
 
     cd /home/sandro/portfolio_projects/hessen_aktuell
-    HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen_aktuell" bash scripts/build_publish.sh
+    HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" bash scripts/build_publish.sh
 
 Windows Task Scheduler wrapper:
 
@@ -57,11 +57,11 @@ This project includes .nojekyll so GitHub Pages serves folders and assets withou
 
 Suggested repository name:
 
-    hessen_aktuell
+    hessen-aktuell
 
 Expected public URL:
 
-    https://sandroabashishvili.github.io/hessen_aktuell
+    https://sandroabashishvili.github.io/hessen-aktuell
 
 ## Automation behavior
 

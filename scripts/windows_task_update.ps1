@@ -3,7 +3,7 @@ $ErrorActionPreference = "Stop"
 $ProjectPath = "/home/sandro/portfolio_projects/hessen_aktuell"
 $BaseUrl = $env:HESSEN_AKTUELL_BASE_URL
 if (-not $BaseUrl) {
-    $BaseUrl = "https://sandroabashishvili.github.io/hessen_aktuell"
+    $BaseUrl = "https://sandroabashishvili.github.io/hessen-aktuell"
 }
 
 $LogDir = "\\wsl$\Ubuntu\home\sandro\portfolio_projects\hessen_aktuell\shared\data\automation_logs"

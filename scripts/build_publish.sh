@@ -4,7 +4,7 @@ set -euo pipefail
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT_ROOT"
 
-: "${HESSEN_AKTUELL_BASE_URL:=https://sandroabashishvili.github.io/hessen_aktuell}"
+: "${HESSEN_AKTUELL_BASE_URL:=https://sandroabashishvili.github.io/hessen-aktuell}"
 export HESSEN_AKTUELL_BASE_URL
 
 python3 -m shared.py.news_pipeline

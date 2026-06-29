@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 15:20:09 Europe/Berlin",
+  "generated_at": "2026-06-29 15:38:39 Europe/Berlin",
   "total": 12,
   "ok": 12,
   "notices": 6,
@@ -143,17 +143,17 @@
       "city": "Wiesbaden",
       "access_method": "rss",
       "parsed_count": 5,
-      "latest_date": "2026-06-28",
-      "age_days": 1,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
       "stale_notice": false,
       "status": "ok",
       "note": "adapter returned parsed items",
       "latest_titles": [
+        "POL-WI: Mit Pfefferspray angegriffen +++ Mann angegriffen und beraubt +++ Motorrad in Brand gesetzt +++ Spinde im Schwimmbad aufgebrochen +++ Frau im Innenhof unsittlich berührt +++ Einbruch",
         "POL-WI-KvD: +++Nach Ladendiebstahl und Illegalem Aufenthalt, Widerstand gegen Polizeibeamte+++Handy unterschlagen+++ Gemeinsame Kontrollen \"Sicheres Wiesbaden\"+++",
         "POL-WI: Falschfahrer auf der A 643: Zeugenaufruf",
         "POL-WI-KvD: +++Rücknahme der Fahndung nach 32jähriger Frau aus Wiesbaden+++",
-        "POL-WI-KvD: +++32-jährige Frau in Wiesbaden vermisst+++",
-        "POL-WI: E-Scooter- und Fahrradkontrollen in Wiesbaden - mehrere Verstöße festgestellt +++ Autofahrer flüchtet vor Polizeikontrolle +++ Diebe im Schwimmbad +++ Einbruch"
+        "POL-WI-KvD: +++32-jährige Frau in Wiesbaden vermisst+++"
       ]
     },
     {

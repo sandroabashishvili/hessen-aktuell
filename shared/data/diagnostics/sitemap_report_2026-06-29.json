@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 15:20:14 Europe/Berlin",
+  "generated_at": "2026-06-29 15:38:44 Europe/Berlin",
   "total": 26,
   "ok": 26,
   "missing": 0,
@@ -7,132 +7,132 @@
   "robots_exists": true,
   "checks": [
     {
-      "route": "/about/",
+      "route": "/hessen-aktuell/about/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-20/",
+      "route": "/hessen-aktuell/archive/2026-06-20/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-21/",
+      "route": "/hessen-aktuell/archive/2026-06-21/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-22/",
+      "route": "/hessen-aktuell/archive/2026-06-22/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-23/",
+      "route": "/hessen-aktuell/archive/2026-06-23/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-24/",
+      "route": "/hessen-aktuell/archive/2026-06-24/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-25/",
+      "route": "/hessen-aktuell/archive/2026-06-25/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-26/",
+      "route": "/hessen-aktuell/archive/2026-06-26/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-27/",
+      "route": "/hessen-aktuell/archive/2026-06-27/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-28/",
+      "route": "/hessen-aktuell/archive/2026-06-28/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/2026-06-29/",
+      "route": "/hessen-aktuell/archive/2026-06-29/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/archive/",
+      "route": "/hessen-aktuell/archive/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/cities/darmstadt/",
+      "route": "/hessen-aktuell/cities/darmstadt/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/cities/frankfurt/",
+      "route": "/hessen-aktuell/cities/frankfurt/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/cities/",
+      "route": "/hessen-aktuell/cities/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/cities/kassel/",
+      "route": "/hessen-aktuell/cities/kassel/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/cities/wiesbaden/",
+      "route": "/hessen-aktuell/cities/wiesbaden/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/",
+      "route": "/hessen-aktuell/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/service/",
+      "route": "/hessen-aktuell/service/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/economy/",
+      "route": "/hessen-aktuell/topics/economy/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/events/",
+      "route": "/hessen-aktuell/topics/events/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/",
+      "route": "/hessen-aktuell/topics/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/police/",
+      "route": "/hessen-aktuell/topics/police/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/politics/",
+      "route": "/hessen-aktuell/topics/politics/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/safety/",
+      "route": "/hessen-aktuell/topics/safety/",
       "status": "ok",
       "note": "covered by sitemap"
     },
     {
-      "route": "/topics/transport/",
+      "route": "/hessen-aktuell/topics/transport/",
       "status": "ok",
       "note": "covered by sitemap"
     }

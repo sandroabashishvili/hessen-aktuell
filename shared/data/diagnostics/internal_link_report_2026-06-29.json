@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 15:20:13 Europe/Berlin",
+  "generated_at": "2026-06-29 15:38:43 Europe/Berlin",
   "total": 2711,
   "ok": 1363,
   "skipped": 1348,
@@ -16884,7 +16884,7 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -16902,7 +16902,7 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -16911,7 +16911,7 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/62288/6303523",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -16929,6 +16929,33 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "a",
       "attr": "href",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "resolved_path": "",
+      "status": "skipped",
+      "note": "external or non-file URL"
+    },
+    {
+      "source_file": "archive/2026-06-29/index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "https://www.presseportal.de/blaulicht/pm/62288/6303523",
+      "resolved_path": "",
+      "status": "skipped",
+      "note": "external or non-file URL"
+    },
+    {
+      "source_file": "archive/2026-06-29/index.html",
+      "tag": "img",
+      "attr": "src",
+      "url": "../../shared/assets/news/topics/police-03.png",
+      "resolved_path": "shared/assets/news/topics/police-03.png",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "archive/2026-06-29/index.html",
+      "tag": "a",
+      "attr": "href",
       "url": "https://www.presseportal.de/blaulicht/pm/62288/6303523",
       "resolved_path": "",
       "status": "skipped",
@@ -16947,8 +16974,8 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "img",
       "attr": "src",
-      "url": "../../shared/assets/news/topics/police-03.png",
-      "resolved_path": "shared/assets/news/topics/police-03.png",
+      "url": "../../shared/assets/news/topics/police-04.png",
+      "resolved_path": "shared/assets/news/topics/police-04.png",
       "status": "ok",
       "note": "reachable"
     },
@@ -16974,33 +17001,6 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "img",
       "attr": "src",
-      "url": "../../shared/assets/news/topics/police-04.png",
-      "resolved_path": "shared/assets/news/topics/police-04.png",
-      "status": "ok",
-      "note": "reachable"
-    },
-    {
-      "source_file": "archive/2026-06-29/index.html",
-      "tag": "a",
-      "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303301",
-      "resolved_path": "",
-      "status": "skipped",
-      "note": "external or non-file URL"
-    },
-    {
-      "source_file": "archive/2026-06-29/index.html",
-      "tag": "a",
-      "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/43562/6303193",
-      "resolved_path": "",
-      "status": "skipped",
-      "note": "external or non-file URL"
-    },
-    {
-      "source_file": "archive/2026-06-29/index.html",
-      "tag": "img",
-      "attr": "src",
       "url": "../../shared/assets/news/topics/police-01.png",
       "resolved_path": "shared/assets/news/topics/police-01.png",
       "status": "ok",
@@ -17010,7 +17010,7 @@
       "source_file": "archive/2026-06-29/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/43562/6303193",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303301",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -19989,7 +19989,7 @@
       "source_file": "cities/wiesbaden/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -20007,6 +20007,33 @@
       "source_file": "cities/wiesbaden/index.html",
       "tag": "a",
       "attr": "href",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
+      "resolved_path": "",
+      "status": "skipped",
+      "note": "external or non-file URL"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "resolved_path": "",
+      "status": "skipped",
+      "note": "external or non-file URL"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "tag": "img",
+      "attr": "src",
+      "url": "../../shared/assets/news/topics/police-02.png",
+      "resolved_path": "shared/assets/news/topics/police-02.png",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "tag": "a",
+      "attr": "href",
       "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
       "resolved_path": "",
       "status": "skipped",
@@ -20025,8 +20052,8 @@
       "source_file": "cities/wiesbaden/index.html",
       "tag": "img",
       "attr": "src",
-      "url": "../../shared/assets/news/topics/police-02.png",
-      "resolved_path": "shared/assets/news/topics/police-02.png",
+      "url": "../../shared/assets/news/topics/police-03.png",
+      "resolved_path": "shared/assets/news/topics/police-03.png",
       "status": "ok",
       "note": "reachable"
     },
@@ -20052,33 +20079,6 @@
       "source_file": "cities/wiesbaden/index.html",
       "tag": "img",
       "attr": "src",
-      "url": "../../shared/assets/news/topics/police-03.png",
-      "resolved_path": "shared/assets/news/topics/police-03.png",
-      "status": "ok",
-      "note": "reachable"
-    },
-    {
-      "source_file": "cities/wiesbaden/index.html",
-      "tag": "a",
-      "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303506",
-      "resolved_path": "",
-      "status": "skipped",
-      "note": "external or non-file URL"
-    },
-    {
-      "source_file": "cities/wiesbaden/index.html",
-      "tag": "a",
-      "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303301",
-      "resolved_path": "",
-      "status": "skipped",
-      "note": "external or non-file URL"
-    },
-    {
-      "source_file": "cities/wiesbaden/index.html",
-      "tag": "img",
-      "attr": "src",
       "url": "../../shared/assets/news/topics/police-04.png",
       "resolved_path": "shared/assets/news/topics/police-04.png",
       "status": "ok",
@@ -20088,7 +20088,7 @@
       "source_file": "cities/wiesbaden/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303301",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303506",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -20484,7 +20484,7 @@
       "source_file": "index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.wiesbaden.de/pressemitteilungen/pressereferat/juni/sperrung-der-poststrasse-in-bierstadt",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -20493,8 +20493,8 @@
       "source_file": "index.html",
       "tag": "img",
       "attr": "src",
-      "url": "./shared/assets/news/topics/transport-02.png",
-      "resolved_path": "shared/assets/news/topics/transport-02.png",
+      "url": "./shared/assets/news/topics/police-01.png",
+      "resolved_path": "shared/assets/news/topics/police-01.png",
       "status": "ok",
       "note": "reachable"
     },
@@ -20502,7 +20502,7 @@
       "source_file": "index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.wiesbaden.de/pressemitteilungen/pressereferat/juni/sperrung-der-poststrasse-in-bierstadt",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -20520,8 +20520,8 @@
       "source_file": "index.html",
       "tag": "img",
       "attr": "src",
-      "url": "./shared/assets/news/topics/police-01.png",
-      "resolved_path": "shared/assets/news/topics/police-01.png",
+      "url": "./shared/assets/news/topics/police-02.png",
+      "resolved_path": "shared/assets/news/topics/police-02.png",
       "status": "ok",
       "note": "reachable"
     },
@@ -20547,8 +20547,8 @@
       "source_file": "index.html",
       "tag": "img",
       "attr": "src",
-      "url": "./shared/assets/news/topics/transport-03.png",
-      "resolved_path": "shared/assets/news/topics/transport-03.png",
+      "url": "./shared/assets/news/topics/transport-02.png",
+      "resolved_path": "shared/assets/news/topics/transport-02.png",
       "status": "ok",
       "note": "reachable"
     },
@@ -22509,7 +22509,7 @@
       "source_file": "topics/police/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -22527,7 +22527,7 @@
       "source_file": "topics/police/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "url": "https://www.presseportal.de/blaulicht/pm/43562/6304605",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -22536,7 +22536,7 @@
       "source_file": "topics/police/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/62288/6303523",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"
@@ -22554,6 +22554,33 @@
       "source_file": "topics/police/index.html",
       "tag": "a",
       "attr": "href",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303571",
+      "resolved_path": "",
+      "status": "skipped",
+      "note": "external or non-file URL"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "https://www.presseportal.de/blaulicht/pm/62288/6303523",
+      "resolved_path": "",
+      "status": "skipped",
+      "note": "external or non-file URL"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "tag": "img",
+      "attr": "src",
+      "url": "../../shared/assets/news/topics/police-03.png",
+      "resolved_path": "shared/assets/news/topics/police-03.png",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "tag": "a",
+      "attr": "href",
       "url": "https://www.presseportal.de/blaulicht/pm/62288/6303523",
       "resolved_path": "",
       "status": "skipped",
@@ -22572,8 +22599,8 @@
       "source_file": "topics/police/index.html",
       "tag": "img",
       "attr": "src",
-      "url": "../../shared/assets/news/topics/police-03.png",
-      "resolved_path": "shared/assets/news/topics/police-03.png",
+      "url": "../../shared/assets/news/topics/police-04.png",
+      "resolved_path": "shared/assets/news/topics/police-04.png",
       "status": "ok",
       "note": "reachable"
     },
@@ -22599,33 +22626,6 @@
       "source_file": "topics/police/index.html",
       "tag": "img",
       "attr": "src",
-      "url": "../../shared/assets/news/topics/police-04.png",
-      "resolved_path": "shared/assets/news/topics/police-04.png",
-      "status": "ok",
-      "note": "reachable"
-    },
-    {
-      "source_file": "topics/police/index.html",
-      "tag": "a",
-      "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303301",
-      "resolved_path": "",
-      "status": "skipped",
-      "note": "external or non-file URL"
-    },
-    {
-      "source_file": "topics/police/index.html",
-      "tag": "a",
-      "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/43562/6303193",
-      "resolved_path": "",
-      "status": "skipped",
-      "note": "external or non-file URL"
-    },
-    {
-      "source_file": "topics/police/index.html",
-      "tag": "img",
-      "attr": "src",
       "url": "../../shared/assets/news/topics/police-01.png",
       "resolved_path": "shared/assets/news/topics/police-01.png",
       "status": "ok",
@@ -22635,7 +22635,7 @@
       "source_file": "topics/police/index.html",
       "tag": "a",
       "attr": "href",
-      "url": "https://www.presseportal.de/blaulicht/pm/43562/6303193",
+      "url": "https://www.presseportal.de/blaulicht/pm/11815/6303301",
       "resolved_path": "",
       "status": "skipped",
       "note": "external or non-file URL"

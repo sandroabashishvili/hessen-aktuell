@@ -13,7 +13,7 @@ Finish Hessen Aktuell as a GitHub Pages-ready regional news portal that can run 
 - Added GitHub Pages support file: .nojekyll
 - Added publish/build script: scripts/build_publish.sh
 - Added Windows Task Scheduler wrapper: scripts/windows_task_update.ps1
-- Updated diagnostics sitemap checker for GitHub Pages project base path: /hessen_aktuell/
+- Updated diagnostics sitemap checker for GitHub Pages project base path.
 - Updated diagnostics overall status so transient external source timeout/empty states remain visible but do not block publishing when the generated site itself is healthy
 - Rewrote README.md as a clean ASCII publish/run guide after previous encoding damage
 
@@ -33,13 +33,13 @@ Finish Hessen Aktuell as a GitHub Pages-ready regional news portal that can run 
 Run from WSL:
 
     cd /home/sandro/portfolio_projects/hessen_aktuell
-    HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen_aktuell" bash scripts/build_publish.sh
+    HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" bash scripts/build_publish.sh
 
 Last verified result:
 
 - news pipeline builds homepage, city pages, topic pages, daily archive
-- robots.txt uses https://sandroabashishvili.github.io/hessen_aktuell/sitemap.xml
-- sitemap.xml uses https://sandroabashishvili.github.io/hessen_aktuell/... URLs
+- robots.txt uses https://sandroabashishvili.github.io/hessen-aktuell/sitemap.xml
+- sitemap.xml uses https://sandroabashishvili.github.io/hessen-aktuell/... URLs
 - internal links: 0 broken
 - sitemap: 0 missing, robots ok
 - SEO meta: 0 missing
@@ -54,15 +54,15 @@ Notes from latest runs:
 ## Next Steps
 
 1. Initialize git in /home/sandro/portfolio_projects/hessen_aktuell or create a GitHub repo first.
-2. Suggested repository name: hessen_aktuell
+2. Repository name: hessen-aktuell
 3. Add remote, commit, push.
 4. Enable GitHub Pages for the repo.
-5. Confirm the public URL: https://sandroabashishvili.github.io/hessen_aktuell
+5. Confirm the public URL: https://sandroabashishvili.github.io/hessen-aktuell
 6. Run the publish command again with HESSEN_AKTUELL_BASE_URL set to the public URL.
 7. After repo push works, test AUTO_COMMIT=1 behavior:
 
        cd /home/sandro/portfolio_projects/hessen_aktuell
-       HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen_aktuell" AUTO_COMMIT=1 bash scripts/build_publish.sh
+       HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" AUTO_COMMIT=1 bash scripts/build_publish.sh
 
 8. Set up Windows Task Scheduler to run scripts/windows_task_update.ps1 on a schedule.
 9. Check logs under shared/data/automation_logs after scheduler runs.
