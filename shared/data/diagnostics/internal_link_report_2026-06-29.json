@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29 22:07:21 Europe/Berlin",
-  "total": 2711,
-  "ok": 1338,
+  "generated_at": "2026-06-29 23:15:18 Europe/Berlin",
+  "total": 2719,
+  "ok": 1346,
   "skipped": 1373,
   "broken": 0,
   "checks": [
@@ -20583,7 +20583,43 @@
       "source_file": "index.html",
       "tag": "a",
       "attr": "href",
+      "url": "./service/#warnungen-notfaelle",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/#warnungen-notfaelle",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
       "url": "./service/#behoerden-verwaltung",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/#behoerden-verwaltung",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/#polizei-sicherheit",
       "resolved_path": "service/index.html",
       "status": "ok",
       "note": "reachable"
@@ -20610,7 +20646,43 @@
       "source_file": "index.html",
       "tag": "a",
       "attr": "href",
+      "url": "./service/#gesundheit-verbraucher",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
       "url": "./service/#verkehr-mobilitaet",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/#verkehr-mobilitaet",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/#verkehr-mobilitaet",
+      "resolved_path": "service/index.html",
+      "status": "ok",
+      "note": "reachable"
+    },
+    {
+      "source_file": "index.html",
+      "tag": "a",
+      "attr": "href",
+      "url": "./service/#arbeit-familie-integration",
       "resolved_path": "service/index.html",
       "status": "ok",
       "note": "reachable"

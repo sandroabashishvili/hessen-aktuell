@@ -111,13 +111,21 @@ class ServicePageBuilder:
 def service_teaser_links(prefix: str = "./") -> str:
     links = (
         ("Warnungen", "Notfälle", "Amtliche Warn- und Kriseninfos", f"{prefix}service/#warnungen-notfaelle"),
+        ("DWD", "Wetter", "Warnlage und Unwetter", f"{prefix}service/#warnungen-notfaelle"),
+        ("BSI", "Digital", "Sicherer Alltag online", f"{prefix}service/#warnungen-notfaelle"),
         ("Behörden", "Verwaltung", "Bund, Hessen und Stadtportale", f"{prefix}service/#behoerden-verwaltung"),
+        ("Hessen.de", "Land", "Landesportal und Services", f"{prefix}service/#behoerden-verwaltung"),
         ("Polizei", "Sicherheit", "Onlinewache und Prävention", f"{prefix}service/#polizei-sicherheit"),
+        ("Onlinewache", "Anzeige", "Polizei Hessen digital", f"{prefix}service/#polizei-sicherheit"),
         ("Gesundheit", "116117", "Ärztliche Hilfe und Beratung", f"{prefix}service/#gesundheit-verbraucher"),
+        ("Verbraucher", "Beratung", "Hessen-Verbraucherzentrale", f"{prefix}service/#gesundheit-verbraucher"),
         ("Verkehr", "RMV & Bahn", "Fahrplan, Störung und Straße", f"{prefix}service/#verkehr-mobilitaet"),
+        ("Hessen Mobil", "Straßen", "Baustellen und Verkehr", f"{prefix}service/#verkehr-mobilitaet"),
+        ("Bahn", "Reise", "Verbindung und Störung", f"{prefix}service/#verkehr-mobilitaet"),
         ("Arbeit", "Jobs", "Agentur, Beratung und Suche", f"{prefix}service/#arbeit-familie-integration"),
         ("Familie", "Leistungen", "Familienportal und Bildung", f"{prefix}service/#arbeit-familie-integration"),
         ("Integration", "Sprache", "BAMF, Aufenthalt und Kurse", f"{prefix}service/#arbeit-familie-integration"),
+        ("Studium", "Bildung", "Hochschulen und Suche", f"{prefix}service/#arbeit-familie-integration"),
     )
     return "\n".join(
         f'            <a class="quick-link" href="{escape(url, quote=True)}">'

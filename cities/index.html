@@ -33,7 +33,11 @@
     <h1><a class="hero-link" href="../cities/">Stadtmeldungen</a></h1>
     <p class="lede">Regionale Meldungen nach Stadt lesen, mit eigener Übersicht für Kassel, Frankfurt, Darmstadt und Wiesbaden.</p>
 
-    <nav class="site-nav" aria-label="Hauptnavigation">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span>Menü</span>
+      <span class="nav-toggle-lines" aria-hidden="true"></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Hauptnavigation">
       <a href="../">Start</a>
       <div class="nav-dropdown">
         <a href="../cities/">Städte</a>

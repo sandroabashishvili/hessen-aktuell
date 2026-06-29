@@ -1,3 +1,61 @@
+.nav-toggle {
+  display: none;
+  align-items: center;
+  gap: 10px;
+  min-height: 38px;
+  padding: 8px 12px;
+  border: 1px solid rgba(155, 77, 31, 0.18);
+  border-radius: 4px;
+  background: rgba(255, 250, 242, 0.72);
+  color: var(--brand-dark);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.nav-toggle-lines,
+.nav-toggle-lines::before,
+.nav-toggle-lines::after {
+  display: block;
+  width: 18px;
+  height: 2px;
+  border-radius: 999px;
+  background: currentColor;
+  content: "";
+}
+
+.nav-toggle-lines {
+  position: relative;
+}
+
+.nav-toggle-lines::before,
+.nav-toggle-lines::after {
+  position: absolute;
+  left: 0;
+}
+
+.nav-toggle-lines::before {
+  top: -6px;
+}
+
+.nav-toggle-lines::after {
+  top: 6px;
+}
+
+.site-header.nav-open .nav-toggle-lines {
+  background: transparent;
+}
+
+.site-header.nav-open .nav-toggle-lines::before {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.site-header.nav-open .nav-toggle-lines::after {
+  top: 0;
+  transform: rotate(-45deg);
+}
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;

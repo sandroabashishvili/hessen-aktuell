@@ -33,7 +33,11 @@
     <h1><a class="hero-link" href="../archive/">Archiv</a></h1>
     <p class="lede">Regionale Nachrichten nach Datum lesen, mit den letzten archivierten Tagesseiten und direktem Zugriff auf ältere Meldungen.</p>
 
-    <nav class="site-nav" aria-label="Hauptnavigation">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span>Menü</span>
+      <span class="nav-toggle-lines" aria-hidden="true"></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Hauptnavigation">
       <a href="../">Start</a>
       <div class="nav-dropdown">
         <a href="../cities/">Städte</a>

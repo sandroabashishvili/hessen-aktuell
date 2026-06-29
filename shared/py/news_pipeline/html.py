@@ -56,7 +56,11 @@ def brand_mark(prefix: str) -> str:
 
 def page_nav(prefix: str) -> str:
     return f"""
-    <nav class="site-nav" aria-label="Hauptnavigation">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span>Menü</span>
+      <span class="nav-toggle-lines" aria-hidden="true"></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Hauptnavigation">
       <a href="{prefix}">Start</a>
       <div class="nav-dropdown">
         <a href="{prefix}cities/">Städte</a>
@@ -87,13 +91,14 @@ def page_nav(prefix: str) -> str:
 def story_card(item: NewsItem, prefix: str = "./", visual_index: int | None = None) -> str:
     media_html = _story_media(item, prefix, visual_index)
     summary = _public_summary(item)
+    title = _public_title(item.title)
     summary_html = f"\n          <p>{escape(summary)}</p>" if summary else ""
     date_html = f"<span>{escape(item.published_date)}</span>" if item.published_date else ""
     return f"""
         <article class="story-card">
           {media_html}
           <p class="story-kicker">{escape(item.city)} · {escape(display_topic(item.topic))}</p>
-          <h3><a href="{escape(item.source_url)}" rel="nofollow noopener" target="_blank">{escape(item.title)}</a></h3>{summary_html}
+          <h3><a href="{escape(item.source_url)}" rel="nofollow noopener" target="_blank" title="{escape(title, quote=True)}">{escape(title)}</a></h3>{summary_html}
           <div class="meta-row">
             {date_html}
             <span>{escape(item.source_name)}</span>
@@ -243,3 +248,11 @@ def _public_summary(item: NewsItem) -> str:
             "in der verlinkten Originalmeldung."
         )
     return summary
+
+
+def _public_title(title: str) -> str:
+    cleaned = " ".join(title.replace("+++", " · ").split())
+    if len(cleaned) <= 125:
+        return cleaned
+    shortened = cleaned[:122].rsplit(" ", 1)[0].rstrip(" ,·:-")
+    return f"{shortened}..."

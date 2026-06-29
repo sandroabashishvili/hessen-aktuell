@@ -40,8 +40,10 @@ a {
     top: 0;
     z-index: 30;
     padding-top: 24px;
-    background: linear-gradient(180deg, rgba(247, 241, 232, 0.98) 0%, rgba(247, 241, 232, 0.94) 82%, rgba(247, 241, 232, 0) 100%);
-    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(155, 77, 31, 0.1);
+    background: #f7f1e8;
+    box-shadow: 0 12px 30px rgba(91, 53, 26, 0.06);
+    backdrop-filter: none;
   }
 
   .site-brand-mark {
