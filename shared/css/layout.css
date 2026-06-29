@@ -36,14 +36,7 @@ a {
 
 @media (min-width: 721px) {
   .site-header {
-    position: sticky;
-    top: 0;
-    z-index: 30;
     padding-top: 24px;
-    border-bottom: 1px solid rgba(155, 77, 31, 0.1);
-    background: #f7f1e8;
-    box-shadow: 0 12px 30px rgba(91, 53, 26, 0.06);
-    backdrop-filter: none;
   }
 
   .site-brand-mark {

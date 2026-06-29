@@ -26,7 +26,7 @@
   }
 
   .site-header {
-    padding: 18px var(--panel-padding);
+    padding: 18px var(--panel-padding) 20px;
   }
 
   .site-header h1 {
@@ -41,7 +41,7 @@
   .site-brand-mark {
     position: static;
     width: 174px;
-    margin: 0 0 18px -4px;
+    margin: 0 112px 18px -4px;
     filter: none;
   }
 
@@ -87,8 +87,11 @@
   }
 
   .nav-toggle {
+    position: absolute;
+    top: 20px;
+    right: var(--panel-padding);
     display: inline-flex;
-    margin-top: 18px;
+    margin-top: 0;
   }
 
   .site-header.nav-open .site-nav {
