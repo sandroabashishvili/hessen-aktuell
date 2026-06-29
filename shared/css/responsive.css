@@ -72,11 +72,13 @@
   }
 
   .site-nav {
-    width: 100%;
+    width: auto;
     display: none;
-    margin-top: 14px;
-    padding-top: 12px;
-    border-top: 1px solid rgba(155, 77, 31, 0.12);
+    margin-top: 0;
+    padding: 14px;
+    border: 1px solid rgba(155, 77, 31, 0.16);
+    border-radius: 4px;
+    background: #f7f1e8;
   }
 
   .site-nav > a,
@@ -90,16 +92,23 @@
     position: fixed;
     top: 20px;
     right: 24px;
-    z-index: 40;
+    z-index: 50;
     display: inline-flex;
     margin-top: 0;
-    background: rgba(255, 250, 242, 0.94);
-    box-shadow: 0 8px 22px rgba(91, 53, 26, 0.08);
+    background: #f7f1e8;
+    box-shadow: none;
   }
 
   .site-header.nav-open .site-nav {
+    position: fixed;
+    top: 68px;
+    right: 10px;
+    left: 10px;
+    z-index: 49;
     display: grid;
     gap: 8px;
+    max-height: calc(100vh - 86px);
+    overflow-y: auto;
   }
 
   .nav-dropdown {

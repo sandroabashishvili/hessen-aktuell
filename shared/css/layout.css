@@ -40,7 +40,10 @@ a {
     top: 0;
     z-index: 30;
     padding-top: 24px;
-    background: linear-gradient(180deg, #f7f1e8 0%, #f7f1e8 88%, rgba(247, 241, 232, 0) 100%);
+    padding-bottom: 28px;
+    background: #f7f1e8;
+    box-shadow: 0 0 0 100vmax #f7f1e8;
+    clip-path: inset(0 -100vmax);
   }
 
   .site-brand-mark {
