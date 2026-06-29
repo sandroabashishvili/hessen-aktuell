@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 from html import escape
+import os
 from pathlib import Path
 
 from .models import NewsItem
@@ -9,22 +10,35 @@ from .models import NewsItem
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
 TOPIC_IMAGE_DIR = PROJECT_ROOT / "shared" / "assets" / "news" / "topics"
+DEFAULT_SOCIAL_IMAGE = "/shared/assets/brand/social-card.png"
 
 
 def head_meta(*, title: str, description: str, prefix: str, canonical_path: str) -> str:
     canonical = canonical_path if canonical_path.startswith("/") else f"/{canonical_path}"
+    canonical_url = _absolute_site_url(canonical)
+    social_image_url = _absolute_site_url(DEFAULT_SOCIAL_IMAGE)
     return f"""  <title>{escape(title)}</title>
   <meta name="description" content="{escape(description, quote=True)}">
-  <link rel="canonical" href="{escape(canonical, quote=True)}">
+  <link rel="canonical" href="{escape(canonical_url, quote=True)}">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Hessen Aktuell">
   <meta property="og:title" content="{escape(title, quote=True)}">
   <meta property="og:description" content="{escape(description, quote=True)}">
-  <meta property="og:url" content="{escape(canonical, quote=True)}">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:url" content="{escape(canonical_url, quote=True)}">
+  <meta property="og:image" content="{escape(social_image_url, quote=True)}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{escape(title, quote=True)}">
   <meta name="twitter:description" content="{escape(description, quote=True)}">
+  <meta name="twitter:image" content="{escape(social_image_url, quote=True)}">
 {favicon_links(prefix)}"""
+
+
+def _absolute_site_url(path: str) -> str:
+    base_url = os.environ.get("HESSEN_AKTUELL_BASE_URL", "http://localhost:8090").rstrip("/")
+    clean_path = path if path.startswith("/") else f"/{path}"
+    return f"{base_url}{clean_path}"
 
 
 def favicon_links(prefix: str) -> str:
@@ -105,7 +119,7 @@ def route_media(topic: str, prefix: str, label: str) -> str:
         image_src = f"{prefix}shared/assets/news/topics/{topic_image}"
         return (
             f'<span class="route-card-media story-media-generated {topic_class}">'
-            f'<img src="{escape(image_src, quote=True)}" alt="{escape(label, quote=True)} Bild" loading="lazy" />'
+            f'<img src="{escape(image_src, quote=True)}" alt="{escape(label, quote=True)} Bild" loading="lazy" decoding="async" width="1100" height="619" />'
             "</span>"
         )
     return (
@@ -123,7 +137,7 @@ def route_media_asset(topic: str, prefix: str, label: str, image_name: str) -> s
         image_src = f"{prefix}shared/assets/news/topics/{image_name}"
         return (
             f'<span class="route-card-media story-media-generated {topic_class}">'
-            f'<img src="{escape(image_src, quote=True)}" alt="{escape(label, quote=True)} Bild" loading="lazy" />'
+        f'<img src="{escape(image_src, quote=True)}" alt="{escape(label, quote=True)} Bild" loading="lazy" decoding="async" width="1100" height="619" />'
             "</span>"
         )
     return route_media(topic, prefix, label)
@@ -159,7 +173,7 @@ def _story_media(item: NewsItem, prefix: str, visual_index: int | None = None) -
     if item.media_type == "image" and item.media_url:
         return (
             f'<a class="story-media" href="{escape(item.source_url, quote=True)}" rel="nofollow noopener" target="_blank">'
-            f'<img src="{escape(item.media_url, quote=True)}" alt="{escape(item.title, quote=True)}" loading="lazy" />'
+            f'<img src="{escape(item.media_url, quote=True)}" alt="{escape(item.title, quote=True)}" loading="lazy" decoding="async" />'
             "</a>"
         )
     topic_image = _topic_image(item, visual_index)
@@ -167,7 +181,7 @@ def _story_media(item: NewsItem, prefix: str, visual_index: int | None = None) -
         image_src = f"{prefix}shared/assets/news/topics/{topic_image}"
         return (
             f'<a class="story-media story-media-generated {topic_class}" href="{escape(item.source_url, quote=True)}" rel="nofollow noopener" target="_blank">'
-            f'<img src="{escape(image_src, quote=True)}" alt="{escape(item.city)} {escape(display_topic(item.topic))} Bild" loading="lazy" />'
+            f'<img src="{escape(image_src, quote=True)}" alt="{escape(item.city)} {escape(display_topic(item.topic))} Bild" loading="lazy" decoding="async" width="1100" height="619" />'
             "</a>"
         )
     return (
@@ -193,7 +207,7 @@ def _topic_image(item: NewsItem, visual_index: int | None = None) -> str | None:
 
 def _topic_image_name(topic: str, stable_key: str) -> str | None:
     normalized = topic.strip().lower()
-    candidates = tuple(path.name for path in sorted(TOPIC_IMAGE_DIR.glob(f"{normalized}-*.png")))
+    candidates = _topic_image_candidates(normalized)
     if not candidates:
         return None
     digest = hashlib.sha1(stable_key.encode("utf-8")).hexdigest()
@@ -203,10 +217,17 @@ def _topic_image_name(topic: str, stable_key: str) -> str | None:
 
 def _topic_image_name_by_index(topic: str, visual_index: int) -> str | None:
     normalized = topic.strip().lower()
-    candidates = tuple(path.name for path in sorted(TOPIC_IMAGE_DIR.glob(f"{normalized}-*.png")))
+    candidates = _topic_image_candidates(normalized)
     if not candidates:
         return None
     return candidates[visual_index % len(candidates)]
+
+
+def _topic_image_candidates(normalized_topic: str) -> tuple[str, ...]:
+    webp = tuple(path.name for path in sorted(TOPIC_IMAGE_DIR.glob(f"{normalized_topic}-*.webp")))
+    if webp:
+        return webp
+    return tuple(path.name for path in sorted(TOPIC_IMAGE_DIR.glob(f"{normalized_topic}-*.png")))
 
 
 def _public_summary(item: NewsItem) -> str:

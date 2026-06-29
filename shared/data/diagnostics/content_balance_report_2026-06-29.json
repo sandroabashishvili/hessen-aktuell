@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 15:38:44 Europe/Berlin",
+  "generated_at": "2026-06-29 22:07:22 Europe/Berlin",
   "news_path": "/home/sandro/portfolio_projects/hessen_aktuell/shared/data/news/news_items_2026-06-29.json",
   "total_items": 57,
   "city_counts": {
@@ -14,8 +14,8 @@
     "Events": 2,
     "Police": 17,
     "Politics": 13,
-    "Safety": 4,
-    "Transport": 19
+    "Safety": 3,
+    "Transport": 20
   },
   "source_counts": {
     "Hessen Wirtschaft und Verkehr Presse": 5,

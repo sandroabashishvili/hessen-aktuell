@@ -357,6 +357,15 @@
   line-height: 1.1;
 }
 
+.quick-link em {
+  display: block;
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-style: normal;
+  line-height: 1.28;
+}
+
 .quick-link-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -364,10 +373,14 @@
 }
 
 .quick-link {
-  min-height: 74px;
+  min-height: 92px;
   padding: 12px;
   border-left: 3px solid rgba(155, 77, 31, 0.45);
   text-decoration: none;
+}
+
+.service-teaser-grid .quick-link {
+  min-height: 112px;
 }
 
 .quick-link:hover,

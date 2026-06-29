@@ -91,12 +91,12 @@ SERVICE_CATEGORIES: tuple[ServiceCategory, ...] = (
 )
 
 SERVICE_BANNERS: dict[str, str] = {
-    "Warnungen & Notfälle": "safety-04.png",
-    "Behörden & Verwaltung": "politics-04.png",
-    "Polizei & Sicherheit": "police-03.png",
-    "Gesundheit & Verbraucher": "safety-03.png",
-    "Verkehr & Mobilität": "transport-04.png",
-    "Arbeit, Familie & Integration": "economy-03.png",
+    "Warnungen & Notfälle": "safety-04.webp",
+    "Behörden & Verwaltung": "politics-04.webp",
+    "Polizei & Sicherheit": "police-03.webp",
+    "Gesundheit & Verbraucher": "safety-03.webp",
+    "Verkehr & Mobilität": "transport-04.webp",
+    "Arbeit, Familie & Integration": "economy-03.webp",
 }
 
 
@@ -110,20 +110,20 @@ class ServicePageBuilder:
 
 def service_teaser_links(prefix: str = "./") -> str:
     links = (
-        ("Warnungen", "Notfälle", f"{prefix}service/#warnungen-notfaelle"),
-        ("Behörden", "Verwaltung", f"{prefix}service/#behoerden-verwaltung"),
-        ("Polizei", "Sicherheit", f"{prefix}service/#polizei-sicherheit"),
-        ("Gesundheit", "116117", f"{prefix}service/#gesundheit-verbraucher"),
-        ("Verkehr", "RMV & Bahn", f"{prefix}service/#verkehr-mobilitaet"),
-        ("Arbeit", "Jobs", f"{prefix}service/#arbeit-familie-integration"),
-        ("Familie", "Leistungen", f"{prefix}service/#arbeit-familie-integration"),
-        ("Integration", "Sprache", f"{prefix}service/#arbeit-familie-integration"),
+        ("Warnungen", "Notfälle", "Amtliche Warn- und Kriseninfos", f"{prefix}service/#warnungen-notfaelle"),
+        ("Behörden", "Verwaltung", "Bund, Hessen und Stadtportale", f"{prefix}service/#behoerden-verwaltung"),
+        ("Polizei", "Sicherheit", "Onlinewache und Prävention", f"{prefix}service/#polizei-sicherheit"),
+        ("Gesundheit", "116117", "Ärztliche Hilfe und Beratung", f"{prefix}service/#gesundheit-verbraucher"),
+        ("Verkehr", "RMV & Bahn", "Fahrplan, Störung und Straße", f"{prefix}service/#verkehr-mobilitaet"),
+        ("Arbeit", "Jobs", "Agentur, Beratung und Suche", f"{prefix}service/#arbeit-familie-integration"),
+        ("Familie", "Leistungen", "Familienportal und Bildung", f"{prefix}service/#arbeit-familie-integration"),
+        ("Integration", "Sprache", "BAMF, Aufenthalt und Kurse", f"{prefix}service/#arbeit-familie-integration"),
     )
     return "\n".join(
         f'            <a class="quick-link" href="{escape(url, quote=True)}">'
-        f"<span>{escape(label)}</span><strong>{escape(title)}</strong>"
+        f"<span>{escape(label)}</span><strong>{escape(title)}</strong><em>{escape(description)}</em>"
         "</a>"
-        for title, label, url in links
+        for title, label, description, url in links
     )
 
 
@@ -196,11 +196,11 @@ def _render_link_card(link: ServiceLink) -> str:
 
 
 def _render_category_banner(category: ServiceCategory) -> str:
-    image_name = SERVICE_BANNERS.get(category.title, "politics-01.png")
+    image_name = SERVICE_BANNERS.get(category.title, "politics-01.webp")
     return (
         f'      <div class="service-banner">'
         f'<img src="../shared/assets/news/topics/{escape(image_name, quote=True)}" '
-        f'alt="{escape(category.title)}" loading="lazy">'
+        f'alt="{escape(category.title)}" loading="lazy" decoding="async" width="1100" height="619">'
         "</div>"
     )
 

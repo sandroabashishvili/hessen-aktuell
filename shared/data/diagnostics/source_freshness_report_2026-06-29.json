@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29 15:38:39 Europe/Berlin",
+  "generated_at": "2026-06-29 22:07:17 Europe/Berlin",
   "total": 12,
   "ok": 12,
-  "notices": 6,
+  "notices": 5,
   "warnings": 0,
   "empty": 0,
   "checks": [
@@ -130,11 +130,11 @@
       "status": "ok",
       "note": "adapter returned parsed items",
       "latest_titles": [
+        "Hitzeschäden am 1. Ring: Sperrung der Umweltspur und der Bushaltestelle Schiersteiner Straße",
+        "Deutsch-Amerikanisches Freundschaftsfest: Sperrung der New-York-Straße",
         "Keine Busumleitung: Sperrung der Wendeschleife Friedenstraße nicht erforderlich",
         "Online-Umfragen zur Mitgestaltung des Digitalen Zwillings",
-        "Lions Club Wiesbaden unterstützt Jugendräume in den östlichen Vororten mit Kissenspende",
-        "Sperrung der Poststraße in Bierstadt",
-        "Anhaltende Hitze: Einsatzkräfte in erhöhter Bereitschaft"
+        "Lions Club Wiesbaden unterstützt Jugendräume in den östlichen Vororten mit Kissenspende"
       ]
     },
     {
@@ -186,11 +186,11 @@
       "status": "ok",
       "note": "adapter returned parsed items",
       "latest_titles": [
+        "POL-DA: Darmstadt: Unbekannte beschädigen Café / Wer kann Hinweise geben?",
         "POL-DA: Darmstadt-Arheilgen: Topf in Brand geraten / Polizei und Feuerwehr im Einsatz",
         "POL-DA: Darmstadt-Bessungen: Blauer Piaggioroller (530-DBB) gestohlen / Wer hat etwas gesehen?",
         "POL-DA: Darmstadt: Vandalen beschmieren Hauswand / Zeugen gesucht",
-        "POL-DA: Darmstadt: Elektrischer Motorroller (269-JFN) entwendet / Kripo ermittelt",
-        "POL-DA: Darmstadt: Tätlicher Angriff und Widerstand / 45-Jähriger verletzt Stadtpolizistin"
+        "POL-DA: Darmstadt: Elektrischer Motorroller (269-JFN) entwendet / Kripo ermittelt"
       ]
     },
     {
@@ -199,17 +199,17 @@
       "city": "Hessen",
       "access_method": "html",
       "parsed_count": 5,
-      "latest_date": "2026-06-26",
-      "age_days": 3,
-      "stale_notice": true,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
+      "stale_notice": false,
       "status": "ok",
-      "note": "latest parsed item is 3 days older than build day 2026-06-29",
+      "note": "adapter returned parsed items",
       "latest_titles": [
+        "„Hessen-Champions 2026“ – der 27. Innovations- und Wachstumspreis des Landes Hessen",
+        "Statement von Staatsminister Kaweh Mansoori zum geplanten Stellenbau bei VW",
         "Ein Erfolg für das Mobilitätsland Hessen: Minister Mansoori begrüßt Infrastrukturzukunftsgesetz",
         "Jeder vierte Ausbildungsplatz bleibt unbesetzt",
-        "600-Millionen-Projekt stärkt Frankfurts Position als Europas führendes Luftfrachtdrehkreuz",
-        "Wirtschaftsminister Mansoori übergibt Förderbescheid für innovatives Recyclingverfahren bei Evonik",
-        "Verlängerung der MiSchuV war richtige Übergangslösung: Ministerium beantwortet wichtige Fragen"
+        "600-Millionen-Projekt stärkt Frankfurts Position als Europas führendes Luftfrachtdrehkreuz"
       ]
     },
     {
