@@ -113,3 +113,10 @@
 .nav-dropdown:focus-within .nav-menu {
   display: block;
 }
+
+@media (min-width: 721px) {
+  .site-nav {
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(155, 77, 31, 0.1);
+  }
+}
