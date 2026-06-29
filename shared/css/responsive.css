@@ -87,11 +87,14 @@
   }
 
   .nav-toggle {
-    position: absolute;
+    position: fixed;
     top: 20px;
-    right: var(--panel-padding);
+    right: 24px;
+    z-index: 40;
     display: inline-flex;
     margin-top: 0;
+    background: rgba(255, 250, 242, 0.94);
+    box-shadow: 0 8px 22px rgba(91, 53, 26, 0.08);
   }
 
   .site-header.nav-open .site-nav {
