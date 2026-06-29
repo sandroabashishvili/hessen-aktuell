@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 112" role="img" aria-labelledby="title desc">
+  <title id="title">Hessen Aktuell</title>
+  <desc id="desc">Hessen Aktuell brand mark with HA monogram and wordmark.</desc>
+  <rect x="2" y="2" width="356" height="108" rx="26" fill="#fff8ed" stroke="#dfc9ae" stroke-width="2"/>
+  <rect x="26" y="24" width="68" height="64" rx="20" fill="#9b4d1f"/>
+  <text x="60" y="65" text-anchor="middle" fill="#fffaf2" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="800" letter-spacing="1">HA</text>
+  <text x="118" y="48" fill="#1a1712" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="800" letter-spacing="1.8">HESSEN</text>
+  <text x="118" y="77" fill="#623014" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="800" letter-spacing="1.8">AKTUELL</text>
+  <path d="M118 88h178" stroke="#d57a31" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="322" cy="88" r="5" fill="#9b4d1f"/>
+</svg>

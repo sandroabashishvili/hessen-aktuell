@@ -1,0 +1,211 @@
+{
+  "generated_at": "2026-06-21 00:45:11 Europe/Berlin",
+  "total": 12,
+  "ok": 8,
+  "warnings": 4,
+  "empty": 0,
+  "checks": [
+    {
+      "source_id": "stadt-kassel-aktuelles",
+      "name": "Stadt Kassel Aktuelles",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 3,
+      "latest_date": "2026-06-19",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Roland Kaiser trägt sich ins Goldene Buch der Stadt ein",
+        "Baustelle wandert vier Monate über die Mattenbergstraße",
+        "Endlich Ferien! Zeit für das Sommerferienprogramm"
+      ]
+    },
+    {
+      "source_id": "landkreis-kassel-presse",
+      "name": "Landkreis Kassel Pressemitteilungen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-17",
+      "status": "warning",
+      "note": "latest parsed item is 4 days older than build day 2026-06-21",
+      "latest_titles": [
+        "Landkreis Kassel lädt zum Wohltätigkeitskonzert ein",
+        "Naturschutzpreis 2026 – Jetzt bewerben!",
+        "KaFöG-Projekt verbindet Generationen",
+        "Arbeitsbedingungen stärken und Investitionen beschleunigen",
+        "Hitzeaktionstag in Stadt und Landkreis Kassel"
+      ]
+    },
+    {
+      "source_id": "polizei-nordhessen-presse",
+      "name": "Polizei Nordhessen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-15",
+      "status": "warning",
+      "note": "latest parsed item is 6 days older than build day 2026-06-21",
+      "latest_titles": [
+        "Polizei codierte Fahrräder beim Sommerfest in Großalmerode",
+        "Verkehrsunfallstatistik 2025 für Nordhessen",
+        "Neue Schutzleute vor Ort in Eschwege und Sontra",
+        "Gemeinde Herleshausen richtet \"Leon-Hilfe-Inseln\" ein",
+        "\"Cops im Dialog - Polizei und Schule im Austausch\" an der Bundespräsident-Theodor-Heuss-Schule"
+      ]
+    },
+    {
+      "source_id": "polizei-frankfurt-presse",
+      "name": "Polizei Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-20",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-F: 260620 - 0781 Frankfurt - Innenstadt: Gefährliche Körperverletzung - Schnelle Festnahme",
+        "POL-F: 260620 - 0780 Frankfurt - Ginnheim: Familienstreit eskaliert",
+        "POL-F: 260619 - 0779 Frankfurt - Gutleutviertel: Einbrecher der besonderen Art festgenommen",
+        "POL-F: 260619 - 0778 Frankfurt - Bahnhofsviertel: Drogendealerin festgenommen",
+        "POL-F: 260619 - 0777 Frankfurt - Nieder-Eschbach: Exhibitionist festgenommen"
+      ]
+    },
+    {
+      "source_id": "vgf-frankfurt-news",
+      "name": "VGF Frankfurt News",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-16",
+      "status": "warning",
+      "note": "latest parsed item is 5 days older than build day 2026-06-21",
+      "latest_titles": [
+        "„Sicher unterwegs“",
+        "Mit der U-Bahn zum Schweizer Straßenfest",
+        "Aufzugs-Nachrüstung beginnt",
+        "Fußball-WM: Mit Bahnen und Bussen sicher nach Hause die ganze Nacht hindurch",
+        "Geschäftsbericht 2025"
+      ]
+    },
+    {
+      "source_id": "mainova-frankfurt-presse",
+      "name": "Mainova Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-16",
+      "status": "warning",
+      "note": "latest parsed item is 5 days older than build day 2026-06-21",
+      "latest_titles": [
+        "Trinkwasserpreis steigt leicht",
+        "Mainova setzt Inbetriebnahme des Vorbildkraftwerks fort",
+        "Teilrückbau des Sarotti-Schornsteins startet",
+        "Fernwärmeausbau in der Bockenheimer Landstraße startet",
+        "Mainova bringt junge Köpfe in Bewegung"
+      ]
+    },
+    {
+      "source_id": "stadt-wiesbaden-presse",
+      "name": "Landeshauptstadt Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-19",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Verleihung des Carol-Nachman-Preises 2026",
+        "Wahlanalyse zu Kommunalwahlen am 15. März: Wahlentscheidung nach Alter und Geschlecht",
+        "Online-Voting: Elsässer Park nominiert für „Blauen Kompass“",
+        "Gemeinsam Ideen für Gesundheitsstadt von morgen entwickelt",
+        "Sponsorenrennen der Kita Europaviertel: Geld für neues MINT-Labor"
+      ]
+    },
+    {
+      "source_id": "polizei-wiesbaden-presse",
+      "name": "Polizei Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-19",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-WI: Niederländischer PKW mit verbautem Blaulicht bei Limburg angehalten",
+        "POL-WI: Falschfahrer auf der A671 Richtung Mainz gestellt",
+        "POL-WI: Widerstand bei Festnahme in der Innenstadt +++ Mann mit Messer verletzt - Polizei sucht Zeugen +++ Zwei Wohnungseinbrüche in Wiesbaden",
+        "POL-HPE: Unfall an der Schleuse Griesheim - Boot stürzt Wehr herunter",
+        "POL-WI: Einbrüche"
+      ]
+    },
+    {
+      "source_id": "stadt-darmstadt-presse",
+      "name": "Wissenschaftsstadt Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-19",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Aktionstag \"Kommunen am Limit\" am 22. Juni",
+        "Gemeinsamer Wachstumsplan 2035",
+        "Abflugroute Cindy S",
+        "Neues Bibliothekssystem",
+        "Stadtteil Eberstadt"
+      ]
+    },
+    {
+      "source_id": "polizei-darmstadt-presse",
+      "name": "Polizei Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-19",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-DA: Darmstadt: 27-Jährige beleidigt und beschmutzt / Zeugen gesucht",
+        "POL-DA: Darmstadt: Bargeld aus Tasche von Seniorin entwendet / Kripo ermittelt",
+        "POL-DA: Darmstadt: Zeugen nach Diebstahl von Kupferrohren gesucht",
+        "ZOLL-F: Staatsanwaltschaft Darmstadt und Zollfahndung Frankfurt: Massenweise illegale Vapes aus dem Verkehr gezogen Haupttatverdächtiger am Flughafen festgenommen",
+        "POL-DA: Darmstadt: Drogenfahrt und Kokain- und Heroinbesitz/ 35-Jährige muss sich strafrechtlich verantworten"
+      ]
+    },
+    {
+      "source_id": "hessen-economy-transport-presse",
+      "name": "Hessen Wirtschaft und Verkehr Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-19",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Kaweh Mansoori: Stabile Ticketpreise beim RMV sind wichtiges Signal für Fahrgäste",
+        "Praktikumstage schaffen Perspektiven – Besuch im Hotel Fulda Mitte zeigt Chancen dualer Ausbildung",
+        "Hessische Landesregierung stellt Start-up Strategie Hessen 2030 vor",
+        "Mansoori fordert Antworten auf steigende Kraftstoffpreise",
+        "Sonder-Bauministerkonferenz fordert weniger Bürokratie für mehr Wohnungsbau"
+      ]
+    },
+    {
+      "source_id": "hessen-government-presse",
+      "name": "Hessische Landesregierung Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-20",
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "„Menschen, die Courage zeigen und füreinander einstehen“",
+        "Ministerpräsident Rhein zeichnet Ehrenamtliche des Sozialverbandes VdK aus",
+        "Hessische Initiativen erfolgreich",
+        "Landesregierung beschließt Investitionen in Infrastruktur und Erinnerungskultur",
+        "Alle Vorschläge für Steuererklärung vom Amt verschickt"
+      ]
+    }
+  ]
+}

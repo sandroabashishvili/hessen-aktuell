@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-06-26 12:29:38 Europe/Berlin",
+  "total": 12,
+  "ok": 12,
+  "warnings": 0,
+  "broken": 0,
+  "checks": [
+    {
+      "source_id": "stadt-kassel-aktuelles",
+      "name": "Stadt Kassel Aktuelles",
+      "city": "Kassel",
+      "url": "https://www.kassel.de/aktuelles/index.php",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "landkreis-kassel-presse",
+      "name": "Landkreis Kassel Pressemitteilungen",
+      "city": "Kassel",
+      "url": "https://www.landkreiskassel.de/pressemitteilungen/index.php",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "polizei-nordhessen-presse",
+      "name": "Polizei Nordhessen",
+      "city": "Kassel",
+      "url": "https://www.polizei.hessen.de/meldungen?tid1%5B3343%5D=3343",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "polizei-frankfurt-presse",
+      "name": "Polizei Frankfurt Presse",
+      "city": "Frankfurt",
+      "url": "https://www.presseportal.de/blaulicht/nr/4970",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "vgf-frankfurt-news",
+      "name": "VGF Frankfurt News",
+      "city": "Frankfurt",
+      "url": "https://www.vgf-ffm.de/de/aktuelles/news",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "mainova-frankfurt-presse",
+      "name": "Mainova Frankfurt Presse",
+      "city": "Frankfurt",
+      "url": "https://www.mainova.de/de/ihre-mainova/presse/pressemitteilungen",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "stadt-wiesbaden-presse",
+      "name": "Landeshauptstadt Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "url": "https://www.wiesbaden.de/pressemitteilungen/",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "polizei-wiesbaden-presse",
+      "name": "Polizei Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "url": "https://www.presseportal.de/blaulicht/r/Wiesbaden",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "stadt-darmstadt-presse",
+      "name": "Wissenschaftsstadt Darmstadt Presse",
+      "city": "Darmstadt",
+      "url": "https://www.darmstadt.de/presseportal/pressemitteilungen",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "polizei-darmstadt-presse",
+      "name": "Polizei Darmstadt Presse",
+      "city": "Darmstadt",
+      "url": "https://www.presseportal.de/blaulicht/r/Darmstadt",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "hessen-economy-transport-presse",
+      "name": "Hessen Wirtschaft und Verkehr Presse",
+      "city": "Hessen",
+      "url": "https://wirtschaft.hessen.de/presse",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    },
+    {
+      "source_id": "hessen-government-presse",
+      "name": "Hessische Landesregierung Presse",
+      "city": "Hessen",
+      "url": "https://www.hessen.de/presse",
+      "status": "ok",
+      "http_status": 200,
+      "note": "reachable"
+    }
+  ]
+}

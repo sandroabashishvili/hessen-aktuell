@@ -1,0 +1,2 @@
+"""Diagnostics for Hessen Aktuell."""
+

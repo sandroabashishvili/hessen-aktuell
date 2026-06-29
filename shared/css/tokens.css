@@ -1,0 +1,18 @@
+:root {
+  --bg: #f4efe7;
+  --panel: #fffaf2;
+  --text: #1a1712;
+  --muted: #6d6255;
+  --line: #d8ccb9;
+  --brand: #9b4d1f;
+  --brand-dark: #623014;
+  --accent: #d57a31;
+  --shadow: rgba(91, 53, 26, 0.08);
+  --shell-width: min(1100px, calc(100% - 32px));
+  --section-gap: 16px;
+  --grid-gap: 16px;
+  --card-gap: 14px;
+  --panel-radius: 8px;
+  --panel-padding: 18px;
+  --card-padding: 14px;
+}

@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-06-26 12:29:47 Europe/Berlin",
+  "total": 24,
+  "ok": 24,
+  "missing": 0,
+  "sitemap_url_count": 24,
+  "robots_exists": true,
+  "checks": [
+    {
+      "route": "/about/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-19/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-20/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-21/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-22/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-23/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-24/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-25/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/2026-06-26/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/archive/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/cities/darmstadt/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/cities/frankfurt/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/cities/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/cities/kassel/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/cities/wiesbaden/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/service/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/economy/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/events/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/police/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/politics/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/safety/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/topics/transport/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    }
+  ]
+}

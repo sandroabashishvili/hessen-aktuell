@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
+
+shared/data/automation_logs/
+Screenshot*.png

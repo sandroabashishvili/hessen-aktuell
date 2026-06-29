@@ -1,0 +1,236 @@
+{
+  "generated_at": "2026-06-23 17:02:12 Europe/Berlin",
+  "total": 12,
+  "ok": 12,
+  "notices": 3,
+  "warnings": 0,
+  "empty": 0,
+  "checks": [
+    {
+      "source_id": "stadt-kassel-aktuelles",
+      "name": "Stadt Kassel Aktuelles",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 3,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Verkehrseinschränkungen zum Quartiersfest",
+        "Studie bestätigt Potenzial für Fulda-Brücke",
+        "Kinder lernen, was prima fürs Klima ist"
+      ]
+    },
+    {
+      "source_id": "landkreis-kassel-presse",
+      "name": "Landkreis Kassel Pressemitteilungen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-22",
+      "age_days": 1,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Vierbeiner vor Hitze schützen",
+        "Aktionstag „Kommunen am Limit“",
+        "Landkreis Kassel lädt zum Wohltätigkeitskonzert ein",
+        "Naturschutzpreis 2026 – Jetzt bewerben!",
+        "KaFöG-Projekt verbindet Generationen"
+      ]
+    },
+    {
+      "source_id": "polizei-nordhessen-presse",
+      "name": "Polizei Nordhessen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-15",
+      "age_days": 8,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 8 days older than build day 2026-06-23",
+      "latest_titles": [
+        "Polizei codierte Fahrräder beim Sommerfest in Großalmerode",
+        "Verkehrsunfallstatistik 2025 für Nordhessen",
+        "Neue Schutzleute vor Ort in Eschwege und Sontra",
+        "Gemeinde Herleshausen richtet \"Leon-Hilfe-Inseln\" ein",
+        "\"Cops im Dialog - Polizei und Schule im Austausch\" an der Bundespräsident-Theodor-Heuss-Schule"
+      ]
+    },
+    {
+      "source_id": "polizei-frankfurt-presse",
+      "name": "Polizei Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-F: 260623 - 0794 Frankfurt-Westend: Unruhestifter festgenommen",
+        "POL-F: 260623 - 0793 Frankfurt-Innenstadt: Verwenden von Kennzeichen verfassungswidriger Organisationen",
+        "POL-F: 260623 - 0792 Frankfurt-Sachsenhausen: Trickdiebstahl von Armbanduhr - Zeugenaufruf",
+        "POL-F: 260622 - 0791 Frankfurt - Sachsenhausen: Zeugenaufruf nach Straßenverkehrsgefährdung",
+        "POL-F: 260622 - 0790 Frankfurt - Sachsenhausen: Sexuelle Belästigung in einem Schwimmbad"
+      ]
+    },
+    {
+      "source_id": "vgf-frankfurt-news",
+      "name": "VGF Frankfurt News",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Gleis- und Weichenbau Mainzer Landstraße",
+        "„Sicher unterwegs“",
+        "Aufzugs-Nachrüstung beginnt",
+        "Fußball-WM: Mit Bahnen und Bussen sicher nach Hause die ganze Nacht hindurch",
+        "Geschäftsbericht 2025"
+      ]
+    },
+    {
+      "source_id": "mainova-frankfurt-presse",
+      "name": "Mainova Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-16",
+      "age_days": 7,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 7 days older than build day 2026-06-23",
+      "latest_titles": [
+        "Trinkwasserpreis steigt leicht",
+        "Mainova setzt Inbetriebnahme des Vorbildkraftwerks fort",
+        "Teilrückbau des Sarotti-Schornsteins startet",
+        "Fernwärmeausbau in der Bockenheimer Landstraße startet",
+        "Mainova bringt junge Köpfe in Bewegung"
+      ]
+    },
+    {
+      "source_id": "stadt-wiesbaden-presse",
+      "name": "Landeshauptstadt Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Magistrat beschließt Kommunale Wärmeplanung",
+        "Extreme Hitze: Stadt informiert zum Hitzeschutz",
+        "Werkraum vorübergehend geschlossen",
+        "Zehn Jahre Brexit-Referendum: Kommunale Beziehungen bestehen weiter",
+        "Absage des Spaziergangs im Rahmen der Aktionswoche „Du gehörst dazu“"
+      ]
+    },
+    {
+      "source_id": "polizei-wiesbaden-presse",
+      "name": "Polizei Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-WI: 25-Jähriger aus Wiesbaden vermisst",
+        "POL-WI: Exhibitionist im Grundweg +++ Versuchter Raub einer Armbanduhr",
+        "POL-HPE: Sommerliche Temperaturen locken ans Wasser - Wasserschutzpolizei appelliert an Erholungssuchende",
+        "LKA-HE: Opferschutz stärken, von Gewalt Betroffenen wirksamer helfen // Polizei und Versorgungsverwaltung in Hessen intensivieren Zusammenarbeit",
+        "POL-WI-KvD: +++Rücknahme der Fahndung nach dem 51-jährigen Mann aus Wiesbaden+++"
+      ]
+    },
+    {
+      "source_id": "stadt-darmstadt-presse",
+      "name": "Wissenschaftsstadt Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Stadtbibliothek",
+        "Schul- und Stadtradeln 2026",
+        "„Kommunen am Limit“",
+        "Aktionstag \"Kommunen am Limit\" am 22. Juni",
+        "Gemeinsamer Wachstumsplan 2035"
+      ]
+    },
+    {
+      "source_id": "polizei-darmstadt-presse",
+      "name": "Polizei Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-DA: Darmstadt: Serie von Raubüberfällen auf Tankstellen beendet - zwei Tatverdächtige in Haft",
+        "POL-DA: Darmstadt-Arheilgen: Verkehrsschild zerkratzt / Staatschutz ermittelt",
+        "HZA-DA: Gut informiert durch den Zoll - Tipps für eine sorgenfreie Rückkehr aus dem Urlaub",
+        "POL-DA: Seeheim/Darmstadt: Vorfahrtsstreitigkeiten enden in Verkehrsunfallflucht / Vorläufige Festnahme eines 47-Jährigen",
+        "POL-DA: Darmstadt: Naziparolen gerufen / Staatschutz ermittelt und sucht Zeugen"
+      ]
+    },
+    {
+      "source_id": "hessen-economy-transport-presse",
+      "name": "Hessen Wirtschaft und Verkehr Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-19",
+      "age_days": 4,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 4 days older than build day 2026-06-23",
+      "latest_titles": [
+        "Kaweh Mansoori: Stabile Ticketpreise beim RMV sind wichtiges Signal für Fahrgäste",
+        "Praktikumstage schaffen Perspektiven – Besuch im Hotel Fulda Mitte zeigt Chancen dualer Ausbildung",
+        "Hessische Landesregierung stellt Start-up Strategie Hessen 2030 vor",
+        "Mansoori fordert Antworten auf steigende Kraftstoffpreise",
+        "Sonder-Bauministerkonferenz fordert weniger Bürokratie für mehr Wohnungsbau"
+      ]
+    },
+    {
+      "source_id": "hessen-government-presse",
+      "name": "Hessische Landesregierung Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-23",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Mehr als 46.000 Schülerinnen und Schüler machen Hessen sauber",
+        "Polizei stellt 198 Verstöße bei Kontrollen fest",
+        "Beamte und Richter erhalten künftig mehr Geld",
+        "Polizei zieht positive Bilanz zum Hessentag",
+        "START-Förderprogramm zu Gast beim Hessentag"
+      ]
+    }
+  ]
+}

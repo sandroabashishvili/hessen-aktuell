@@ -1,0 +1,227 @@
+{
+  "generated_at": "2026-06-25 23:27:30 Europe/Berlin",
+  "total": 12,
+  "ok": 11,
+  "notices": 1,
+  "warnings": 0,
+  "empty": 1,
+  "checks": [
+    {
+      "source_id": "stadt-kassel-aktuelles",
+      "name": "Stadt Kassel Aktuelles",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 3,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Hinweise zum Eichen-prozessionsspinner",
+        "Hitze: Feuerwehr Kassel warnt vor Lebensgefahr im Auto",
+        "Ortsbeirat Mitte tagt am 29. Juni"
+      ]
+    },
+    {
+      "source_id": "landkreis-kassel-presse",
+      "name": "Landkreis Kassel Pressemitteilungen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Fotografische Spurensuche in historischen Räumen",
+        "Richtfest an der Heinrich‑Grupe‑Schule",
+        "Vierbeiner vor Hitze schützen",
+        "Aktionstag „Kommunen am Limit“",
+        "Landkreis Kassel lädt zum Wohltätigkeitskonzert ein"
+      ]
+    },
+    {
+      "source_id": "polizei-nordhessen-presse",
+      "name": "Polizei Nordhessen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-15",
+      "age_days": 10,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 10 days older than build day 2026-06-25",
+      "latest_titles": [
+        "Polizei codierte Fahrräder beim Sommerfest in Großalmerode",
+        "Verkehrsunfallstatistik 2025 für Nordhessen",
+        "Neue Schutzleute vor Ort in Eschwege und Sontra",
+        "Gemeinde Herleshausen richtet \"Leon-Hilfe-Inseln\" ein",
+        "\"Cops im Dialog - Polizei und Schule im Austausch\" an der Bundespräsident-Theodor-Heuss-Schule"
+      ]
+    },
+    {
+      "source_id": "polizei-frankfurt-presse",
+      "name": "Polizei Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-F: 260625 - 0806 Frankfurt-Sachsenhausen: Vermisste Person",
+        "POL-F: 260625 - 0805 Frankfurt-Gutleutviertel: Illegale Einfuhr von Betäubungsmitteln in nicht geringer Menge - Festnahme",
+        "POL-F: 260625 - 0804 Frankfurt- Höchst: Jugendlicher leistet mehrfach Widerstand",
+        "POL-F: 260625 - 0803 Frankfurt- Innenstadt/ Bahnhofsviertel: Räuber festgenommen",
+        "POL-F: 260625 - 0802 Frankfurt- Rödelheim: Schwerer Verkehrsunfall"
+      ]
+    },
+    {
+      "source_id": "vgf-frankfurt-news",
+      "name": "VGF Frankfurt News",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Ironman: S-Bahnen und U-Bahnen nutzen",
+        "Gleis- und Weichenbau Mainzer Landstraße",
+        "„Sicher unterwegs“",
+        "Aufzugs-Nachrüstung beginnt",
+        "Fußball-WM: Mit Bahnen und Bussen sicher nach Hause die ganze Nacht hindurch"
+      ]
+    },
+    {
+      "source_id": "mainova-frankfurt-presse",
+      "name": "Mainova Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 0,
+      "latest_date": "",
+      "age_days": null,
+      "stale_notice": false,
+      "status": "empty",
+      "note": "no parsed items; pipeline will use fallback card",
+      "latest_titles": []
+    },
+    {
+      "source_id": "stadt-wiesbaden-presse",
+      "name": "Landeshauptstadt Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Einspurige Verkehrsführung auf Konrad-Adenauer-Ring zwischen Biebricher Allee und Steinberger Straße",
+        "Arbeiten in Schiersteiner Straße Höhe Waldstraße: Drei Maßnahmen, eine Baustelle",
+        "Tier- und Pflanzenpark Fasanerie verkürzt geöffnet",
+        "Neugasse: Verkehrseinschränkungen wegen Erneuerung einer Versorgungsleitung",
+        "„Eiskalte Geschäfte“: Vortrag im Stadtarchiv"
+      ]
+    },
+    {
+      "source_id": "polizei-wiesbaden-presse",
+      "name": "Polizei Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-WI: Keine presserelevanten Sachverhalte",
+        "BKA: Operation Endgame mit weiterem Erfolg: Drei gefährliche Schadsoftware-Varianten vom Netz genommen",
+        "LKA-HE: Schusswaffengebrauch nach Angriff - Polizeibeamter leicht verletzt, Angreifer schwer verletzt",
+        "POL-WI: Hochwertige Rolex bei Juwelier gestohlen +++ Trickdiebstahl auf Parkplatz eines Einkaufsgeschäftes +++ Motorradfahrer bei Verkehrsunfall schwer verletzt",
+        "POL-WI-KvD: +++Rücknahme der Fahndung nach der 90-jährigen Frau aus Wiesbaden+++"
+      ]
+    },
+    {
+      "source_id": "stadt-darmstadt-presse",
+      "name": "Wissenschaftsstadt Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "html",
+      "parsed_count": 2,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Woog",
+        "Hitze und Trockenheit"
+      ]
+    },
+    {
+      "source_id": "polizei-darmstadt-presse",
+      "name": "Polizei Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-DA: Darmstadt-Eberstadt: Motorroller (DA-B 178) gestohlen / Zeugen gesucht",
+        "POL-DA: Darmstadt: Zeugen nach Verkehrsunfallflucht gesucht / 11-Jähriger leicht verletzt",
+        "POL-DA: Darmstadt: Polizei sucht rechtmäßigen Fahrradeigentümer",
+        "POL-DA: Darmstadt: Umfangreiche Kontrollen im Rahmen \"Sichere Innenstadt\" / Rauschgift, Handtaschen und Fahrräder sichergestellt",
+        "POL-DA: Darmstadt-Arheilgen: Einbruch in Schwimmbadkiosk / Wer kann Hinweise geben?"
+      ]
+    },
+    {
+      "source_id": "hessen-economy-transport-presse",
+      "name": "Hessen Wirtschaft und Verkehr Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "600-Millionen-Projekt stärkt Frankfurts Position als Europas führendes Luftfrachtdrehkreuz",
+        "Wirtschaftsminister Mansoori übergibt Förderbescheid für innovatives Recyclingverfahren bei Evonik",
+        "Verlängerung der MiSchuV war richtige Übergangslösung: Ministerium beantwortet wichtige Fragen",
+        "Gemeinsame Erklärung zur Stärkung der Gießerei-Industrie",
+        "Minister Mansoori verleiht active2work Awards 2026"
+      ]
+    },
+    {
+      "source_id": "hessen-government-presse",
+      "name": "Hessische Landesregierung Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Forstministerium weist auf Waldbrandgefahr hin",
+        "Land führt kostenlose Schwimmkurse für Kinder und Jugendliche fort",
+        "„Hessen setzt auf die Förderung junger Forschungs-Talente und wissenschaftliche Neugier“",
+        "64 Gütesiegel für familienfreundliche Arbeitgeber und Hochschulen verliehen",
+        "400 Meter Mindestabstand wird aufgehoben"
+      ]
+    }
+  ]
+}

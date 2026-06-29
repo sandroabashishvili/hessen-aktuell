@@ -1,0 +1,25 @@
+{
+  "brand": "Hessen Aktuell",
+  "pages": [
+    "home",
+    "city",
+    "topic",
+    "archive",
+    "service",
+    "about"
+  ],
+  "cities": [
+    "kassel",
+    "frankfurt",
+    "darmstadt",
+    "wiesbaden"
+  ],
+  "topics": [
+    "politics",
+    "transport",
+    "police",
+    "economy",
+    "events",
+    "safety"
+  ]
+}

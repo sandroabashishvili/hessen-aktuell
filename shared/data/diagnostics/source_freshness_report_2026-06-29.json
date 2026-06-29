@@ -1,0 +1,235 @@
+{
+  "generated_at": "2026-06-29 15:20:09 Europe/Berlin",
+  "total": 12,
+  "ok": 12,
+  "notices": 6,
+  "warnings": 0,
+  "empty": 0,
+  "checks": [
+    {
+      "source_id": "stadt-kassel-aktuelles",
+      "name": "Stadt Kassel Aktuelles",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 3,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Stadt berät zu Themen rund ums Älterwerden",
+        "Trautisch des Standesamtes zu gewinnen",
+        "Mit der Hort-Action geht’s in Kassel ab in die Ferien"
+      ]
+    },
+    {
+      "source_id": "landkreis-kassel-presse",
+      "name": "Landkreis Kassel Pressemitteilungen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Wasserentnahmeverbot im Landkreis",
+        "Drei neue Gesundheitslotsinnen im Landkreis Kassel",
+        "Fotografische Spurensuche in historischen Räumen",
+        "Richtfest an der Heinrich‑Grupe‑Schule",
+        "Vierbeiner vor Hitze schützen"
+      ]
+    },
+    {
+      "source_id": "polizei-nordhessen-presse",
+      "name": "Polizei Nordhessen",
+      "city": "Kassel",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-26",
+      "age_days": 3,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 3 days older than build day 2026-06-29",
+      "latest_titles": [
+        "\"Cops im Dialog\"\" an der der Kaulbachschule in Bad Arolsen",
+        "Polizei codierte Fahrräder beim Sommerfest in Großalmerode",
+        "Verkehrsunfallstatistik 2025 für Nordhessen",
+        "Neue Schutzleute vor Ort in Eschwege und Sontra",
+        "Gemeinde Herleshausen richtet \"Leon-Hilfe-Inseln\" ein"
+      ]
+    },
+    {
+      "source_id": "polizei-frankfurt-presse",
+      "name": "Polizei Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-F: 260629 - 0825 Frankfurt - Bahnhofsviertel: Heftige Auseinandersetzung zwischen zwei Gruppen",
+        "POL-F: 260629 - 0824 Frankfurt - Bahnhofsviertel: Schwerer Raub mit Pfefferspray",
+        "POL-F: 260629 - 0823 Frankfurt - Sossenheim: Farbschmierereien an der Grill'schen Brücke",
+        "POL-F: 260629 - 0822 Frankfurt - Rödelheim: Senior überfallen - Zeugensuche",
+        "POL-F: 260629 - 0821 Frankfurt - Bahnhofsviertel: Frau leistet Widerstand bei Anzeigenaufnahme"
+      ]
+    },
+    {
+      "source_id": "vgf-frankfurt-news",
+      "name": "VGF Frankfurt News",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-26",
+      "age_days": 3,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 3 days older than build day 2026-06-29",
+      "latest_titles": [
+        "U-Bahn-Station „Eschenheimer Tor“",
+        "Gleis- und Weichenbau Mainzer Landstraße",
+        "Aufzugs-Nachrüstung beginnt",
+        "Fußball-WM: Mit Bahnen und Bussen sicher nach Hause die ganze Nacht hindurch",
+        "Geschäftsbericht 2025"
+      ]
+    },
+    {
+      "source_id": "mainova-frankfurt-presse",
+      "name": "Mainova Frankfurt Presse",
+      "city": "Frankfurt",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-25",
+      "age_days": 4,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 4 days older than build day 2026-06-29",
+      "latest_titles": [
+        "Fernwärmeausbau in der Frankenallee geht weiter",
+        "Trinkwasserpreis steigt leicht",
+        "Mainova setzt Inbetriebnahme des Vorbildkraftwerks fort",
+        "Teilrückbau des Sarotti-Schornsteins startet",
+        "Fernwärmeausbau in der Bockenheimer Landstraße startet"
+      ]
+    },
+    {
+      "source_id": "stadt-wiesbaden-presse",
+      "name": "Landeshauptstadt Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "Keine Busumleitung: Sperrung der Wendeschleife Friedenstraße nicht erforderlich",
+        "Online-Umfragen zur Mitgestaltung des Digitalen Zwillings",
+        "Lions Club Wiesbaden unterstützt Jugendräume in den östlichen Vororten mit Kissenspende",
+        "Sperrung der Poststraße in Bierstadt",
+        "Anhaltende Hitze: Einsatzkräfte in erhöhter Bereitschaft"
+      ]
+    },
+    {
+      "source_id": "polizei-wiesbaden-presse",
+      "name": "Polizei Wiesbaden Presse",
+      "city": "Wiesbaden",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-28",
+      "age_days": 1,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-WI-KvD: +++Nach Ladendiebstahl und Illegalem Aufenthalt, Widerstand gegen Polizeibeamte+++Handy unterschlagen+++ Gemeinsame Kontrollen \"Sicheres Wiesbaden\"+++",
+        "POL-WI: Falschfahrer auf der A 643: Zeugenaufruf",
+        "POL-WI-KvD: +++Rücknahme der Fahndung nach 32jähriger Frau aus Wiesbaden+++",
+        "POL-WI-KvD: +++32-jährige Frau in Wiesbaden vermisst+++",
+        "POL-WI: E-Scooter- und Fahrradkontrollen in Wiesbaden - mehrere Verstöße festgestellt +++ Autofahrer flüchtet vor Polizeikontrolle +++ Diebe im Schwimmbad +++ Einbruch"
+      ]
+    },
+    {
+      "source_id": "stadt-darmstadt-presse",
+      "name": "Wissenschaftsstadt Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "html",
+      "parsed_count": 4,
+      "latest_date": "2026-06-26",
+      "age_days": 3,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 3 days older than build day 2026-06-29",
+      "latest_titles": [
+        "Großer Woog wieder geöffnet",
+        "Halbzeitbilanz des Oberbürgermeisters Hanno Benz",
+        "Woog",
+        "Hitze und Trockenheit"
+      ]
+    },
+    {
+      "source_id": "polizei-darmstadt-presse",
+      "name": "Polizei Darmstadt Presse",
+      "city": "Darmstadt",
+      "access_method": "rss",
+      "parsed_count": 5,
+      "latest_date": "2026-06-29",
+      "age_days": 0,
+      "stale_notice": false,
+      "status": "ok",
+      "note": "adapter returned parsed items",
+      "latest_titles": [
+        "POL-DA: Darmstadt-Arheilgen: Topf in Brand geraten / Polizei und Feuerwehr im Einsatz",
+        "POL-DA: Darmstadt-Bessungen: Blauer Piaggioroller (530-DBB) gestohlen / Wer hat etwas gesehen?",
+        "POL-DA: Darmstadt: Vandalen beschmieren Hauswand / Zeugen gesucht",
+        "POL-DA: Darmstadt: Elektrischer Motorroller (269-JFN) entwendet / Kripo ermittelt",
+        "POL-DA: Darmstadt: Tätlicher Angriff und Widerstand / 45-Jähriger verletzt Stadtpolizistin"
+      ]
+    },
+    {
+      "source_id": "hessen-economy-transport-presse",
+      "name": "Hessen Wirtschaft und Verkehr Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-26",
+      "age_days": 3,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 3 days older than build day 2026-06-29",
+      "latest_titles": [
+        "Ein Erfolg für das Mobilitätsland Hessen: Minister Mansoori begrüßt Infrastrukturzukunftsgesetz",
+        "Jeder vierte Ausbildungsplatz bleibt unbesetzt",
+        "600-Millionen-Projekt stärkt Frankfurts Position als Europas führendes Luftfrachtdrehkreuz",
+        "Wirtschaftsminister Mansoori übergibt Förderbescheid für innovatives Recyclingverfahren bei Evonik",
+        "Verlängerung der MiSchuV war richtige Übergangslösung: Ministerium beantwortet wichtige Fragen"
+      ]
+    },
+    {
+      "source_id": "hessen-government-presse",
+      "name": "Hessische Landesregierung Presse",
+      "city": "Hessen",
+      "access_method": "html",
+      "parsed_count": 5,
+      "latest_date": "2026-06-26",
+      "age_days": 3,
+      "stale_notice": true,
+      "status": "ok",
+      "note": "latest parsed item is 3 days older than build day 2026-06-29",
+      "latest_titles": [
+        "Ministerpräsident Rhein eröffnet 75. Saison der Bad Hersfelder Festspiele",
+        "Sofortprogramm für das Bahnhofsviertel Frankfurt",
+        "Demokratie in Hessen fest verankert",
+        "Forstministerium weist auf Waldbrandgefahr hin",
+        "Land führt kostenlose Schwimmkurse für Kinder und Jugendliche fort"
+      ]
+    }
+  ]
+}

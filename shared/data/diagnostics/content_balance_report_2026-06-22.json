@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-06-22 23:12:41 Europe/Berlin",
+  "news_path": "/home/sandro/portfolio_projects/hessen_aktuell/shared/data/news/news_items_2026-06-22.json",
+  "total_items": 58,
+  "city_counts": {
+    "Darmstadt": 10,
+    "Frankfurt": 15,
+    "Hessen": 10,
+    "Kassel": 13,
+    "Wiesbaden": 10
+  },
+  "topic_counts": {
+    "Economy": 3,
+    "Events": 2,
+    "Police": 21,
+    "Politics": 17,
+    "Safety": 2,
+    "Transport": 13
+  },
+  "source_counts": {
+    "Hessen Wirtschaft und Verkehr Presse": 5,
+    "Hessische Landesregierung Presse": 5,
+    "Landeshauptstadt Wiesbaden Presse": 5,
+    "Landkreis Kassel Pressemitteilungen": 5,
+    "Mainova Frankfurt Presse": 5,
+    "Polizei Darmstadt Presse": 5,
+    "Polizei Frankfurt Presse": 5,
+    "Polizei Nordhessen": 5,
+    "Polizei Wiesbaden Presse": 5,
+    "Stadt Kassel Aktuelles": 3,
+    "VGF Frankfurt News": 5,
+    "Wissenschaftsstadt Darmstadt Presse": 5
+  },
+  "top_city": {
+    "name": "Frankfurt",
+    "count": 15
+  },
+  "top_source": {
+    "name": "Landkreis Kassel Pressemitteilungen",
+    "count": 5
+  },
+  "status": "ok"
+}

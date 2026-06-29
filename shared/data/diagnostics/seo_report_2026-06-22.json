@@ -1,0 +1,806 @@
+{
+  "generated_at": "2026-06-22 23:12:41 Europe/Berlin",
+  "total": 133,
+  "ok": 133,
+  "missing": 0,
+  "checks": [
+    {
+      "source_file": "about/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "about/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "about/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "about/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "about/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "about/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "about/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-19/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-20/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-21/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/2026-06-22/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "archive/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/darmstadt/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/frankfurt/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/kassel/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "cities/wiesbaden/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/economy/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/events/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/police/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/politics/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/safety/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "canonical",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "og:description",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "og:title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "og:url",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "title",
+      "status": "ok",
+      "note": "present"
+    },
+    {
+      "source_file": "topics/transport/index.html",
+      "key": "twitter:card",
+      "status": "ok",
+      "note": "present"
+    }
+  ]
+}
