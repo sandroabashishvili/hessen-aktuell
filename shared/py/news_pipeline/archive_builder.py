@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from .html import brand_mark, display_topic, grouped_counts, head_meta, page_nav, route_media_asset, story_card_list
+from .html import brand_mark, display_topic, grouped_counts, head_meta, page_nav, route_media_asset, site_footer, story_card_list
 from .models import NewsItem
 
 ARCHIVE_CARD_VISUALS: tuple[tuple[str, str], ...] = (
@@ -80,11 +80,7 @@ def _render_day(day_iso: str, items: list[NewsItem]) -> str:
       </div>
     </section>
   </main>
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
-    </div>
-  </footer>
+{site_footer('../../')}
   <script src="../../shared/js/main.js"></script>
 </body>
 </html>
@@ -129,11 +125,7 @@ def _render_index(day_iso: str, items: list[NewsItem], archive_counts: dict[str,
       </div>
     </section>
   </main>
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
-    </div>
-  </footer>
+{site_footer('../')}
   <script src="../shared/js/main.js"></script>
 </body>
 </html>

@@ -3,7 +3,7 @@ from __future__ import annotations
 from html import escape
 from pathlib import Path
 
-from .html import brand_mark, head_meta, page_nav, route_media_asset, story_card_list
+from .html import brand_mark, head_meta, page_nav, route_media_asset, site_footer, story_card_list
 from .models import NewsItem
 
 
@@ -82,11 +82,7 @@ def _render_city(city: str, day_iso: str, items: list[NewsItem]) -> str:
     </section>
 {feed_section}
   </main>
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
-    </div>
-  </footer>
+{site_footer('../../')}
   <script src="../../shared/js/main.js"></script>
 </body>
 </html>
@@ -156,11 +152,7 @@ def _render_index(cities: list[str], items: list[NewsItem]) -> str:
       </div>
     </section>
   </main>
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
-    </div>
-  </footer>
+{site_footer('../')}
   <script src="../shared/js/main.js"></script>
 </body>
 </html>

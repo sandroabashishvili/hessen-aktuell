@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Über das Portal | Hessen Aktuell</title>
   <meta name="description" content="Über Hessen Aktuell: regionale Nachrichten nach Städten, Themen und Datum.">
-  <link rel="canonical" href="/about/">
+  <link rel="canonical" href="https://sandroabashishvili.github.io/hessen-aktuell/about/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Hessen Aktuell">
   <meta property="og:title" content="Über das Portal | Hessen Aktuell">
   <meta property="og:description" content="Über Hessen Aktuell: regionale Nachrichten nach Städten, Themen und Datum.">
-  <meta property="og:url" content="/about/">
+  <meta property="og:url" content="https://sandroabashishvili.github.io/hessen-aktuell/about/">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Über das Portal | Hessen Aktuell">
   <meta name="twitter:description" content="Über Hessen Aktuell: regionale Nachrichten nach Städten, Themen und Datum.">
@@ -26,7 +26,11 @@
     <p class="eyebrow">Hessen Aktuell</p>
     <h1><a class="hero-link" href="../about/">Über das Portal</a></h1>
     <p class="lede">Ein regionaler Nachrichtenüberblick für Hessen mit kurzen Zusammenfassungen, Stadtseiten, Themenseiten und Tagesarchiv.</p>
-    <nav class="site-nav" aria-label="Hauptnavigation">
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span>Menü</span>
+      <span class="nav-toggle-lines" aria-hidden="true"></span>
+    </button>
+    <nav class="site-nav" id="site-nav" aria-label="Hauptnavigation">
       <a href="../">Start</a>
       <div class="nav-dropdown">
         <a href="../cities/">Städte</a>
@@ -90,6 +94,10 @@
   <footer class="site-footer">
     <div class="site-footer__inner">
       <p class="site-footer__note">© 2026 Hessen Aktuell</p>
+      <nav class="site-footer__links" aria-label="Rechtliche Hinweise">
+        <a href="../legal/impressum.html">Impressum</a>
+        <a href="../legal/datenschutz.html">Datenschutz</a>
+      </nav>
     </div>
   </footer>
   <script src="../shared/js/main.js"></script>

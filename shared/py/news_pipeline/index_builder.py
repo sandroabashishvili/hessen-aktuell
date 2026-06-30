@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from .html import brand_mark, display_topic, grouped_counts, head_meta, page_nav, story_card_list
+from .html import brand_mark, display_topic, grouped_counts, head_meta, page_nav, site_footer, story_card_list
 from .models import NewsItem
 from .service_builder import service_teaser_links
 
@@ -149,11 +149,7 @@ def _render_home(day_iso: str, all_items: list[NewsItem], items: list[NewsItem])
       </aside>
     </section>
   </main>
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
-    </div>
-  </footer>
+{site_footer('./')}
   <script src="./shared/js/main.js"></script>
 </body>
 </html>

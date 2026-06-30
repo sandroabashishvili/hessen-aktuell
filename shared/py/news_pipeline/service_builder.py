@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from html import escape
 from pathlib import Path
 
-from .html import brand_mark, head_meta, page_nav
+from .html import brand_mark, head_meta, page_nav, site_footer
 
 
 @dataclass(frozen=True)
@@ -167,11 +167,7 @@ def _render_service_page() -> str:
 {category_sections}
     </div>
   </main>
-  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
-    </div>
-  </footer>
+{site_footer('../')}
   <script src="../shared/js/main.js"></script>
 </body>
 </html>

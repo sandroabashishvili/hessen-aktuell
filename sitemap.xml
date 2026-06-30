@@ -4,9 +4,6 @@
     <loc>https://sandroabashishvili.github.io/hessen-aktuell/about/</loc>
   </url>
   <url>
-    <loc>https://sandroabashishvili.github.io/hessen-aktuell/archive/2026-06-20/</loc>
-  </url>
-  <url>
     <loc>https://sandroabashishvili.github.io/hessen-aktuell/archive/2026-06-21/</loc>
   </url>
   <url>
@@ -34,6 +31,9 @@
     <loc>https://sandroabashishvili.github.io/hessen-aktuell/archive/2026-06-29/</loc>
   </url>
   <url>
+    <loc>https://sandroabashishvili.github.io/hessen-aktuell/archive/2026-06-30/</loc>
+  </url>
+  <url>
     <loc>https://sandroabashishvili.github.io/hessen-aktuell/archive/</loc>
   </url>
   <url>
@@ -53,6 +53,12 @@
   </url>
   <url>
     <loc>https://sandroabashishvili.github.io/hessen-aktuell/</loc>
+  </url>
+  <url>
+    <loc>https://sandroabashishvili.github.io/hessen-aktuell/legal/datenschutz.html</loc>
+  </url>
+  <url>
+    <loc>https://sandroabashishvili.github.io/hessen-aktuell/legal/impressum.html</loc>
   </url>
   <url>
     <loc>https://sandroabashishvili.github.io/hessen-aktuell/service/</loc>

@@ -54,6 +54,19 @@ def brand_mark(prefix: str) -> str:
     </a>"""
 
 
+def site_footer(prefix: str) -> str:
+    return f"""
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__note">© 2026 Hessen Aktuell</p>
+      <nav class="site-footer__links" aria-label="Rechtliche Hinweise">
+        <a href="{prefix}legal/impressum.html">Impressum</a>
+        <a href="{prefix}legal/datenschutz.html">Datenschutz</a>
+      </nav>
+    </div>
+  </footer>"""
+
+
 def page_nav(prefix: str) -> str:
     return f"""
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">

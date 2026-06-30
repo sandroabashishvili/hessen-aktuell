@@ -518,6 +518,53 @@
   font-weight: 700;
 }
 
+.site-footer__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.site-footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.site-footer__links a {
+  color: var(--muted);
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.site-footer__links a:hover,
+.site-footer__links a:focus-visible {
+  color: var(--brand-dark);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.legal-panel {
+  max-width: 900px;
+}
+
+.legal-copy {
+  margin-top: 22px;
+}
+
+.legal-copy h3 {
+  margin: 24px 0 8px;
+  font-size: 1.02rem;
+}
+
+.legal-copy p {
+  max-width: 760px;
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
 .service-link-card strong {
   color: var(--accent-dark);
   font-size: 1.05rem;

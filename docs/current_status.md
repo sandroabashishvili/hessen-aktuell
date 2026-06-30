@@ -1,7 +1,7 @@
 # Current Status
 
 სტატუსი: `source adapter MVP`
-განახლდა: `2026-06-26`
+განახლდა: `2026-06-30`
 
 ## სად ვართ ახლა
 
@@ -42,6 +42,9 @@
 - `/service/` page added with trusted service links for official warnings, administration, police, health, transport, work, family, education, and integration
 - homepage service teaser added in the former empty right-side panel
 - root `404.html` added for GitHub Pages, with noindex and links back to main public sections
+- publish-ready pass completed on `2026-06-30`:
+  legal pages, footer links, mobile navigation hooks, absolute canonical/OG URLs, sitemap, robots, social preview asset, internal links, and SEO meta were checked.
+  Latest diagnostics: source links `12/12 ok`, internal links `1454 ok`, sitemap `28 URLs / 0 missing`, SEO meta `196 ok / 0 missing`.
 
 ## რა გავაკეთეთ უკვე
 

@@ -48,11 +48,13 @@
 
 ## Static Pages
 
-ამ ეტაპზე static public page არის:
+ამ ეტაპზე static public pages არის:
 
 - `/about/index.html`
+- `/legal/impressum.html`
+- `/legal/datenschutz.html`
 
-ეს გვერდი ჯერ არ გვექარება. თუ მოგვიანებით ხშირად შეიცვლება ან source transparency/dashboard logic დასჭირდება, გადავა `AboutPageBuilder`-ზე.
+ეს გვერდები ჯერ არ გვექარება. თუ მოგვიანებით ხშირად შეიცვლება ან source transparency/dashboard logic დასჭირდება, გადავა builder-ზე.
 
 ## Builders
 

@@ -8,7 +8,12 @@ cd "$PROJECT_ROOT"
 export HESSEN_AKTUELL_BASE_URL
 
 python3 -m shared.py.news_pipeline
-python3 -m shared.py.diagnostics
+
+if [[ "${SKIP_DIAGNOSTICS:-0}" == "1" ]]; then
+  echo "Diagnostics skipped."
+else
+  python3 -m shared.py.diagnostics
+fi
 
 if git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   git status --short

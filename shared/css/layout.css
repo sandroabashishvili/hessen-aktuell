@@ -31,6 +31,7 @@ a {
 
 .site-header {
   position: relative;
+  overflow: visible;
   padding: 40px 0 22px;
 }
 
@@ -42,8 +43,14 @@ a {
     padding-top: 24px;
     padding-bottom: 28px;
     background: #f7f1e8;
-    box-shadow: 0 0 0 100vmax #f7f1e8;
-    clip-path: inset(0 -100vmax);
+  }
+
+  .site-header::before {
+    position: absolute;
+    z-index: -1;
+    inset: 0 calc(50% - 50vw);
+    background: #f7f1e8;
+    content: "";
   }
 
   .site-brand-mark {

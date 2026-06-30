@@ -138,6 +138,9 @@
   }
 
   .site-footer__inner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
     padding-bottom: 28px;
   }
 }

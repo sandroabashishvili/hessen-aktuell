@@ -1,0 +1,150 @@
+{
+  "generated_at": "2026-06-30 21:41:59 Europe/Berlin",
+  "total": 28,
+  "ok": 28,
+  "missing": 0,
+  "sitemap_url_count": 28,
+  "robots_exists": true,
+  "checks": [
+    {
+      "route": "/hessen-aktuell/about/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-21/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-22/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-23/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-24/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-25/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-26/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-27/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-28/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-29/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/2026-06-30/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/archive/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/cities/darmstadt/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/cities/frankfurt/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/cities/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/cities/kassel/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/cities/wiesbaden/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/legal/datenschutz.html/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/legal/impressum.html/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/service/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/economy/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/events/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/police/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/politics/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/safety/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    },
+    {
+      "route": "/hessen-aktuell/topics/transport/",
+      "status": "ok",
+      "note": "covered by sitemap"
+    }
+  ]
+}
