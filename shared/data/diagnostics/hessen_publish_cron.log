@@ -183,3 +183,7 @@ Diagnostics skipped.
  M topics/politics/index.html
  M topics/safety/index.html
  M topics/transport/index.html
+[main cdc33c8] Update Hessen Aktuell generated site
+ 14 files changed, 675 insertions(+), 625 deletions(-)
+To https://github.com/sandroabashishvili/hessen-aktuell.git
+   8d09c71..cdc33c8  main -> main
