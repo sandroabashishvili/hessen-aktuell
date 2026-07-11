@@ -935,3 +935,43 @@ Diagnostics skipped.
  M topics/politics/index.html
  M topics/safety/index.html
  M topics/transport/index.html
+[main 5584110] Update Hessen Aktuell generated site
+ 15 files changed, 726 insertions(+), 759 deletions(-)
+To https://github.com/sandroabashishvili/hessen-aktuell.git
+   df915b7..5584110  main -> main
+{
+  "mode": "source_adapter_mvp",
+  "count": 55,
+  "daily_json_path": "/home/sandro/portfolio_projects/hessen_aktuell/shared/data/news/news_items_2026-07-11.json",
+  "daily_archive_path": "/home/sandro/portfolio_projects/hessen_aktuell/archive/2026-07-11/index.html",
+  "archive_index_path": "/home/sandro/portfolio_projects/hessen_aktuell/archive/index.html",
+  "home_index_path": "/home/sandro/portfolio_projects/hessen_aktuell/index.html",
+  "city_pages": {
+    "Darmstadt": "/home/sandro/portfolio_projects/hessen_aktuell/cities/darmstadt/index.html",
+    "Frankfurt": "/home/sandro/portfolio_projects/hessen_aktuell/cities/frankfurt/index.html",
+    "Kassel": "/home/sandro/portfolio_projects/hessen_aktuell/cities/kassel/index.html",
+    "Wiesbaden": "/home/sandro/portfolio_projects/hessen_aktuell/cities/wiesbaden/index.html",
+    "index": "/home/sandro/portfolio_projects/hessen_aktuell/cities/index.html"
+  },
+  "topic_pages": {
+    "Politics": "/home/sandro/portfolio_projects/hessen_aktuell/topics/politics/index.html",
+    "Transport": "/home/sandro/portfolio_projects/hessen_aktuell/topics/transport/index.html",
+    "Police": "/home/sandro/portfolio_projects/hessen_aktuell/topics/police/index.html",
+    "Economy": "/home/sandro/portfolio_projects/hessen_aktuell/topics/economy/index.html",
+    "Safety": "/home/sandro/portfolio_projects/hessen_aktuell/topics/safety/index.html",
+    "index": "/home/sandro/portfolio_projects/hessen_aktuell/topics/index.html"
+  },
+  "service_page": "/home/sandro/portfolio_projects/hessen_aktuell/service/index.html",
+  "sitemap_path": "/home/sandro/portfolio_projects/hessen_aktuell/sitemap.xml",
+  "robots_path": "/home/sandro/portfolio_projects/hessen_aktuell/robots.txt",
+  "sitemap_url_count": 28
+}
+Diagnostics skipped.
+ D archive/2026-07-01/index.html
+ M archive/index.html
+ M index.html
+ M shared/data/diagnostics/hessen_publish_cron.log
+ D shared/data/news/news_items_2026-07-01.json
+ M sitemap.xml
+?? archive/2026-07-11/
+?? shared/data/news/news_items_2026-07-11.json
