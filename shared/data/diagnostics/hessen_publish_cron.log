@@ -1192,3 +1192,7 @@ Diagnostics skipped.
  M topics/politics/index.html
  M topics/safety/index.html
  M topics/transport/index.html
+[main 2bb00fd] Update Hessen Aktuell generated site
+ 12 files changed, 694 insertions(+), 648 deletions(-)
+To https://github.com/sandroabashishvili/hessen-aktuell.git
+   f6aab51..2bb00fd  main -> main
