@@ -1667,3 +1667,98 @@ Diagnostics skipped.
  M topics/index.html
  M topics/police/index.html
  M topics/transport/index.html
+[main 12df09f] Update Hessen Aktuell generated site
+ 9 files changed, 203 insertions(+), 159 deletions(-)
+To https://github.com/sandroabashishvili/hessen-aktuell.git
+   f8edc49..12df09f  main -> main
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/http/client.py", line 584, in _get_chunk_left
+    chunk_left = self._read_next_chunk_size()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 551, in _read_next_chunk_size
+    return int(line, 16)
+           ^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 16: b''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/http/client.py", line 600, in _read_chunked
+    while (chunk_left := self._get_chunk_left()) is not None:
+                         ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 586, in _get_chunk_left
+    raise IncompleteRead(b'')
+http.client.IncompleteRead: IncompleteRead(0 bytes read)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/sandro/portfolio_projects/hessen_aktuell/shared/py/news_pipeline/__main__.py", line 9, in <module>
+    result = run_news_generation()
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sandro/portfolio_projects/hessen_aktuell/shared/py/news_pipeline/orchestrator.py", line 29, in run_news_generation
+    items = collect_news_items(day_iso)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sandro/portfolio_projects/hessen_aktuell/shared/py/news_pipeline/collector.py", line 17, in collect_news_items
+    source_items = collect_source_items(source, resolved_day)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sandro/portfolio_projects/hessen_aktuell/shared/py/news_pipeline/adapters.py", line 23, in collect_source_items
+    return collect_polizei_nordhessen_items(source, day_iso)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sandro/portfolio_projects/hessen_aktuell/shared/py/news_pipeline/adapters.py", line 66, in collect_polizei_nordhessen_items
+    html = fetch_text(source.url)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/sandro/portfolio_projects/hessen_aktuell/shared/py/news_pipeline/http_client.py", line 15, in fetch_text
+    return response.read().decode(content_type, errors="replace")
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 478, in read
+    return self._read_chunked(amt)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/http/client.py", line 612, in _read_chunked
+    raise IncompleteRead(b''.join(value)) from exc
+http.client.IncompleteRead: IncompleteRead(0 bytes read)
+{
+  "mode": "source_adapter_mvp",
+  "count": 56,
+  "daily_json_path": "/home/sandro/portfolio_projects/hessen_aktuell/shared/data/news/news_items_2026-07-19.json",
+  "daily_archive_path": "/home/sandro/portfolio_projects/hessen_aktuell/archive/2026-07-19/index.html",
+  "archive_index_path": "/home/sandro/portfolio_projects/hessen_aktuell/archive/index.html",
+  "home_index_path": "/home/sandro/portfolio_projects/hessen_aktuell/index.html",
+  "city_pages": {
+    "Darmstadt": "/home/sandro/portfolio_projects/hessen_aktuell/cities/darmstadt/index.html",
+    "Frankfurt": "/home/sandro/portfolio_projects/hessen_aktuell/cities/frankfurt/index.html",
+    "Kassel": "/home/sandro/portfolio_projects/hessen_aktuell/cities/kassel/index.html",
+    "Wiesbaden": "/home/sandro/portfolio_projects/hessen_aktuell/cities/wiesbaden/index.html",
+    "index": "/home/sandro/portfolio_projects/hessen_aktuell/cities/index.html"
+  },
+  "topic_pages": {
+    "Politics": "/home/sandro/portfolio_projects/hessen_aktuell/topics/politics/index.html",
+    "Transport": "/home/sandro/portfolio_projects/hessen_aktuell/topics/transport/index.html",
+    "Police": "/home/sandro/portfolio_projects/hessen_aktuell/topics/police/index.html",
+    "Economy": "/home/sandro/portfolio_projects/hessen_aktuell/topics/economy/index.html",
+    "Events": "/home/sandro/portfolio_projects/hessen_aktuell/topics/events/index.html",
+    "Safety": "/home/sandro/portfolio_projects/hessen_aktuell/topics/safety/index.html",
+    "index": "/home/sandro/portfolio_projects/hessen_aktuell/topics/index.html"
+  },
+  "service_page": "/home/sandro/portfolio_projects/hessen_aktuell/service/index.html",
+  "sitemap_path": "/home/sandro/portfolio_projects/hessen_aktuell/sitemap.xml",
+  "robots_path": "/home/sandro/portfolio_projects/hessen_aktuell/robots.txt",
+  "sitemap_url_count": 29
+}
+Diagnostics skipped.
+ D archive/2026-07-09/index.html
+ M archive/index.html
+ M cities/frankfurt/index.html
+ M cities/wiesbaden/index.html
+ M index.html
+ M shared/data/diagnostics/hessen_publish_cron.log
+ D shared/data/news/news_items_2026-07-09.json
+ M sitemap.xml
+ M topics/events/index.html
+ M topics/index.html
+ M topics/police/index.html
+ M topics/transport/index.html
+?? archive/2026-07-19/
+?? shared/data/news/news_items_2026-07-19.json
