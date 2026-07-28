@@ -8,4 +8,5 @@ __pycache__/
 Thumbs.db
 
 shared/data/automation_logs/
+shared/data/diagnostics/*_report_*.json
 Screenshot*.png

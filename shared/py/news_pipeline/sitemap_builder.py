@@ -30,7 +30,7 @@ def _public_html_pages(project_root: Path) -> list[Path]:
     ignored_parts = {".git", "docs", "shared", "__pycache__"}
     pages: list[Path] = []
     for path in project_root.rglob("*.html"):
-        if path.name == "404.html":
+        if path.name == "404.html" or path.name.startswith("google"):
             continue
         relative_parts = set(path.relative_to(project_root).parts)
         if relative_parts.intersection(ignored_parts):

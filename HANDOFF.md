@@ -1,6 +1,6 @@
 # Hessen Aktuell Handoff
 
-Date: 2026-06-25
+Date: 2026-07-28
 Project path: /home/sandro/portfolio_projects/hessen_aktuell
 Windows path: \\wsl$\Ubuntu\home\sandro\portfolio_projects\hessen_aktuell
 
@@ -13,6 +13,10 @@ Finish Hessen Aktuell as a GitHub Pages-ready regional news portal that can run 
 - Added GitHub Pages support file: .nojekyll
 - Added publish/build script: scripts/build_publish.sh
 - Added Windows Task Scheduler wrapper: scripts/windows_task_update.ps1
+- Added an official-source jobs pipeline and public `/jobs/` page.
+- Initial job sources: Stadt Kassel and Hessen Mobil.
+- Added job source policy: docs/jobs_source_policy.md.
+- Added Jobs to shared navigation and sitemap generation.
 - Updated diagnostics sitemap checker for GitHub Pages project base path.
 - Updated diagnostics overall status so transient external source timeout/empty states remain visible but do not block publishing when the generated site itself is healthy
 - Rewrote README.md as a clean ASCII publish/run guide after previous encoding damage
@@ -27,6 +31,8 @@ Finish Hessen Aktuell as a GitHub Pages-ready regional news portal that can run 
 - shared/py/diagnostics/sitemap.py
 - shared/py/news_pipeline/config.py
 - shared/py/news_pipeline/sitemap_builder.py
+- shared/py/jobs_pipeline/
+- docs/jobs_source_policy.md
 
 ## Verified Command
 
@@ -53,19 +59,15 @@ Notes from latest runs:
 
 ## Next Steps
 
-1. Initialize git in /home/sandro/portfolio_projects/hessen_aktuell or create a GitHub repo first.
-2. Repository name: hessen-aktuell
-3. Add remote, commit, push.
-4. Enable GitHub Pages for the repo.
-5. Confirm the public URL: https://sandroabashishvili.github.io/hessen-aktuell
-6. Run the publish command again with HESSEN_AKTUELL_BASE_URL set to the public URL.
-7. After repo push works, test AUTO_COMMIT=1 behavior:
+1. Add more official job sources only after checking their access and reuse rules.
+2. Keep monitoring source freshness and parser stability.
+3. Continue SEO and Google indexing verification.
+4. Test AUTO_COMMIT=1 behavior when scheduled publishing is enabled:
 
        cd /home/sandro/portfolio_projects/hessen_aktuell
        HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" AUTO_COMMIT=1 bash scripts/build_publish.sh
 
-8. Set up Windows Task Scheduler to run scripts/windows_task_update.ps1 on a schedule.
-9. Check logs under shared/data/automation_logs after scheduler runs.
+5. Check logs under shared/data/automation_logs after scheduler runs.
 
 ## Runtime Recommendation
 

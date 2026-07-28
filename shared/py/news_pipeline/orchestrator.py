@@ -6,6 +6,7 @@ import json
 import shutil
 from zoneinfo import ZoneInfo
 
+from ..jobs_pipeline import run_jobs_generation
 from .archive_builder import ArchiveBuilder
 from .city_builder import CityPageBuilder
 from .collector import collect_news_items
@@ -72,6 +73,7 @@ def run_news_generation(config: HessenNewsPipelineConfig | None = None) -> dict[
     city_paths["index"] = str(city_builder.build_index(resolved.project_root, city_names, items))
     topic_paths = TopicPageBuilder().build_all(resolved.project_root, day_iso, items)
     service_path = ServicePageBuilder().build(resolved.project_root)
+    jobs_result = run_jobs_generation(resolved.project_root)
     sitemap_result = build_sitemap(resolved.project_root, base_url=resolved.site_base_url)
 
     return {
@@ -84,6 +86,7 @@ def run_news_generation(config: HessenNewsPipelineConfig | None = None) -> dict[
         "city_pages": city_paths,
         "topic_pages": topic_paths,
         "service_page": str(service_path),
+        "jobs": jobs_result,
         "sitemap_path": str(sitemap_result.sitemap_path),
         "robots_path": str(sitemap_result.robots_path),
         "sitemap_url_count": sitemap_result.url_count,

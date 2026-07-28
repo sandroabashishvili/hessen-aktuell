@@ -1,7 +1,7 @@
 # Current Status
 
-სტატუსი: `source adapter MVP`
-განახლდა: `2026-06-30`
+სტატუსი: `news + jobs source adapter MVP`
+განახლდა: `2026-07-28`
 
 ## სად ვართ ახლა
 
@@ -21,6 +21,11 @@
 - page-family folders დაემატა
 - shared layer უკვე ცალკეა გამოტანილი
 - source-aware MVP news pipeline დაემატა
+- ოფიციალური ვაკანსიების pipeline დაემატა
+- `/jobs/` გვერდი ავტომატურად იღებს მიმდინარე ვაკანსიებს `Stadt Kassel`-ისა და `Hessen Mobil`-ისგან
+- ვაკანსიის სრული ტექსტი არ კოპირდება; გვერდზე ჩანს მხოლოდ ძირითადი მონაცემები და ოფიციალური ბმული
+- გასული ვადის ვაკანსიები ავტომატურად გამოირიცხება
+- Jobs დაემატა საერთო ნავიგაციასა და sitemap-ს
 - homepage და daily archive უკვე შეიძლება გენერირდეს whitelist source entries-იდან
 - `Stadt Kassel Aktuelles` HTML adapter უკვე იღებს მინიმალურ რეალურ fields-ს Pressemitteilungen სექციიდან
 - `Landkreis Kassel Pressemitteilungen` HTML adapter უკვე იღებს მინიმალურ რეალურ fields-ს search result teaser list-იდან

@@ -17,6 +17,7 @@ veröffentlichbare Website.
 - Adapter für freigegebene offizielle oder etablierte Quellen
 - Quellenangabe und direkter Link zum Original bei jeder Meldung
 - tägliche Archive sowie Stadt- und Themenseiten
+- automatisch gepflegte Stellenangebote aus offiziellen Arbeitgeberportalen
 - lokal erzeugte, thematisch passende Kartenbilder
 - automatisierte Sitemap, `robots.txt`, Canonicals und Social-Media-Metadaten
 - Diagnosen für Quellen, interne Links, SEO-Felder und Inhaltsverteilung
@@ -69,6 +70,7 @@ python3 -m http.server 8000
 ├── cities/                 # generierte Stadtseiten
 ├── topics/                 # generierte Themenseiten
 ├── archive/                # tägliche Archive
+├── jobs/                   # generierte aktuelle Stellenangebote
 ├── service/                # nützliche offizielle Dienste
 ├── docs/                   # Architektur und Projektregeln
 ├── scripts/                # Build- und Automatisierungsskripte
@@ -78,10 +80,10 @@ python3 -m http.server 8000
 ## Status und nächste Ausbaustufe
 
 Der aktuelle Stand ist ein funktionsfähiger Portfolio-MVP und noch kein
-vollständiges redaktionelles Produkt. Als Nächstes sind insbesondere eine
-eigene automatisch gepflegte Stellenangebote-Sektion, weitere
-SEO-/Indexierungsarbeit und eine stabilere langfristige Automatisierung
-vorgesehen.
+vollständiges redaktionelles Produkt. Nachrichten und Stellenangebote werden
+aus freigegebenen Quellen erzeugt. Als Nächstes folgen weitere offizielle
+Jobquellen, zusätzliche SEO-/Indexierungsarbeit und eine stabilere
+langfristige Automatisierung.
 
 Details stehen in [docs/current_status.md](docs/current_status.md).
 

@@ -96,6 +96,7 @@ def page_nav(prefix: str) -> str:
         </div>
       </div>
       <a href="{prefix}archive/">Archiv</a>
+      <a href="{prefix}jobs/">Jobs</a>
       <a href="{prefix}service/">Service</a>
       <a href="{prefix}about/">Über uns</a>
     </nav>"""

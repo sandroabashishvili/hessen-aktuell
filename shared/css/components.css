@@ -115,6 +115,119 @@
   transform: translateX(2px);
 }
 
+.jobs-intro {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.jobs-update {
+  min-width: 190px;
+  padding: 14px 16px;
+  border: 1px solid rgba(155, 77, 31, 0.16);
+  border-radius: var(--panel-radius);
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.jobs-update span,
+.jobs-update strong {
+  display: block;
+}
+
+.jobs-update span {
+  color: var(--muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.jobs-update strong {
+  margin-top: 5px;
+}
+
+.jobs-grid,
+.jobs-portals {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--card-gap);
+}
+
+.job-card {
+  min-width: 0;
+  padding: var(--card-padding);
+  border: 1px solid rgba(155, 77, 31, 0.14);
+  border-radius: var(--panel-radius);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.job-card h3 {
+  margin: 7px 0 16px;
+  font-size: 1.16rem;
+  line-height: 1.25;
+}
+
+.job-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.job-meta span {
+  padding: 8px 10px;
+  border: 1px solid rgba(155, 77, 31, 0.14);
+  border-radius: 8px;
+  background: rgba(246, 237, 225, 0.62);
+  font-size: 0.84rem;
+}
+
+.job-meta small {
+  display: block;
+  margin-bottom: 3px;
+  color: var(--muted);
+  font-size: 0.63rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.job-portal-card {
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid rgba(155, 77, 31, 0.14);
+  border-radius: var(--panel-radius);
+  background: rgba(255, 255, 255, 0.5);
+  color: var(--text);
+  text-decoration: none;
+}
+
+.job-portal-card strong,
+.job-portal-card span,
+.job-portal-card em {
+  display: block;
+}
+
+.job-portal-card span {
+  margin-top: 7px;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.job-portal-card em {
+  margin-top: 13px;
+  color: var(--brand-dark);
+  font-size: 0.85rem;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.jobs-empty {
+  grid-column: 1 / -1;
+  padding: 20px;
+  border: 1px dashed rgba(155, 77, 31, 0.25);
+  border-radius: var(--panel-radius);
+}
+
 .panel-head {
   display: flex;
   align-items: end;

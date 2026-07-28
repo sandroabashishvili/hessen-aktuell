@@ -20,6 +20,16 @@
     grid-template-columns: 1fr;
   }
 
+  .jobs-grid,
+  .jobs-portals {
+    grid-template-columns: 1fr;
+  }
+
+  .jobs-intro {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
   .panel-head {
     align-items: start;
     flex-direction: column;
