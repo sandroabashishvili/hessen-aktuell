@@ -20,6 +20,17 @@ Bevorzugt werden:
 Kommerzielle Jobbörsen werden nicht ohne ausdrückliche API- oder
 Syndizierungsfreigabe automatisch kopiert.
 
+## Aktive Quellen
+
+- Stadt Kassel;
+- Hessen Mobil;
+- Stadt Frankfurt am Main;
+- Landeshauptstadt Wiesbaden;
+- Wissenschaftsstadt Darmstadt.
+
+Die zentrale Stellendatenbank des Landes Hessen und die Jobsuche der
+Bundesagentur für Arbeit bleiben als direkte Portal-Links verfügbar.
+
 ## Veröffentlichte Felder
 
 - Stellenbezeichnung;

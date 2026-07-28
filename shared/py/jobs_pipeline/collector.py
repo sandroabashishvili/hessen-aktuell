@@ -52,6 +52,12 @@ def _is_expired(value: str) -> bool:
 
 
 def _deadline_date(value: str) -> date | None:
+    numeric = " ".join(value.split())
+    try:
+        return datetime.strptime(numeric, "%d.%m.%Y").date()
+    except ValueError:
+        pass
+
     cleaned = " ".join(value.lower().replace(".", " ").split())
     parts = cleaned.split()
     if len(parts) < 3:

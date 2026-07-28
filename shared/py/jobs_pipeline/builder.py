@@ -17,7 +17,9 @@ CATEGORY_RULES = (
         "events",
         (
             "ausbildung",
+            "duales",
             "praktik",
+            "studium",
             "student",
             "werkstudent",
         ),
@@ -27,9 +29,14 @@ CATEGORY_RULES = (
         "economy",
         (
             "administrator",
+            "client ",
+            "datenanal",
             "digital",
+            "dv-",
             "informat",
             "it-",
+            "ki-",
+            "m365",
             "netzwerk",
             "software",
             "system",
@@ -40,11 +47,30 @@ CATEGORY_RULES = (
         "transport",
         (
             "architekt",
+            "bauunterhalt",
             "bauingenieur",
             "baumaß",
             "ingenieur",
             "projektsteuer",
+            "stadtplan",
+            "vermess",
             "verkehrstechnik",
+        ),
+    ),
+    (
+        "Natur & Handwerk",
+        "economy",
+        (
+            "forst",
+            "friedhof",
+            "gärtner",
+            "garten",
+            "grünfläche",
+            "handwerk",
+            "landschaftspflege",
+            "park",
+            "pflaster",
+            "tierpfleg",
         ),
     ),
     (
@@ -54,7 +80,10 @@ CATEGORY_RULES = (
             "geräte",
             "kfz",
             "liegenschaft",
+            "messgehilfe",
             "meister",
+            "platzwart",
+            "straßenwärter",
             "straßenbetriebsdienst",
             "straßenmeister",
             "techniker",
@@ -69,6 +98,11 @@ CATEGORY_RULES = (
             "facharzt",
             "gesundheit",
             "hygiene",
+            "erzieher",
+            "jugendhilfe",
+            "kinderbetreuung",
+            "kindertagesstätte",
+            "kita",
             "pflege",
             "pädagog",
             "psycholog",
@@ -76,11 +110,35 @@ CATEGORY_RULES = (
         ),
     ),
     (
+        "Kultur & Kommunikation",
+        "events",
+        (
+            "akademie",
+            "archiv",
+            "ausstellung",
+            "kommunikation",
+            "kultur",
+            "marketing",
+            "museum",
+            "protokoll",
+            "publikation",
+            "redaktion",
+            "repräsentation",
+            "tonkunst",
+        ),
+    ),
+    (
         "Verwaltung & Organisation",
         "politics",
         (
             "leitung",
+            "fachassist",
+            "jobcenter",
+            "projektmanager",
             "sachbearbeit",
+            "sekretariat",
+            "standesbeam",
+            "steuer",
             "verwaltung",
         ),
     ),
@@ -88,48 +146,34 @@ CATEGORY_RULES = (
 
 DEFAULT_CATEGORY = "Weitere Bereiche"
 DEFAULT_VISUAL_TOPIC = "economy"
+PAGE_SIZE = 8
 JOB_IMAGE_POOLS = {
     "Studium & Einstieg": (
-        "events-03.webp",
-        "politics-04.webp",
-        "economy-03.webp",
-        "events-02.webp",
+        "jobs-studium-einstieg.webp",
     ),
     "IT & Digitales": (
-        "economy-03.webp",
-        "economy-04.webp",
-        "politics-04.webp",
-        "economy-01.webp",
+        "jobs-it-digital.webp",
     ),
     "Bau & Ingenieurwesen": (
-        "transport-03.webp",
-        "economy-02.webp",
-        "economy-01.webp",
-        "transport-04.webp",
+        "jobs-bau-ingenieurwesen.webp",
     ),
     "Technik & Betrieb": (
-        "transport-01.webp",
-        "transport-02.webp",
-        "transport-04.webp",
-        "safety-01.webp",
+        "jobs-technik-betrieb.webp",
     ),
     "Gesundheit & Soziales": (
-        "safety-03.webp",
-        "politics-04.webp",
-        "economy-03.webp",
-        "events-03.webp",
+        "jobs-gesundheit-soziales.webp",
     ),
     "Verwaltung & Organisation": (
-        "politics-01.webp",
-        "politics-02.webp",
-        "politics-03.webp",
-        "politics-04.webp",
+        "jobs-verwaltung.webp",
+    ),
+    "Natur & Handwerk": (
+        "jobs-natur-handwerk.webp",
+    ),
+    "Kultur & Kommunikation": (
+        "jobs-kultur-kommunikation.webp",
     ),
     DEFAULT_CATEGORY: (
-        "economy-01.webp",
-        "economy-02.webp",
-        "economy-03.webp",
-        "economy-04.webp",
+        "jobs-verwaltung.webp",
     ),
 }
 
@@ -150,13 +194,24 @@ class JobsPageBuilder:
             for index, job in enumerate(jobs)
         ]
         cards = "\n".join(
-            _job_card(job, category, visual_topic, filter_city, index)
+            _job_card(
+                job,
+                category,
+                visual_topic,
+                filter_city,
+                index,
+                initially_hidden=index >= PAGE_SIZE,
+            )
             for job, category, visual_topic, filter_city, index in decorated_jobs
         )
-        source_summary = " · ".join(
-            f"{escape(source.name)}: {source_counts.get(source.source_id, 0)}"
-            for source in JOB_SOURCES
+        active_sources = [
+            source for source in JOB_SOURCES
+            if source_counts.get(source.source_id, 0)
+        ]
+        source_summary = (
+            f"{len(active_sources)} offizielle Arbeitgeberportale"
         )
+        source_names = ", ".join(source.name for source in active_sources)
         cities = sorted(
             {filter_city for _, _, _, filter_city, _ in decorated_jobs if filter_city},
             key=str.casefold,
@@ -170,6 +225,7 @@ class JobsPageBuilder:
                 jobs_count=len(jobs),
                 cards=cards,
                 source_summary=source_summary,
+                source_names=source_names,
                 generated_at=generated_at,
                 cities=cities,
                 categories=categories,
@@ -184,6 +240,7 @@ def _render_page(
     jobs_count: int,
     cards: str,
     source_summary: str,
+    source_names: str,
     generated_at: str,
     cities: list[str],
     categories: list[str],
@@ -230,7 +287,7 @@ def _render_page(
       <div>
         <p class="section-label">Aktuelle Stellenangebote</p>
         <h2 id="jobs-heading">{jobs_count} Stellen aus offiziellen Quellen</h2>
-        <p>{source_summary} · geprüft am {escape(generated_at)}</p>
+        <p>{escape(source_summary)} · geprüft am {escape(generated_at)}</p>
       </div>
     </section>
 
@@ -262,15 +319,21 @@ def _render_page(
     </div>
 
     <section class="jobs-feed" aria-label="Gefundene Stellenangebote">
-      <div class="story-stack story-grid jobs-grid" id="jobs-list">
+      <div class="story-stack story-grid jobs-grid" id="jobs-list" data-page-size="{PAGE_SIZE}">
 {cards}
       </div>
       <p class="jobs-empty" id="jobs-empty" hidden>{empty_message}</p>
+      <nav class="jobs-pagination" id="job-pagination" aria-label="Seitennavigation">
+        <button id="job-page-prev" type="button">← Zurück</button>
+        <span id="job-page-status">Seite 1</span>
+        <button id="job-page-next" type="button">Weiter →</button>
+      </nav>
     </section>
 
     <section class="jobs-more">
       <h2>Weitere offizielle Portale</h2>
       <p>{portal_links}</p>
+      <p class="jobs-source-note">Automatisch ausgewertete Quellen: {escape(source_names)}.</p>
     </section>
 
     <p class="jobs-disclaimer">Hessen Aktuell speichert keine Bewerbungsdaten und übernimmt keine vollständigen Ausschreibungstexte. Verbindlich sind Angaben und Fristen beim jeweiligen Arbeitgeber.</p>
@@ -288,6 +351,8 @@ def _job_card(
     visual_topic: str,
     filter_city: str,
     index: int,
+    *,
+    initially_hidden: bool,
 ) -> str:
     search_text = " ".join(
         (
@@ -313,14 +378,14 @@ def _job_card(
         else ""
     )
     image_name = _job_image_name(job, category, visual_topic, index)
-    image_topic = image_name.split("-", 1)[0]
+    hidden_attribute = " hidden" if initially_hidden else ""
     return f"""
-        <article class="story-card job-card"
+        <article class="story-card job-card"{hidden_attribute}
           data-job-city="{escape(_filter_value(filter_city), quote=True)}"
           data-job-category="{escape(_filter_value(category), quote=True)}"
           data-job-search="{escape(_filter_value(search_text), quote=True)}">
-          <a class="story-media story-media-generated story-media-{escape(image_topic)}" href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank" aria-label="{escape(job.title, quote=True)} – Originalausschreibung">
-            <img src="../shared/assets/news/topics/{escape(image_name, quote=True)}" alt="" loading="lazy" decoding="async" width="1100" height="619">
+          <a class="story-media story-media-generated job-media" href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank" aria-label="{escape(job.title, quote=True)} – Originalausschreibung">
+            <img src="../shared/assets/jobs/{escape(image_name, quote=True)}" alt="" loading="lazy" decoding="async" width="1100" height="480">
           </a>
           <p class="story-kicker">{escape(category)} · {escape(job.employer)}</p>
           <h3><a href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank">{escape(job.title)}</a></h3>
@@ -356,8 +421,13 @@ def _job_image_name(
 def _job_city_label(location: str) -> str:
     cleaned = " ".join(location.split())
     lowered = cleaned.casefold()
-    if lowered.startswith("straßenmeisterei "):
-        return cleaned[len("Straßenmeisterei "):]
+    if lowered.startswith(("strassenmeisterei ", "straßenmeisterei ")):
+        return re.sub(
+            r"^stra(?:ß|ss)enmeisterei\s+",
+            "",
+            cleaned,
+            flags=re.I,
+        )
     if lowered.startswith("sm "):
         return cleaned[3:]
     if lowered.startswith("wahlweise "):

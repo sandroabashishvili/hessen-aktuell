@@ -32,6 +32,19 @@
     width: 100%;
   }
 
+  .jobs-pagination {
+    gap: 10px;
+  }
+
+  .jobs-pagination button {
+    padding-inline: 10px;
+  }
+
+  .jobs-pagination span {
+    min-width: 92px;
+    font-size: 0.88rem;
+  }
+
   .jobs-overview {
     padding-top: 2px;
   }

@@ -23,6 +23,30 @@ JOB_SOURCES: tuple[JobSource, ...] = (
         default_location="Hessen",
         priority=20,
     ),
+    JobSource(
+        source_id="stadt-frankfurt-jobs",
+        name="Stadt Frankfurt",
+        url="https://stadtfrankfurtjobs.de/",
+        employer="Stadt Frankfurt am Main",
+        default_location="Frankfurt",
+        priority=30,
+    ),
+    JobSource(
+        source_id="stadt-wiesbaden-jobs",
+        name="Stadt Wiesbaden",
+        url="https://karriere.wiesbaden.de/",
+        employer="Landeshauptstadt Wiesbaden",
+        default_location="Wiesbaden",
+        priority=40,
+    ),
+    JobSource(
+        source_id="stadt-darmstadt-jobs",
+        name="Stadt Darmstadt",
+        url="https://karriere.darmstadt.de/de",
+        employer="Wissenschaftsstadt Darmstadt",
+        default_location="Darmstadt",
+        priority=50,
+    ),
 )
 
 
@@ -36,10 +60,5 @@ FALLBACK_JOB_PORTALS: tuple[tuple[str, str, str], ...] = (
         "Bundesagentur für Arbeit",
         "Offizielle Jobsuche für Beschäftigung und Ausbildung.",
         "https://www.arbeitsagentur.de/jobsuche/",
-    ),
-    (
-        "Stadt Frankfurt",
-        "Karriereportal und Stellenangebote der Stadtverwaltung Frankfurt.",
-        "https://frankfurt.de/karriere",
     ),
 )

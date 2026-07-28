@@ -22,10 +22,17 @@ const jobSearch = document.getElementById("job-search");
 const jobCity = document.getElementById("job-city");
 const jobCategory = document.getElementById("job-category");
 const jobReset = document.getElementById("job-filter-reset");
+const jobList = document.getElementById("jobs-list");
 const jobCards = Array.from(document.querySelectorAll("[data-job-search]"));
 const jobResultCount = document.getElementById("job-result-count");
 const jobResultLabel = document.getElementById("job-result-label");
 const jobEmpty = document.getElementById("jobs-empty");
+const jobPagination = document.getElementById("job-pagination");
+const jobPagePrev = document.getElementById("job-page-prev");
+const jobPageNext = document.getElementById("job-page-next");
+const jobPageStatus = document.getElementById("job-page-status");
+const jobPageSize = Number(jobList?.dataset.pageSize || 8);
+let jobCurrentPage = 1;
 
 const normalizeFilterText = (value) =>
   value
@@ -35,48 +42,85 @@ const normalizeFilterText = (value) =>
     .replace(/\s+/g, " ")
     .trim();
 
-const applyJobFilters = () => {
+const applyJobFilters = ({ resetPage = false, scrollToResults = false } = {}) => {
   if (!jobSearch || !jobCity || !jobCategory) {
     return;
+  }
+  if (resetPage) {
+    jobCurrentPage = 1;
   }
 
   const query = normalizeFilterText(jobSearch.value);
   const city = jobCity.value;
   const category = jobCategory.value;
-  let visible = 0;
-
-  jobCards.forEach((card) => {
+  const matchingCards = jobCards.filter((card) => {
     const matchesQuery = !query || card.dataset.jobSearch.includes(query);
     const matchesCity = !city || card.dataset.jobCity === city;
     const matchesCategory = !category || card.dataset.jobCategory === category;
-    const matches = matchesQuery && matchesCity && matchesCategory;
-    card.hidden = !matches;
-    if (matches) {
-      visible += 1;
-    }
+    return matchesQuery && matchesCity && matchesCategory;
+  });
+  const totalMatches = matchingCards.length;
+  const totalPages = Math.max(1, Math.ceil(totalMatches / jobPageSize));
+  jobCurrentPage = Math.min(jobCurrentPage, totalPages);
+  const pageStart = (jobCurrentPage - 1) * jobPageSize;
+  const pageCards = new Set(
+    matchingCards.slice(pageStart, pageStart + jobPageSize)
+  );
+  jobCards.forEach((card) => {
+    card.hidden = !pageCards.has(card);
   });
 
   if (jobResultCount) {
-    jobResultCount.textContent = String(visible);
+    jobResultCount.textContent = String(totalMatches);
   }
   if (jobResultLabel) {
-    jobResultLabel.textContent = visible === 1 ? "Stelle gefunden" : "Stellen gefunden";
+    jobResultLabel.textContent =
+      totalMatches === 1 ? "Stelle gefunden" : "Stellen gefunden";
   }
   if (jobEmpty) {
-    jobEmpty.hidden = visible !== 0;
+    jobEmpty.hidden = totalMatches !== 0;
+  }
+  if (jobPagination) {
+    jobPagination.hidden = totalMatches <= jobPageSize;
+  }
+  if (jobPageStatus) {
+    jobPageStatus.textContent = `Seite ${jobCurrentPage} von ${totalPages}`;
+  }
+  if (jobPagePrev) {
+    jobPagePrev.disabled = jobCurrentPage <= 1;
+  }
+  if (jobPageNext) {
+    jobPageNext.disabled = jobCurrentPage >= totalPages;
+  }
+  if (scrollToResults) {
+    document.querySelector(".jobs-result-line")?.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+    });
   }
 };
 
 if (jobSearch && jobCity && jobCategory) {
-  jobSearch.addEventListener("input", applyJobFilters);
-  jobCity.addEventListener("change", applyJobFilters);
-  jobCategory.addEventListener("change", applyJobFilters);
+  jobSearch.addEventListener("input", () => applyJobFilters({ resetPage: true }));
+  jobCity.addEventListener("change", () => applyJobFilters({ resetPage: true }));
+  jobCategory.addEventListener("change", () => applyJobFilters({ resetPage: true }));
 
   jobReset?.addEventListener("click", () => {
     jobSearch.value = "";
     jobCity.value = "";
     jobCategory.value = "";
-    applyJobFilters();
+    applyJobFilters({ resetPage: true });
     jobSearch.focus();
   });
+
+  jobPagePrev?.addEventListener("click", () => {
+    jobCurrentPage -= 1;
+    applyJobFilters({ scrollToResults: true });
+  });
+  jobPageNext?.addEventListener("click", () => {
+    jobCurrentPage += 1;
+    applyJobFilters({ scrollToResults: true });
+  });
+
+  applyJobFilters();
 }

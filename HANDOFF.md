@@ -14,9 +14,13 @@ Finish Hessen Aktuell as a GitHub Pages-ready regional news portal that can run 
 - Added publish/build script: scripts/build_publish.sh
 - Added Windows Task Scheduler wrapper: scripts/windows_task_update.ps1
 - Added an official-source jobs pipeline and public `/jobs/` page.
-- Initial job sources: Stadt Kassel and Hessen Mobil.
+- Job sources: Stadt Kassel, Hessen Mobil, Stadt Frankfurt, Stadt Wiesbaden,
+  and Stadt Darmstadt.
 - Added job source policy: docs/jobs_source_policy.md.
 - Added Jobs to shared navigation and sitemap generation.
+- Added dedicated generated job banners under shared/assets/jobs/.
+- Jobs search and filters operate across the complete dataset; only eight
+  results are shown per page through client-side pagination.
 - Updated diagnostics sitemap checker for GitHub Pages project base path.
 - Updated diagnostics overall status so transient external source timeout/empty states remain visible but do not block publishing when the generated site itself is healthy
 - Rewrote README.md as a clean ASCII publish/run guide after previous encoding damage
