@@ -18,6 +18,7 @@ veröffentlichbare Website.
 - Quellenangabe und direkter Link zum Original bei jeder Meldung
 - tägliche Archive sowie Stadt- und Themenseiten
 - automatisch gepflegte Stellenangebote aus offiziellen Arbeitgeberportalen
+  mit Suche sowie Orts- und Bereichsfiltern
 - lokal erzeugte, thematisch passende Kartenbilder
 - automatisierte Sitemap, `robots.txt`, Canonicals und Social-Media-Metadaten
 - Diagnosen für Quellen, interne Links, SEO-Felder und Inhaltsverteilung

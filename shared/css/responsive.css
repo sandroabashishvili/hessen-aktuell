@@ -20,14 +20,20 @@
     grid-template-columns: 1fr;
   }
 
-  .jobs-grid,
-  .jobs-portals {
+  .jobs-grid {
     grid-template-columns: 1fr;
   }
 
-  .jobs-intro {
-    align-items: stretch;
-    flex-direction: column;
+  .jobs-filter-bar {
+    grid-template-columns: 1fr;
+  }
+
+  .jobs-filter-reset {
+    width: 100%;
+  }
+
+  .jobs-overview {
+    padding-top: 2px;
   }
 
   .panel-head {
