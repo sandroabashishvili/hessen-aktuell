@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-07-29 07:30:09 UTC",
-  "generated_at_local": "2026-07-29 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-07-29 16:30:08 UTC",
+  "generated_at_local": "2026-07-29 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 124,
+  "count": 125,
   "source_counts": {
     "stadt-kassel-jobs": 7,
-    "hessen-mobil-jobs": 9,
+    "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 40,
     "stadt-wiesbaden-jobs": 28,
     "stadt-darmstadt-jobs": 40
@@ -124,20 +124,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-459598b06c26c9",
-      "title": "Sozialarbeiter:in (w/m/d) Koordinierungsstelle Jugendhilfe im Bahnhofsviertel",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "31.07.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Koordinierungsstelle-Jugendhilfe-im-B-de-j10972.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "hessen-mobil-jobs-29212a62f4a9ed",
       "title": "Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst",
       "employer": "Hessen Mobil",
@@ -208,20 +194,6 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-f8c9874d8673e2",
-      "title": "Bau- und Umweltingenieur:in (w/m/d) mit Schwerpunkt Siedlungswasserwirtschaft",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "02.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Bau-und-Umweltingenieurin-wmd-mit-Schwerpunkt-Siedlungswas-de-j11030.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-115b2cf78e1691",
       "title": "Sachgebietsleiter: in (w/m/d) Bauunterhaltungsmanagement",
       "employer": "Stadt Frankfurt am Main",
@@ -233,20 +205,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiter-in-wmd-Bauunterhaltungsmanagement-de-j10947.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-fc946bb895f357",
-      "title": "Sachgebietsleiter:in (w/m/d) Rentenangelegenheiten (Amtfrau:Amtmann)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Führungskraft",
-      "contract_type": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "02.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Rentenangelegenheiten-AmtfrauAmtma-de-j10991.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -430,6 +388,20 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Psychologin-Psychologe-w-m-d-59-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-f8c9874d8673e2",
+      "title": "Bau- und Umweltingenieur:in (w/m/d) mit Schwerpunkt Siedlungswasserwirtschaft",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "09.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Bau-und-Umweltingenieurin-wmd-mit-Schwerpunkt-Siedlungswas-de-j11030.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-4ba1934420e0e8",
@@ -950,20 +922,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-f4ab122e1114ef",
-      "title": "Sachbearbeiter:in (w/m/d) Vollstreckungs- und Insolvenzverfahren (Oberinspektor:in)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "department": "Zusatzversorgungskasse",
-      "deadline": "16.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Vollstreckungs-und-Insolvenzverfahren-de-j10980.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-25f615473c08dc",
       "title": "Sozialarbeiter:in oder Sozialpädagogin:Sozialpädagoge (w/m/d) Jugend- und Kulturzentrum Höchst",
       "employer": "Stadt Frankfurt am Main",
@@ -1172,6 +1130,20 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sachbearbeiterin-Sachbearbeiter-Hilfe-zur-Pflege-w-m-d-50-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-9d42c749ccc1df",
+      "title": "Bauingenieurin / Bauingenieur (w/m/d) für den Brückenbau in Südhessen",
+      "employer": "Hessen Mobil",
+      "location": "Außenstelle Heppenheim",
+      "employment_type": "",
+      "contract_type": "",
+      "department": "",
+      "deadline": "20. August 2026",
+      "reference": "PB 26/10",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-07/bauingenieur_brueckenbau_heppenheim_pb_26_10.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-f0773f0bbb1406",
@@ -1384,6 +1356,20 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-e2e76b86a4e70d",
+      "title": "Sachbearbeiter:in (w/m/d) Allgemeine Verwaltung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "department": "Museum für Angewandte Kunst",
+      "deadline": "26.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Allgemeine-Verwaltung-de-j10975.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "hessen-mobil-jobs-7e21c6d479abe0",
       "title": "Kfz-Meisterin / Kfz-Meister (w/m/d) für das Fuhrparkmanagement",
       "employer": "Hessen Mobil",
@@ -1409,6 +1395,34 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Bestattungsberaterin-wmd-Staedtische-Pietaet-de-j10926.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-98a7462c741ecd",
+      "title": "Sachbearbeiter:in (w/m/d) Gewerbesteuerveranlagung (Inspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "department": "Kassen- und Steueramt",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Gewerbesteuerveranlagung-Inspektorin-de-j11057.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-0bc97bdced4f07",
+      "title": "Sachgebietsleiter:in (w/m/d) Kommunikation, Wissenschaft und Gesundheitsförderung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "department": "Gesundheitsamt",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Kommunikation-Wissenschaft-und-Ges-de-j11067.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
