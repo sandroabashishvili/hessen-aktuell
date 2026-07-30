@@ -9,7 +9,7 @@ from ..news_pipeline.http_client import fetch_text
 from .models import JobItem, JobSource
 
 
-MAX_ITEMS_PER_SOURCE = 40
+MAX_ITEMS_PER_SOURCE = 100
 
 
 def collect_source_jobs(source: JobSource) -> list[JobItem]:
@@ -41,6 +41,10 @@ def collect_source_jobs(source: JobSource) -> list[JobItem]:
             source,
             deadline_column=4,
         )
+    if source.source_id == "stadt-offenbach-jobs":
+        return parse_offenbach_jobs(html, source)
+    if source.source_id == "stadt-giessen-jobs":
+        return parse_giessen_jobs(html, source)
     return []
 
 
@@ -109,6 +113,7 @@ def parse_stadt_kassel_jobs(html: str, source: JobSource) -> list[JobItem]:
                 location=source.default_location,
                 employment_type=employment_type,
                 contract_type=contract_type,
+                pay_grade="",
                 department=department,
                 deadline=deadline,
                 reference="",
@@ -150,6 +155,7 @@ def parse_hessen_mobil_jobs(html: str, source: JobSource) -> list[JobItem]:
                 location=_clean_text(match.group("location")) or source.default_location,
                 employment_type="",
                 contract_type="",
+                pay_grade="",
                 department="",
                 deadline=_clean_text(match.group("deadline")),
                 reference=_clean_text(match.group("reference")),
@@ -224,6 +230,7 @@ def parse_rexx_jobs(
                 location=source.default_location,
                 employment_type=employment_type,
                 contract_type="",
+                pay_grade="",
                 department=department,
                 deadline=deadline,
                 reference="",
@@ -235,6 +242,104 @@ def parse_rexx_jobs(
         if len(jobs) >= MAX_ITEMS_PER_SOURCE:
             break
     return jobs
+
+
+def parse_offenbach_jobs(html: str, source: JobSource) -> list[JobItem]:
+    jobs: list[JobItem] = []
+    seen: set[str] = set()
+    for raw_row in re.findall(r"<tr>(.*?)</tr>", html, flags=re.S):
+        title_cell = _table_cell(raw_row, "td_bezeichnung")
+        link_match = re.search(
+            r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>',
+            title_cell,
+            flags=re.S,
+        )
+        if not link_match:
+            continue
+        title = _clean_text(link_match.group(2))
+        url = _canonical_job_url(urljoin(source.url, unescape(link_match.group(1))))
+        if not title or url in seen:
+            continue
+        seen.add(url)
+        jobs.append(
+            JobItem(
+                item_id=_job_id(source.source_id, url),
+                title=title,
+                employer=source.employer,
+                location=source.default_location,
+                employment_type="",
+                contract_type="",
+                pay_grade=_clean_text(_table_cell(raw_row, "td_entgeltGruppe")),
+                department=_clean_text(_table_cell(raw_row, "td_standort")),
+                deadline=_clean_text(_table_cell(raw_row, "td_bewerbungsschluss")),
+                reference="",
+                source_name=source.name,
+                source_url=url,
+                source_id=source.source_id,
+            )
+        )
+        if len(jobs) >= MAX_ITEMS_PER_SOURCE:
+            break
+    return jobs
+
+
+def parse_giessen_jobs(html: str, source: JobSource) -> list[JobItem]:
+    starts = list(re.finditer(r'<h2 class="toggler-title">(.*?)</h2>', html, flags=re.S))
+    jobs: list[JobItem] = []
+    seen: set[str] = set()
+    for index, title_match in enumerate(starts):
+        segment_end = starts[index + 1].start() if index + 1 < len(starts) else len(html)
+        segment = html[title_match.start():segment_end]
+        apply_match = re.search(
+            r'<a href="([^"]*karriere\.giessen\.de/jobposting/[^"]+)"[^>]*>Jetzt bewerben</a>',
+            segment,
+            flags=re.S | re.I,
+        )
+        if not apply_match:
+            continue
+        title = _clean_text(title_match.group(1))
+        url = _canonical_job_url(unescape(apply_match.group(1)))
+        if not title or url in seen:
+            continue
+        seen.add(url)
+        facts = [
+            _clean_text(value)
+            for value in re.findall(r"<h4>(.*?)</h4>", segment, flags=re.S)
+        ]
+        deadline_match = re.search(
+            r"Bewerbung.*?bis(?:\s+zum)?\s*<strong>(.*?)</strong>",
+            segment,
+            flags=re.S | re.I,
+        )
+        jobs.append(
+            JobItem(
+                item_id=_job_id(source.source_id, url),
+                title=title,
+                employer=source.employer,
+                location=source.default_location,
+                employment_type=facts[1] if len(facts) > 1 else "",
+                contract_type=facts[2] if len(facts) > 2 else "",
+                pay_grade=facts[3] if len(facts) > 3 else "",
+                department=facts[0] if facts else "",
+                deadline=_clean_text(deadline_match.group(1)) if deadline_match else "",
+                reference="",
+                source_name=source.name,
+                source_url=url,
+                source_id=source.source_id,
+            )
+        )
+        if len(jobs) >= MAX_ITEMS_PER_SOURCE:
+            break
+    return jobs
+
+
+def _table_cell(raw_row: str, class_name: str) -> str:
+    match = re.search(
+        rf'<td[^>]+class="{re.escape(class_name)}"[^>]*>(.*?)</td>',
+        raw_row,
+        flags=re.S,
+    )
+    return match.group(1) if match else ""
 
 
 def _field_value(text: str, label: str) -> str:

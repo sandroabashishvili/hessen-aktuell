@@ -24,6 +24,38 @@
     grid-template-columns: 1fr;
   }
 
+  .job-card {
+    grid-template-columns: 108px minmax(0, 1fr);
+    min-height: 150px;
+    padding: 8px;
+  }
+
+  .job-card .story-media {
+    min-height: 134px;
+  }
+
+  .job-card-content {
+    padding: 4px 5px 3px 12px;
+  }
+
+  .job-card .story-kicker {
+    font-size: 0.68rem;
+    letter-spacing: 0.04em;
+  }
+
+  .job-card h3 {
+    font-size: 1rem;
+  }
+
+  .job-department,
+  .job-facts {
+    font-size: 0.82rem;
+  }
+
+  .jobs-all-link {
+    margin-top: 8px;
+  }
+
   .jobs-filter-bar {
     grid-template-columns: 1fr;
   }
@@ -46,6 +78,8 @@
   }
 
   .jobs-overview {
+    align-items: flex-start;
+    flex-direction: column;
     padding-top: 2px;
   }
 

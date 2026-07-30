@@ -21,6 +21,7 @@ class JobItem:
     location: str
     employment_type: str
     contract_type: str
+    pay_grade: str
     department: str
     deadline: str
     reference: str

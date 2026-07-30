@@ -43,16 +43,16 @@ const normalizeFilterText = (value) =>
     .trim();
 
 const applyJobFilters = ({ resetPage = false, scrollToResults = false } = {}) => {
-  if (!jobSearch || !jobCity || !jobCategory) {
+  if (!jobList) {
     return;
   }
   if (resetPage) {
     jobCurrentPage = 1;
   }
 
-  const query = normalizeFilterText(jobSearch.value);
-  const city = jobCity.value;
-  const category = jobCategory.value;
+  const query = normalizeFilterText(jobSearch?.value || "");
+  const city = jobCity?.value || "";
+  const category = jobCategory?.value || "";
   const matchingCards = jobCards.filter((card) => {
     const matchesQuery = !query || card.dataset.jobSearch.includes(query);
     const matchesCity = !city || card.dataset.jobCity === city;
@@ -100,17 +100,17 @@ const applyJobFilters = ({ resetPage = false, scrollToResults = false } = {}) =>
   }
 };
 
-if (jobSearch && jobCity && jobCategory) {
-  jobSearch.addEventListener("input", () => applyJobFilters({ resetPage: true }));
-  jobCity.addEventListener("change", () => applyJobFilters({ resetPage: true }));
-  jobCategory.addEventListener("change", () => applyJobFilters({ resetPage: true }));
+if (jobList) {
+  jobSearch?.addEventListener("input", () => applyJobFilters({ resetPage: true }));
+  jobCity?.addEventListener("change", () => applyJobFilters({ resetPage: true }));
+  jobCategory?.addEventListener("change", () => applyJobFilters({ resetPage: true }));
 
   jobReset?.addEventListener("click", () => {
-    jobSearch.value = "";
-    jobCity.value = "";
-    jobCategory.value = "";
+    if (jobSearch) jobSearch.value = "";
+    if (jobCity) jobCity.value = "";
+    if (jobCategory) jobCategory.value = "";
     applyJobFilters({ resetPage: true });
-    jobSearch.focus();
+    jobSearch?.focus();
   });
 
   jobPagePrev?.addEventListener("click", () => {

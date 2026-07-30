@@ -18,7 +18,17 @@ fi
 if git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   git status --short
   if [[ "${AUTO_COMMIT:-0}" == "1" ]]; then
-    git add .
+    git add -- \
+      index.html \
+      archive \
+      cities \
+      topics \
+      jobs \
+      service \
+      sitemap.xml \
+      robots.txt \
+      shared/data/news \
+      shared/data/jobs
     if git diff --cached --quiet; then
       echo "No generated changes to commit."
     else

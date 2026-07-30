@@ -47,6 +47,22 @@ JOB_SOURCES: tuple[JobSource, ...] = (
         default_location="Darmstadt",
         priority=50,
     ),
+    JobSource(
+        source_id="stadt-offenbach-jobs",
+        name="Stadt Offenbach",
+        url="https://karriere.offenbach.de/",
+        employer="Stadt Offenbach am Main",
+        default_location="Offenbach",
+        priority=60,
+    ),
+    JobSource(
+        source_id="stadt-giessen-jobs",
+        name="Stadt Gießen",
+        url="https://www.giessen.de/Rathaus/Karriere/Aktuelle-Stellenangebote/",
+        employer="Universitätsstadt Gießen",
+        default_location="Gießen",
+        priority=70,
+    ),
 )
 
 

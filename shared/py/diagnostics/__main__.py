@@ -5,6 +5,7 @@ import json
 
 from .content_balance import run_content_balance_diagnostics
 from .internal_links import run_internal_link_diagnostics
+from .jobs import run_jobs_diagnostics
 from .seo import run_seo_diagnostics
 from .sitemap import run_sitemap_diagnostics
 from .source_freshness import run_source_freshness_diagnostics
@@ -52,6 +53,15 @@ def _print_human_summary(
         f"top source {content_balance['top_source']['name']}={content_balance['top_source']['count']}"
     )
     print(
+        "Jobs: "
+        f"{result['jobs']['jobs_count']} offers, "
+        f"{result['jobs']['active_sources']}/{result['jobs']['configured_sources']} sources active, "
+        f"{len(result['jobs']['warnings'])} warning"
+        f"{'' if len(result['jobs']['warnings']) == 1 else 's'}"
+    )
+    for notice in result["jobs"]["notices"]:
+        print(f"- Jobs notice: {notice}")
+    print(
         "Internal links: "
         f"{result['internal_links']['ok']} ok, "
         f"{result['internal_links']['broken']} broken"
@@ -87,6 +97,7 @@ def main() -> None:
     source_freshness = run_source_freshness_diagnostics()
     internal_links = run_internal_link_diagnostics()
     content_balance = run_content_balance_diagnostics()
+    jobs = run_jobs_diagnostics()
     sitemap = run_sitemap_diagnostics()
     seo = run_seo_diagnostics()
     effective_broken_source_links = _effective_broken_source_links(source_links, source_freshness)
@@ -122,6 +133,16 @@ def main() -> None:
             "status": content_balance["status"],
             "report_path": content_balance["report_path"],
         },
+        "jobs": {
+            "jobs_count": jobs["jobs_count"],
+            "configured_sources": jobs["configured_sources"],
+            "active_sources": jobs["active_sources"],
+            "empty_sources": jobs["empty_sources"],
+            "notices": jobs["notices"],
+            "warnings": jobs["warnings"],
+            "status": jobs["status"],
+            "report_path": jobs["report_path"],
+        },
         "sitemap": {
             "total": sitemap["total"],
             "ok": sitemap["ok"],
@@ -142,6 +163,7 @@ def main() -> None:
 
             and internal_links["broken"] == 0
             and content_balance["status"] == "ok"
+            and jobs["status"] == "ok"
             and sitemap["missing"] == 0
             and seo["missing"] == 0
             else "attention_required"
@@ -166,6 +188,5 @@ def _effective_broken_source_links(source_links: dict[str, object], source_fresh
     )
 if __name__ == "__main__":
     main()
-
 
 

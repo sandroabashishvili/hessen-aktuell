@@ -26,7 +26,9 @@ Syndizierungsfreigabe automatisch kopiert.
 - Hessen Mobil;
 - Stadt Frankfurt am Main;
 - Landeshauptstadt Wiesbaden;
-- Wissenschaftsstadt Darmstadt.
+- Wissenschaftsstadt Darmstadt;
+- Stadt Offenbach am Main;
+- Universitätsstadt Gießen.
 
 Die zentrale Stellendatenbank des Landes Hessen und die Jobsuche der
 Bundesagentur für Arbeit bleiben als direkte Portal-Links verfügbar.
@@ -52,3 +54,7 @@ werden nicht übernommen.
 - Abgelaufene oder nicht mehr erreichbare Angebote werden beim nächsten Lauf
   entfernt.
 - Bei leerer Quelle bleiben offizielle Portal-Links als Fallback sichtbar.
+- Für Kassel, Frankfurt, Wiesbaden, Darmstadt, Offenbach und Gießen werden
+  eigene statische Stadtseiten erzeugt.
+- Die Jobs-Übersicht und Stadtseiten erhalten indexierbare Canonicals,
+  Sitemap-Einträge und `CollectionPage`-/`ItemList`-Strukturdaten.

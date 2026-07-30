@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from collections import Counter
 from html import escape
+import json
+import os
 from pathlib import Path
 import re
 import unicodedata
@@ -147,6 +149,14 @@ CATEGORY_RULES = (
 DEFAULT_CATEGORY = "Weitere Bereiche"
 DEFAULT_VISUAL_TOPIC = "economy"
 PAGE_SIZE = 8
+FEATURED_JOB_CITIES = (
+    ("Kassel", "kassel"),
+    ("Frankfurt", "frankfurt"),
+    ("Wiesbaden", "wiesbaden"),
+    ("Darmstadt", "darmstadt"),
+    ("Offenbach", "offenbach"),
+    ("Gießen", "giessen"),
+)
 JOB_IMAGE_POOLS = {
     "Studium & Einstieg": (
         "jobs-studium-einstieg.webp",
@@ -189,10 +199,7 @@ class JobsPageBuilder:
         output_dir = project_root / "jobs"
         output_dir.mkdir(parents=True, exist_ok=True)
         output_path = output_dir / "index.html"
-        decorated_jobs = [
-            (job, *_classify_job(job), _job_city_label(job.location), index)
-            for index, job in enumerate(jobs)
-        ]
+        decorated_jobs = _decorate_jobs(jobs)
         cards = "\n".join(
             _job_card(
                 job,
@@ -200,6 +207,7 @@ class JobsPageBuilder:
                 visual_topic,
                 filter_city,
                 index,
+                prefix="../",
                 initially_hidden=index >= PAGE_SIZE,
             )
             for job, category, visual_topic, filter_city, index in decorated_jobs
@@ -220,6 +228,14 @@ class JobsPageBuilder:
             category for _, category, _, _, _ in decorated_jobs
         )
         categories = sorted(category_counts, key=str.casefold)
+        city_counts = Counter(
+            filter_city for _, _, _, filter_city, _ in decorated_jobs
+        )
+        featured_cities = [
+            (city, slug, city_counts.get(city, 0))
+            for city, slug in FEATURED_JOB_CITIES
+            if city_counts.get(city, 0)
+        ]
         output_path.write_text(
             _render_page(
                 jobs_count=len(jobs),
@@ -229,9 +245,24 @@ class JobsPageBuilder:
                 generated_at=generated_at,
                 cities=cities,
                 categories=categories,
+                featured_cities=featured_cities,
+                jobs=jobs,
             ),
             encoding="utf-8",
         )
+        for city, slug in FEATURED_JOB_CITIES:
+            city_jobs = [
+                item for item in decorated_jobs
+                if item[3] == city
+            ]
+            _write_city_page(
+                output_dir=output_dir,
+                city=city,
+                slug=slug,
+                decorated_jobs=city_jobs,
+                generated_at=generated_at,
+                featured_cities=featured_cities,
+            )
         return output_path
 
 
@@ -244,6 +275,8 @@ def _render_page(
     generated_at: str,
     cities: list[str],
     categories: list[str],
+    featured_cities: list[tuple[str, str, int]],
+    jobs: list[JobItem],
 ) -> str:
     description = (
         "Aktuelle Stellenangebote aus offiziellen hessischen Quellen – "
@@ -266,12 +299,20 @@ def _render_page(
         if cards
         else "Zurzeit konnten keine Stellen automatisch geladen werden."
     )
+    city_links = _city_links(featured_cities, prefix="./")
+    structured_data = _jobs_structured_data(
+        title="Jobs in Hessen | Hessen Aktuell",
+        description=description,
+        canonical_path="/jobs/",
+        jobs=jobs,
+    )
     return f"""<!doctype html>
 <html lang="de">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 {head_meta(title="Jobs in Hessen | Hessen Aktuell", description=description, prefix="../", canonical_path="/jobs/")}
+{structured_data}
   <link rel="stylesheet" href="../shared/css/styles.css">
 </head>
 <body data-page="jobs">
@@ -290,6 +331,7 @@ def _render_page(
         <p>{escape(source_summary)} · geprüft am {escape(generated_at)}</p>
       </div>
     </section>
+{city_links}
 
     <section class="jobs-filter-bar" aria-label="Stellenangebote filtern">
       <label class="jobs-search">
@@ -304,9 +346,9 @@ def _render_page(
         </select>
       </label>
       <label>
-        <span>Bereich</span>
+        <span>Berufsfeld</span>
         <select id="job-category">
-          <option value="">Alle Bereiche</option>
+          <option value="">Alle Berufsfelder</option>
 {category_options}
         </select>
       </label>
@@ -345,6 +387,190 @@ def _render_page(
 """
 
 
+def _decorate_jobs(
+    jobs: list[JobItem],
+) -> list[tuple[JobItem, str, str, str, int]]:
+    return [
+        (job, *_classify_job(job), _job_city_label(job.location), index)
+        for index, job in enumerate(jobs)
+    ]
+
+
+def _write_city_page(
+    *,
+    output_dir: Path,
+    city: str,
+    slug: str,
+    decorated_jobs: list[tuple[JobItem, str, str, str, int]],
+    generated_at: str,
+    featured_cities: list[tuple[str, str, int]],
+) -> None:
+    city_dir = output_dir / slug
+    city_dir.mkdir(parents=True, exist_ok=True)
+    cards = "\n".join(
+        _job_card(
+            job,
+            category,
+            visual_topic,
+            filter_city,
+            index,
+            prefix="../../",
+            initially_hidden=position >= PAGE_SIZE,
+        )
+        for position, (job, category, visual_topic, filter_city, index)
+        in enumerate(decorated_jobs)
+    )
+    city_dir.joinpath("index.html").write_text(
+        _render_city_page(
+            city=city,
+            slug=slug,
+            cards=cards,
+            jobs=[item[0] for item in decorated_jobs],
+            generated_at=generated_at,
+            featured_cities=featured_cities,
+        ),
+        encoding="utf-8",
+    )
+
+
+def _render_city_page(
+    *,
+    city: str,
+    slug: str,
+    cards: str,
+    jobs: list[JobItem],
+    generated_at: str,
+    featured_cities: list[tuple[str, str, int]],
+) -> str:
+    title = f"Jobs in {city} | Hessen Aktuell"
+    description = (
+        f"Aktuelle Stellenangebote in {city} aus offiziellen Arbeitgeberportalen "
+        "mit direktem Link zur Originalausschreibung."
+    )
+    city_links = _city_links(featured_cities, prefix="../", current_slug=slug)
+    empty_message = (
+        f"Zurzeit sind keine automatisch erfassten Stellen in {city} verfügbar. "
+        "Bitte prüfen Sie später erneut die Übersicht."
+    )
+    structured_data = _jobs_structured_data(
+        title=title,
+        description=description,
+        canonical_path=f"/jobs/{slug}/",
+        jobs=jobs,
+    )
+    return f"""<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+{head_meta(title=title, description=description, prefix="../../", canonical_path=f"/jobs/{slug}/")}
+{structured_data}
+  <link rel="stylesheet" href="../../shared/css/styles.css">
+</head>
+<body data-page="jobs-city">
+  <header class="site-header">
+    <p class="eyebrow">Offizielle Quellen · Direkte Bewerbung</p>
+    <h1><a class="hero-link" href="./">Jobs in {escape(city)}</a></h1>
+    <p class="lede">Aktuelle kommunale und öffentliche Stellenangebote für {escape(city)} kompakt an einem Ort.</p>
+{page_nav('../../')}
+{brand_mark('../../')}
+  </header>
+  <main class="page-shell jobs-page" aria-label="Jobs in {escape(city)}">
+    <section class="jobs-overview" aria-labelledby="jobs-heading">
+      <div>
+        <p class="section-label">Stellenangebote in {escape(city)}</p>
+        <h2 id="jobs-heading">{len(jobs)} aktuelle Stellen</h2>
+        <p>Automatisch geprüft am {escape(generated_at)} · Bewerbung beim Originalanbieter</p>
+      </div>
+      <a class="jobs-all-link" href="../">Alle Jobs in Hessen →</a>
+    </section>
+{city_links}
+
+    <div class="jobs-result-line" aria-live="polite">
+      <strong id="job-result-count">{len(jobs)}</strong>
+      <span id="job-result-label">Stellen gefunden</span>
+    </div>
+
+    <section class="jobs-feed" aria-label="Stellenangebote in {escape(city)}">
+      <div class="story-stack story-grid jobs-grid" id="jobs-list" data-page-size="{PAGE_SIZE}">
+{cards}
+      </div>
+      <p class="jobs-empty" id="jobs-empty"{'' if not jobs else ' hidden'}>{escape(empty_message)}</p>
+      <nav class="jobs-pagination" id="job-pagination" aria-label="Seitennavigation">
+        <button id="job-page-prev" type="button">← Zurück</button>
+        <span id="job-page-status">Seite 1</span>
+        <button id="job-page-next" type="button">Weiter →</button>
+      </nav>
+    </section>
+
+    <p class="jobs-disclaimer">Hessen Aktuell speichert keine Bewerbungsdaten. Verbindlich sind ausschließlich die Angaben und Fristen in der verlinkten Originalausschreibung.</p>
+  </main>
+{site_footer('../../')}
+  <script src="../../shared/js/main.js"></script>
+</body>
+</html>
+"""
+
+
+def _city_links(
+    featured_cities: list[tuple[str, str, int]],
+    *,
+    prefix: str,
+    current_slug: str = "",
+) -> str:
+    if not featured_cities:
+        return ""
+    links = "\n".join(
+        (
+            f'      <span aria-current="page">{escape(city)} <b>{count}</b></span>'
+            if slug == current_slug
+            else f'      <a href="{prefix}{escape(slug, quote=True)}/">{escape(city)} <b>{count}</b></a>'
+        )
+        for city, slug, count in featured_cities
+    )
+    return f"""
+    <nav class="jobs-city-links" aria-label="Jobs nach Stadt">
+      <strong>Direkt nach Stadt:</strong>
+{links}
+    </nav>"""
+
+
+def _jobs_structured_data(
+    *,
+    title: str,
+    description: str,
+    canonical_path: str,
+    jobs: list[JobItem],
+) -> str:
+    base_url = os.environ.get(
+        "HESSEN_AKTUELL_BASE_URL",
+        "http://localhost:8090",
+    ).rstrip("/")
+    canonical_url = f"{base_url}/{canonical_path.strip('/')}/"
+    payload = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": title,
+        "description": description,
+        "url": canonical_url,
+        "mainEntity": {
+            "@type": "ItemList",
+            "numberOfItems": len(jobs),
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": position,
+                    "name": job.title,
+                    "url": job.source_url,
+                }
+                for position, job in enumerate(jobs, start=1)
+            ],
+        },
+    }
+    serialized = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
+    return f'  <script type="application/ld+json">{serialized}</script>'
+
+
 def _job_card(
     job: JobItem,
     category: str,
@@ -352,6 +578,7 @@ def _job_card(
     filter_city: str,
     index: int,
     *,
+    prefix: str,
     initially_hidden: bool,
 ) -> str:
     search_text = " ".join(
@@ -368,6 +595,7 @@ def _job_card(
         job.location,
         job.employment_type,
         job.contract_type,
+        job.pay_grade,
         f"Frist: {job.deadline}" if job.deadline else "",
         f"Kennziffer: {job.reference}" if job.reference else "",
     ]
@@ -385,13 +613,15 @@ def _job_card(
           data-job-category="{escape(_filter_value(category), quote=True)}"
           data-job-search="{escape(_filter_value(search_text), quote=True)}">
           <a class="story-media story-media-generated job-media" href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank" aria-label="{escape(job.title, quote=True)} – Originalausschreibung">
-            <img src="../shared/assets/jobs/{escape(image_name, quote=True)}" alt="" loading="lazy" decoding="async" width="1100" height="480">
+            <img src="{prefix}shared/assets/jobs/{escape(image_name, quote=True)}" alt="" loading="lazy" decoding="async" width="1100" height="480">
           </a>
-          <p class="story-kicker">{escape(category)} · {escape(job.employer)}</p>
-          <h3><a href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank">{escape(job.title)}</a></h3>
+          <div class="job-card-content">
+            <p class="story-kicker">{escape(category)} · {escape(job.employer)}</p>
+            <h3><a href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank">{escape(job.title)}</a></h3>
 {department}
-          <p class="job-facts">{detail_line}</p>
-          <a class="cta-link job-apply-link" href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank">Originalausschreibung öffnen ↗</a>
+            <p class="job-facts">{detail_line}</p>
+            <a class="cta-link job-apply-link" href="{escape(job.source_url, quote=True)}" rel="nofollow noopener" target="_blank">Originalausschreibung öffnen ↗</a>
+          </div>
         </article>"""
 
 

@@ -18,7 +18,10 @@ veröffentlichbare Website.
 - Quellenangabe und direkter Link zum Original bei jeder Meldung
 - tägliche Archive sowie Stadt- und Themenseiten
 - automatisch gepflegte Stellenangebote aus offiziellen Arbeitgeberportalen
-  mit Suche, Orts- und Bereichsfiltern sowie Seitennavigation
+  mit Suche, Orts- und Berufsfeldfiltern sowie Seitennavigation
+- eigene indexierbare Jobs-Seiten für Kassel, Frankfurt, Wiesbaden, Darmstadt,
+  Offenbach und Gießen
+- sieben aktive offizielle Arbeitgeberquellen
 - eigene lokale Jobs-Banner für berufliche Bereiche
 - lokal erzeugte, thematisch passende Kartenbilder
 - automatisierte Sitemap, `robots.txt`, Canonicals und Social-Media-Metadaten
