@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-30 06:25:42 UTC",
-  "generated_at_local": "2026-07-30 08:25:40 Europe/Berlin",
+  "generated_at_utc": "2026-07-30 07:30:10 UTC",
+  "generated_at_local": "2026-07-30 09:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 220,
   "source_counts": {
@@ -2384,6 +2384,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-ea60dd6d481ee5",
+      "title": "Cyber Security Analyst (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "04.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Cyber-Security-Analyst-wmd-de-j11122.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-a4b35227b1d374",
       "title": "Leitung Kita im Musikerviertel (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -3041,21 +3056,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Studierende-wmd-der-Sozialen-ArbeitSozialpaedagogik-im-Pra-de-j9607.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-ad2213f3635de8",
-      "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Praktikum und 400-Stunden-Praktikum/Praxisphase",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Praktikant:in (Studium)",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Studierende-der-Sozialen-Arbeit-oder-Sozialpaedagogik-im-s-de-j5791.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
