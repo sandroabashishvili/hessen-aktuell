@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-07-30 06:23:35 UTC",
-  "generated_at_local": "2026-07-30 08:23:34 Europe/Berlin",
+  "generated_at_utc": "2026-07-30 06:25:42 UTC",
+  "generated_at_local": "2026-07-30 08:25:40 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 220,
   "source_counts": {
@@ -461,21 +461,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2091&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-78220f6712689c",
-      "title": "Sachbearbeiter*in Sozialgerichtsgesetz (SGG) (Widerspruchsstelle) (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD 10",
-      "department": "MainArbeit. Kommunales Jobcenter Offenbach",
-      "deadline": "02.08.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2090&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1721,6 +1706,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2075&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-78220f6712689c",
+      "title": "Sachbearbeiter*in Sozialgerichtsgesetz (SGG) (Widerspruchsstelle) (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 10",
+      "department": "MainArbeit. Kommunales Jobcenter Offenbach",
+      "deadline": "16.08.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2090&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
