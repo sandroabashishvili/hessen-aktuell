@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-07-30 07:30:10 UTC",
-  "generated_at_local": "2026-07-30 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-07-30 16:30:09 UTC",
+  "generated_at_local": "2026-07-30 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 220,
+  "count": 221,
   "source_counts": {
     "stadt-kassel-jobs": 7,
     "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 100,
     "stadt-wiesbaden-jobs": 28,
-    "stadt-darmstadt-jobs": 42,
+    "stadt-darmstadt-jobs": 43,
     "stadt-offenbach-jobs": 25,
     "stadt-giessen-jobs": 8
   },
@@ -1919,6 +1919,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-290834097f8a8e",
+      "title": "Sachbearbeitung (w/m/d) im Vorzimmer beim Bürger- und Ordnungsamt, Abteilung Ausländerbehörde- und Staatsangehörigkeitswesen",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt, Abteilung Ausländerbehörde- und Staatsangehörigkeitswesen",
+      "deadline": "19.08.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-im-Vorzimmer-beim-Buerger-und-Ordnungs-de-j3010.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-203d3d12f04237",
       "title": "Sachbearbeiter:in (w/m/d) Gebühren (Inspektor:in)",
       "employer": "Stadt Frankfurt am Main",
@@ -2246,6 +2261,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Allgemeine-Verwaltung-de-j10975.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-2593bb450bde85",
+      "title": "Schulverwaltungskräfte (w/m/d) im Schulsekretariat einer Frankfurter Schule",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtschulamt",
+      "deadline": "26.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Schulverwaltungskraefte-wmd-im-Schulsekretariat-einer-Fran-de-j11126.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2846,21 +2876,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Einsatzbearbeiterin-wmd-Zentrale-Leitstelle-Hauptbrandmeis-de-j9635.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6ef649d3fcbaa1",
-      "title": "Forstwirt:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Forstwirtinnen-wmd-de-j4976.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
