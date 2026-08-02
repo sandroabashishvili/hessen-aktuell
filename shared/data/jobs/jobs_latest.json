@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-01 16:30:08 UTC",
-  "generated_at_local": "2026-08-01 18:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-08-02 07:30:09 UTC",
+  "generated_at_local": "2026-08-02 09:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 214,
   "source_counts": {
@@ -13,21 +13,6 @@
     "stadt-giessen-jobs": 10
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-6269f826207291",
-      "title": "Sozialarbeiter:innen oder Sozialpädagoginnen:Sozialpädagogen (w/m/d) im Anerkennungsjahr für das Sozialrathaus Nord",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Praktikant:in (Studium)",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "01.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-oder-SozialpaedagoginnenSozialpaedagog-de-j10993.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-3dee8f9630f1c2",
       "title": "Landschaftsarchitekt:in (w/m/d) Projektentwicklung und übergeordnete Planung",
@@ -2906,6 +2891,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Kreditorenbuchhaltung-de-j11042.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
+      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
