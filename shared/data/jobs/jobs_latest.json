@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-08-04 07:30:10 UTC",
-  "generated_at_local": "2026-08-04 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-08-04 16:30:10 UTC",
+  "generated_at_local": "2026-08-04 18:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 212,
+  "count": 213,
   "source_counts": {
-    "stadt-kassel-jobs": 9,
+    "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 100,
     "stadt-wiesbaden-jobs": 26,
@@ -2189,6 +2189,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-1d2e761c60f98a",
+      "title": "Architektin/Architekt (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet bis 31. Dezember 2027",
+      "pay_grade": "",
+      "department": "Amt Hochbau und Gebäudebewirtschaftung",
+      "deadline": "31. August 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/eine-Architektin-ein-Architekt-w-m-d-65-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-6d23787e2651cf",
       "title": "Mitarbeiter/in Bauunterhaltung & Betriebswerkstätten (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2201,21 +2216,6 @@
       "reference": "",
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiterin-Mitarbeiter-fuer-den-Bereich-Bauunterhaltung-und-Betriebswerkstaetten-w-m-d-37-.php",
-      "source_id": "stadt-kassel-jobs"
-    },
-    {
-      "item_id": "stadt-kassel-jobs-1d2e761c60f98a",
-      "title": "eine Architektin / ein Architekt (w/m/d)",
-      "employer": "Stadt Kassel",
-      "location": "Kassel",
-      "employment_type": "Vollzeit/Teilzeit",
-      "contract_type": "befristet bis 31. Dezember 2027",
-      "pay_grade": "",
-      "department": "Amt Hochbau und Gebäudebewirtschaftung",
-      "deadline": "31. August 2026",
-      "reference": "",
-      "source_name": "Stadt Kassel",
-      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/eine-Architektin-ein-Architekt-w-m-d-65-.php",
       "source_id": "stadt-kassel-jobs"
     },
     {
@@ -2247,6 +2247,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Koordinatorin-wmd-Fachanwendungen-und-digitale-Prozesse-de-de-j11117.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-89349e0c0e40ed",
+      "title": "Leiterin/Leiter Abteilung Planung und Konzeption (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Amt Kindertagesbetreuung Kassel",
+      "deadline": "1. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Leiterin-Leiter-Abteilung-Planung-und-Konzeption-w-m-d-59-.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ea60dd6d481ee5",
