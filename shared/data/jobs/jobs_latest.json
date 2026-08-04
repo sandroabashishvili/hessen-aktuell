@@ -1,48 +1,18 @@
 {
-  "generated_at_utc": "2026-08-03 16:30:08 UTC",
-  "generated_at_local": "2026-08-03 18:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-08-04 07:30:10 UTC",
+  "generated_at_local": "2026-08-04 09:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 211,
+  "count": 212,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 10,
-    "stadt-frankfurt-jobs": 98,
+    "stadt-frankfurt-jobs": 100,
     "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 39,
+    "stadt-darmstadt-jobs": 38,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 8
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-9844ac4637b465",
-      "title": "Sachbearbeiter/innen (w/m/d) für Gewerbe- und Gaststättenangelegenheiten beim Bürger- und Ordnungsamt",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Bürger- und Ordnungsamt",
-      "deadline": "03.08.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterinnen-wmd-fuer-Gewerbe-und-Gaststaettenangel-de-j2977.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-b134a8daf34476",
-      "title": "Datenanalyst:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Revisionsamt",
-      "deadline": "03.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Datenanalystin-wmd-de-j10963.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-82809a968e03bd",
       "title": "Anwendungsadministrator:in (w/m/d) IT-Finanzen Grundlagen und Anwendungen",
@@ -1694,6 +1664,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-560f7587379b45",
+      "title": "Sachbearbeiter:in (w/m/d) Inklusion (Amtsrätin:Amtsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Personal- und Organisationsamt",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Inklusion-AmtsraetinAmtsrat-de-j11056.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-eb8a13c0e6124b",
+      "title": "Sachbearbeiter:in (w/m/d) Zweitwohnungssteuer (Inspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kassen- und Steueramt",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Zweitwohnungssteuer-Inspektorin-de-j11031.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-ccf6fbe0755009",
       "title": "Sachbearbeiter:innen (w/m/d) Entziehung, Versagung und Neuerteilung von Fahrerlaubnissen (Oberinspektor:in)",
       "employer": "Stadt Frankfurt am Main",
@@ -2069,6 +2069,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-f01c2a76a234c7",
+      "title": "Sachgebietsleiter:in (w/m/d) Objektbereich Schulen/Kitas (Oberamtsrätin:Oberamtsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Objektbereich-SchulenKitas-Oberamt-de-j11084.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-090f65bbf48779",
+      "title": "stellv. Fachbereichsleiter:in (w/m/d) Finanzielle Förderung im Kita-Bereich (Amtsrätin:Amtsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtschulamt",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/stellv-Fachbereichsleiterin-wmd-Finanzielle-Foerderung-im--de-j11125.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "hessen-mobil-jobs-6f1e31a10079ae",
       "title": "Bauwerksdiagnostikerin / Bauwerksdiagnostiker (w/m/d) für die Instandhaltung von Ingenieurbauwerken",
       "employer": "Hessen Mobil",
@@ -2202,6 +2232,21 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/mehrere-Einsatzbearbeiterinnen-Einsatzbearbeiter-fuer-die-Leitstelle-w-m-d-37-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-3e134571b78213",
+      "title": "Koordinator:in (w/m/d) Fachanwendungen und digitale Prozesse der Gewerbesteuer (Amtfrau:Amtmann)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kassen- und Steueramt",
+      "deadline": "01.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Koordinatorin-wmd-Fachanwendungen-und-digitale-Prozesse-de-de-j11117.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ea60dd6d481ee5",
@@ -2609,21 +2654,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-4a7c6b4d89c460",
-      "title": "Bauingenieur:innen (w/m/d) Straßenentwurf Bauingenieur:innen (w/m/d) Straßenbau",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-Bauingenieurinnen-wm-de-j8003.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-88366d2f8eba4c",
       "title": "Bauingenieur:innen (w/m/d) Straßenentwurf bzw. Straßenbau für das Programm/ Projekt „Energiewendeviertel FFM“",
       "employer": "Stadt Frankfurt am Main",
@@ -2846,21 +2876,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Kreditorenbuchhaltung-de-j11042.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
-      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
