@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-04 16:30:10 UTC",
-  "generated_at_local": "2026-08-04 18:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-08-05 07:30:11 UTC",
+  "generated_at_local": "2026-08-05 09:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 213,
   "source_counts": {
@@ -13,51 +13,6 @@
     "stadt-giessen-jobs": 8
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-82809a968e03bd",
-      "title": "Anwendungsadministrator:in (w/m/d) IT-Finanzen Grundlagen und Anwendungen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kassen- und Steueramt",
-      "deadline": "04.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Anwendungsadministratorin-wmd-IT-Finanzen-Grundlagen-und-A-de-j10768.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-752f189a416048",
-      "title": "Leiter:in (w/m/d) Stadtkämmerei (Ltd. Magistratsdirektor:in)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Führungskraft",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtkämmerei",
-      "deadline": "04.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-Stadtkaemmerei-Ltd-Magistratsdirektorin-de-j10791.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-wiesbaden-jobs-80d5691ad5d2a4",
-      "title": "Sachgebietsleitung Eingliederungshilfe und Teilhabe (w/m/d)",
-      "employer": "Landeshauptstadt Wiesbaden",
-      "location": "Wiesbaden",
-      "employment_type": "abgeschlossenes Studium",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "04.08.2026",
-      "reference": "",
-      "source_name": "Stadt Wiesbaden",
-      "source_url": "https://karriere.wiesbaden.de/Sachgebietsleitung-Eingliederungshilfe-und-Teilhabe-wmd-de-j7127.html",
-      "source_id": "stadt-wiesbaden-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-0668e57f63af77",
       "title": "Gärtner/in (w/m/d) beim Grünflächenamt",
@@ -1964,6 +1919,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-6de11852a55d0b",
+      "title": "Gärtnermeister/-in (w/m/d) für den Südfriedhof",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "26.08.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Gaertnermeister-in-wmd-fuer-den-Suedfriedhof-de-j7166.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "hessen-mobil-jobs-7e21c6d479abe0",
       "title": "Kfz-Meisterin / Kfz-Meister (w/m/d) für das Fuhrparkmanagement",
       "employer": "Hessen Mobil",
@@ -2669,6 +2639,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-4a7c6b4d89c460",
+      "title": "Bauingenieur:innen (w/m/d) Straßenentwurf Bauingenieur:innen (w/m/d) Straßenbau",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-Bauingenieurinnen-wm-de-j8003.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-88366d2f8eba4c",
       "title": "Bauingenieur:innen (w/m/d) Straßenentwurf bzw. Straßenbau für das Programm/ Projekt „Energiewendeviertel FFM“",
       "employer": "Stadt Frankfurt am Main",
@@ -2891,6 +2876,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Kreditorenbuchhaltung-de-j11042.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
+      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
