@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-05 07:30:11 UTC",
-  "generated_at_local": "2026-08-05 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-08-05 16:30:12 UTC",
+  "generated_at_local": "2026-08-05 18:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 213,
+  "count": 215,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 100,
     "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 38,
+    "stadt-darmstadt-jobs": 40,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 8
   },
@@ -341,21 +341,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2093&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-d160aebea7cffb",
-      "title": "Pädagogische Fachkraft Kita im Mathildenviertel (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD S8b",
-      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
-      "deadline": "09.08.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2098&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1664,6 +1649,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-340d9cdd521f47",
+      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Chancenwerkstatt",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Chanc-de-j11133.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-5c7fb94193c78a",
       "title": "Sozialpädagogin:Sozialpädagoge (w/m/d) Kinder- und Jugendhaus Eckenheim",
       "employer": "Stadt Frankfurt am Main",
@@ -1769,6 +1769,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-d160aebea7cffb",
+      "title": "Pädagogische Fachkraft Kita im Mathildenviertel (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD S8b",
+      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2098&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-0c9d396d403ae8",
       "title": "Revisor*in Technischer Prüfbereich (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1811,6 +1826,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Fachassistenz-wmd-SGB-II-im-Aussendienst-beim-Jobcenter-Da-de-j2981.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-3fd8d13f401cbc",
+      "title": "Sachbearbeitung (w/m/d) Bauleitplanverfahren beim Stadtplanungsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtplanungsamt",
+      "deadline": "24.08.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Bauleitplanverfahren-beim-Stadtplanung-de-j3012.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -2144,6 +2174,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-8a7b145fc9dcd4",
+      "title": "Verwaltungsmitarbeiter/in (w/m/d) in der Straßenverkehrsbehörde beim Mobilitäts- und Tiefbauamt, Abteilung Bau und Betrieb",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Mobilitäts- und Tiefbauamt, Abteilung Bau und Betrieb",
+      "deadline": "31.08.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Verwaltungsmitarbeiterin-wmd-in-der-Strassenverkehrsbehoer-de-j3013.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-abfe5c1c7922ce",
       "title": "Sozialarbeiter:in oder Sozialpädagogin:Sozialpädagoge (w/m/d) im Anerkennungsjahr im Besonderen Dienst 6 - Team Politische und Kulturelle Bildung / Kommunales Jugendbildungswerk",
       "employer": "Stadt Frankfurt am Main",
@@ -2232,6 +2277,21 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Leiterin-Leiter-Abteilung-Planung-und-Konzeption-w-m-d-59-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-7e763c78f483e0",
+      "title": "Versorgungsingenieur:in (w/m/d) Technisches Objektmanagement",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "02.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Versorgungsingenieurin-wmd-Technisches-Objektmanagement-de-j11089.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ea60dd6d481ee5",
@@ -2639,21 +2699,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-4a7c6b4d89c460",
-      "title": "Bauingenieur:innen (w/m/d) Straßenentwurf Bauingenieur:innen (w/m/d) Straßenbau",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-Bauingenieurinnen-wm-de-j8003.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-88366d2f8eba4c",
       "title": "Bauingenieur:innen (w/m/d) Straßenentwurf bzw. Straßenbau für das Programm/ Projekt „Energiewendeviertel FFM“",
       "employer": "Stadt Frankfurt am Main",
@@ -2879,21 +2924,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
-      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-c489369f07ded1",
       "title": "Sozialarbeiter:innen (w/m/d) Kinder- und Jugendhilfe Sozialdienst",
       "employer": "Stadt Frankfurt am Main",
@@ -2939,21 +2969,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-ad2213f3635de8",
-      "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Praktikum und 400-Stunden-Praktikum/Praxisphase",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Praktikant:in (Studium)",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Studierende-der-Sozialen-Arbeit-oder-Sozialpaedagogik-im-s-de-j5791.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-83dd27564eabd7",
       "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Zwischenpraktikum (von 120 bis 400-Stunden)",
       "employer": "Stadt Frankfurt am Main",
@@ -2996,6 +3011,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Technische-Objektmanagerinnen-wmd-de-j10440.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-1b8abc34320089",
+      "title": "Textredakteur:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Presse- und Informationsamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Textredakteurin-wmd-de-j10971.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
