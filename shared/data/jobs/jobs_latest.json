@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-06 07:30:14 UTC",
-  "generated_at_local": "2026-08-06 09:30:11 Europe/Berlin",
+  "generated_at_utc": "2026-08-06 16:30:09 UTC",
+  "generated_at_local": "2026-08-06 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 212,
   "source_counts": {
@@ -1409,6 +1409,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-d15f9886c47cff",
+      "title": "Sachbearbeiter:in (w/m/d) Beförderungsdienst",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "20.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Befoerderungsdienst-de-j11086.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-65aa295eeac27d",
       "title": "Sachbearbeiter:in (w/m/d) Gewerberegister",
       "employer": "Stadt Frankfurt am Main",
@@ -2264,6 +2279,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-4968e1ae1d218f",
+      "title": "Sachbearbeiter:in (w/m/d) Vergabeangelegenheiten und Arbeits- und Gesundheitsschutz",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "01.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Vergabeangelegenheiten-und-Arbeits-un-de-j11092.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-89349e0c0e40ed",
       "title": "Leiterin/Leiter Abteilung Planung und Konzeption (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2831,36 +2861,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Stadtplanungsamt-wmd-de-j10336.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-c7c01a26eac635",
-      "title": "Notfallsanitäter:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Notfallsanitaeterinnen-wmd-de-j7048.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6a550e48a4c25a",
-      "title": "Oberbrandmeister:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Oberbrandmeisterin-wmd-de-j8832.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
