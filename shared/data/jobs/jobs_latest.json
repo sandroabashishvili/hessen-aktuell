@@ -1,78 +1,18 @@
 {
-  "generated_at_utc": "2026-08-05 16:30:12 UTC",
-  "generated_at_local": "2026-08-05 18:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-08-06 07:30:14 UTC",
+  "generated_at_local": "2026-08-06 09:30:11 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 215,
+  "count": 212,
   "source_counts": {
     "stadt-kassel-jobs": 10,
-    "hessen-mobil-jobs": 10,
+    "hessen-mobil-jobs": 9,
     "stadt-frankfurt-jobs": 100,
-    "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 40,
+    "stadt-wiesbaden-jobs": 27,
+    "stadt-darmstadt-jobs": 37,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 8
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-0668e57f63af77",
-      "title": "Gärtner/in (w/m/d) beim Grünflächenamt",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt",
-      "deadline": "05.08.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Gaertnerin-wmd-beim-Gruenflaechenamt-de-j2989.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-6cc6e1ebb6db2c",
-      "title": "Koordinator/in (w/m/d) im Gesundheits- / Krankenhauswesen beim Dezernat IV",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Dezernat IV",
-      "deadline": "05.08.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Koordinatorin-wmd-im-Gesundheits-Krankenhauswesen-beim-Dez-de-j2986.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-b6f8ba3db3b900",
-      "title": "Verwaltungsmitarbeiter/in (w/m/d) Wohngeld beim Amt für Wohnungswesen",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Wohnungswesen",
-      "deadline": "05.08.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Verwaltungsmitarbeiterin-wmd-Wohngeld-beim-Amt-fuer-Wohnun-de-j2987.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "hessen-mobil-jobs-4fb708423274cb",
-      "title": "Werkstudentin / Werkstudenten (w/m/d) eines ingenieurwissenschaftlichen/geographischen Studiengangs",
-      "employer": "Hessen Mobil",
-      "location": "Wiesbaden",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "5. August 2026",
-      "reference": "WS SIB",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-07/werkstudierende_strassenverwaltung_sib.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-1dc1794ad03ed6",
       "title": "Verwaltungsmitarbeiter/in (w/m/d) für Datenschutz beim Büro der Datenschutzbeauftragten",
@@ -402,21 +342,6 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2092&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-wiesbaden-jobs-1f8485fb4ffde9",
-      "title": "Gärtner/-in (w/m/d)",
-      "employer": "Landeshauptstadt Wiesbaden",
-      "location": "Wiesbaden",
-      "employment_type": "abgeschlossene Berufsausbildung",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "09.08.2026",
-      "reference": "",
-      "source_name": "Stadt Wiesbaden",
-      "source_url": "https://karriere.wiesbaden.de/Gaertner-in-wmd-de-j7043.html",
-      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-f2d8175101afde",
@@ -1439,6 +1364,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-520ce19886fe31",
+      "title": "Architekt:in (w/m/d) Hochbau",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Sportamt",
+      "deadline": "20.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Architektin-wmd-Hochbau-de-j10976.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-f0773f0bbb1406",
       "title": "Architekt:in (w/m/d) Projektbetreuung Dotationskirchen",
       "employer": "Stadt Frankfurt am Main",
@@ -1481,6 +1421,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Gewerberegister-de-j10987.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-483285b084d5e2",
+      "title": "Sachbearbeiter:in (w/m/d) Soziale Hilfen Wirtschaftsdienst Sozialrathaus Ost, Dienstort Bergen-Enkheim (Oberinspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "20.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Soziale-Hilfen-Wirtschaftsdienst-Sozi-de-j11076.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1649,6 +1604,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-2b6a67f0afef94",
+      "title": "Sozialarbeiter:in (w/m/d) Soziale Hilfen Sozialdienst (Schwerpunkt Eingliederungshilfe)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Soziale-Hilfen-Sozialdienst-Schwerpun-de-j10957.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-340d9cdd521f47",
       "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Chancenwerkstatt",
       "employer": "Stadt Frankfurt am Main",
@@ -1811,6 +1781,21 @@
       "reference": "",
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Digitalisierungsmanager-in-wmd-de-j7223.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-1f8485fb4ffde9",
+      "title": "Gärtner/-in (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Gaertner-in-wmd-de-j7043.html",
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
@@ -2171,6 +2156,21 @@
       "reference": "",
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Architekt-in-oder-Ingenieur-in-im-Servicecenter-der-Bauauf-de-j7235.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-46e63c383ac806",
+      "title": "Leiter/-in des Sachgebietes Bodenordnung und Umlegungsstelle (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium, Führungsposition",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Leiter-in-des-Sachgebietes-Bodenordnung-und-Umlegungsstell-de-j7281.html",
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
@@ -2714,21 +2714,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-6c5d9226b2346a",
-      "title": "Brandmeister:in (w/m/d) im mittleren feuerwehrtechnischen Dienst",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz, Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Brandmeisterin-wmd-im-mittleren-feuerwehrtechnischen-Diens-de-j436.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-9958dd2692889a",
       "title": "Brandoberinspektoranwärter:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2771,21 +2756,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Einsatzbearbeiterin-wmd-Zentrale-Leitstelle-Hauptbrandmeis-de-j9635.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6ef649d3fcbaa1",
-      "title": "Forstwirt:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Forstwirtinnen-wmd-de-j4976.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -3026,21 +2996,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Textredakteurin-wmd-de-j10971.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-e1b6d19314b84d",
-      "title": "Werkfeuerwehrfrau:Werkfeuerwehrmann (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/WerkfeuerwehrfrauWerkfeuerwehrmann-wmd-de-j435.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
