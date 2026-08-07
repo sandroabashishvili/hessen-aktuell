@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-06 16:30:09 UTC",
-  "generated_at_local": "2026-08-06 18:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-08-07 07:30:14 UTC",
+  "generated_at_local": "2026-08-07 09:30:12 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 212,
+  "count": 215,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 9,
@@ -10,7 +10,7 @@
     "stadt-wiesbaden-jobs": 27,
     "stadt-darmstadt-jobs": 37,
     "stadt-offenbach-jobs": 21,
-    "stadt-giessen-jobs": 8
+    "stadt-giessen-jobs": 11
   },
   "items": [
     {
@@ -2112,6 +2112,51 @@
       "source_name": "Hessen Mobil",
       "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/bauing-instandhaltung_ingenieurbauwerke_fulda_o-wiesbaden_pb_26_65.pdf",
       "source_id": "hessen-mobil-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-12b884e98fa17c",
+      "title": "Abteilungsleiter*in Friedhöfe",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Unbefristet",
+      "pay_grade": "Entgeltgruppe 11 TVöD / Besoldungsgruppe A 12 HBesG",
+      "department": "Gartenamt",
+      "deadline": "30. August 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/64c66a08969786ded5d9e1850343927d1e8558a40?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-8f9a8885ba1dd1",
+      "title": "Dipl.-Ingenieur*in (FH/TH), Bachelor / Master der Fachrichtung Elektrotechnik",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "befristet",
+      "pay_grade": "Entgeltgruppe 11 TVöD",
+      "department": "Hochbauamt",
+      "deadline": "30. August 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/d71778b475c5b8e6085f3976e04ee3c235176c760?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-3bf4eaecf46f57",
+      "title": "Stellvertretende/r Leiter*in für die Kindertagesstätte und das Familienzentrum Gießener Straße",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "Entgeltgruppe S 9 TVöD",
+      "department": "Jugendamt",
+      "deadline": "30. August 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/20ba6432a886f07e037ab1b9c73a063416d9c1110?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
     },
     {
       "item_id": "stadt-offenbach-jobs-1bd8afef506d5d",
