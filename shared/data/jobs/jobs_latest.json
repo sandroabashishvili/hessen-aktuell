@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-07 07:30:14 UTC",
-  "generated_at_local": "2026-08-07 09:30:12 Europe/Berlin",
+  "generated_at_utc": "2026-08-07 16:30:13 UTC",
+  "generated_at_local": "2026-08-07 18:30:12 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 215,
+  "count": 217,
   "source_counts": {
     "stadt-kassel-jobs": 10,
-    "hessen-mobil-jobs": 9,
+    "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 100,
     "stadt-wiesbaden-jobs": 27,
-    "stadt-darmstadt-jobs": 37,
+    "stadt-darmstadt-jobs": 38,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 11
   },
@@ -176,21 +176,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Modellbau-und-3D-Visualisierung-de-j10643.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-0cacba977a1184",
-      "title": "Sachbearbeiter:in Eheversorgungsausgleich (m/w/d) (Inspektor:in)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Zusatzversorgungskasse",
-      "deadline": "09.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-Eheversorgungsausgleich-mwd-Inspektorin-de-j10981.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1334,6 +1319,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-0cacba977a1184",
+      "title": "Sachbearbeiter:in Eheversorgungsausgleich (m/w/d) (Inspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zusatzversorgungskasse",
+      "deadline": "19.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-Eheversorgungsausgleich-mwd-Inspektorin-de-j10981.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-d78039d1849f82",
       "title": "Sachbearbeiterin/Sachbearbeiter Hilfe zur Pflege (w/m/d)",
       "employer": "Stadt Kassel",
@@ -1889,6 +1889,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-b1d723bf66c70a",
+      "title": "Verwaltungsmitarbeiter/in (w/m/d) im Servicebereich Baby-Begrüßungsdienst beim Jugendamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "26.08.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Verwaltungsmitarbeiterin-wmd-im-Servicebereich-Baby-Begrue-de-j3016.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-f3942f7071b990",
       "title": "DV-Koordinator:in (w/m/d) Zentrale Dienste / Kundenmanagement",
       "employer": "Stadt Frankfurt am Main",
@@ -2099,18 +2114,18 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-6f1e31a10079ae",
-      "title": "Bauwerksdiagnostikerin / Bauwerksdiagnostiker (w/m/d) für die Instandhaltung von Ingenieurbauwerken",
+      "item_id": "hessen-mobil-jobs-b07d4ebe187548",
+      "title": "Ingenieurin / Ingenieur (w/m/d) Fachrichtung Landespflege, Umweltmanagement oder Landschaftsplanung",
       "employer": "Hessen Mobil",
-      "location": "Fulda oder Wiesbaden",
+      "location": "Fulda",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
       "department": "",
       "deadline": "30. August 2026",
-      "reference": "PB 26/65",
+      "reference": "PB 26/61",
       "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/bauing-instandhaltung_ingenieurbauwerke_fulda_o-wiesbaden_pb_26_65.pdf",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_landespflege_pb_26_61.pdf",
       "source_id": "hessen-mobil-jobs"
     },
     {
@@ -2202,6 +2217,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2110&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-c53564f6b49852",
+      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für die Geschäftsstelle",
+      "employer": "Hessen Mobil",
+      "location": "Schotten Bewerbungsfrist: 30. August 2026 Kennziffer: PB 26/61 Z2 26/5 - Mitarbeiterin / Mitarbeiter (w/m/d) für die Geschäftsstelle (PDF/335.55 KB) Öffnet sich in einem neuen Fenster Bauwerksdiagnostikerin / Bauwerksdiagnostiker (w/m/d) für die Instandhaltung von Ingenieurbauwerken Standort: Fulda oder Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. August 2026",
+      "reference": "PB 26/65",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/bauing-instandhaltung_ingenieurbauwerke_fulda_o-wiesbaden_pb_26_65.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-59f76f87cb2e9b",
