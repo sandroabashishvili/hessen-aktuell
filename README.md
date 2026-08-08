@@ -94,7 +94,7 @@ Details stehen in [docs/current_status.md](docs/current_status.md).
 
 ## Autor
 
-Aleksandre (Sandro) Abashishvili
+Sandro Abashishvili
 
-[Portfolio](https://sandro-abashishvili.sandroabashishvili.chatgpt.site/) ·
+[Portfolio](https://sandroabashishvili.github.io/) ·
 [GitHub](https://github.com/sandroabashishvili)
