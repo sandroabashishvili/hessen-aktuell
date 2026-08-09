@@ -2,12 +2,22 @@
 
 ![Hessen Aktuell – regionales Nachrichtenportal](shared/assets/brand/social-card.png)
 
-Ein deutschsprachiger, quellenbewusster Prototyp für ein regionales
-Nachrichtenportal in Hessen. Eine Python-Pipeline verarbeitet freigegebene
-öffentliche Quellen und erzeugt daraus eine statische, über GitHub Pages
-veröffentlichbare Website.
+Ein deutschsprachiges regionales Informationsportal für Hessen, das
+Nachrichten und Stellenangebote aus freigegebenen öffentlichen Quellen
+automatisiert erfasst, strukturiert und als statische Website veröffentlicht.
+Das Projekt verbindet Quellenverarbeitung, lokale Suche und Filter,
+SEO-optimierte Themenseiten und einen wiederholbaren Publish-Prozess.
 
 **Live:** [sandroabashishvili.github.io/hessen-aktuell](https://sandroabashishvili.github.io/hessen-aktuell/)
+
+## Vom Quellensystem zur Website
+
+1. **Quellen erfassen:** Freigegebene Adapter lesen Metadaten aus offiziellen
+   und etablierten Nachrichten- und Arbeitgeberportalen.
+2. **Daten verarbeiten:** Die Python-Pipeline normalisiert, prüft, kategorisiert
+   und ergänzt die Datensätze um eigene kurze Zusammenfassungen.
+3. **Statisch veröffentlichen:** Aus den geprüften Daten entstehen
+   indexierbare Nachrichten-, Stadt-, Themen-, Archiv- und Jobseiten.
 
 ## Was bereits funktioniert
 
