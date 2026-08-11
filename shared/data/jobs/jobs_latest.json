@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-11 07:30:15 UTC",
-  "generated_at_local": "2026-08-11 09:30:13 Europe/Berlin",
+  "generated_at_utc": "2026-08-11 16:30:47 UTC",
+  "generated_at_local": "2026-08-11 18:30:46 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 202,
+  "count": 206,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 100,
     "stadt-wiesbaden-jobs": 27,
-    "stadt-darmstadt-jobs": 31,
-    "stadt-offenbach-jobs": 17,
+    "stadt-darmstadt-jobs": 32,
+    "stadt-offenbach-jobs": 20,
     "stadt-giessen-jobs": 8
   },
   "items": [
@@ -1409,6 +1409,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-3ba44f7ff6ea61",
+      "title": "Mitarbeiter:in (w/m/d) für Öffentlichkeitsarbeit",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Gesamtpersonalrat",
+      "deadline": "26.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiterin-wmd-fuer-oeffentlichkeitsarbeit-de-j11146.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-e2e76b86a4e70d",
       "title": "Sachbearbeiter:in (w/m/d) Allgemeine Verwaltung",
       "employer": "Stadt Frankfurt am Main",
@@ -1482,6 +1497,21 @@
       "source_name": "Hessen Mobil",
       "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-07/stellenausschreibung_kfz_zentrale_bv_26_4.pdf",
       "source_id": "hessen-mobil-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-ff3620de3503f5",
+      "title": "Sachgebietsleitung (w/m/d) der Kfz-Zulassungsbehörde beim Bürger- und Ordnungsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt",
+      "deadline": "27.08.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachgebietsleitung-wmd-der-Kfz-Zulassungsbehoerde-beim-Bue-de-j3020.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-dda23c21857e5f",
@@ -2114,6 +2144,51 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-62eb26f3aa3aa7",
+      "title": "Mitarbeiter*innen Stadtpolizei (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "Bis zu TVöD 9a",
+      "department": "Ordnungsamt",
+      "deadline": "06.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2116&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-4e25220d56becd",
+      "title": "Mitarbeiter*innen Stadtpolizei Tagdienst (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "Bis zu TVöD 9a",
+      "department": "Ordnungsamt",
+      "deadline": "06.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2117&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-3673463d2408a6",
+      "title": "Sachbearbeiter*in Haushalt / zentrale Verwaltung (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 8, A 8 HBesO",
+      "department": "Ordnungsamt",
+      "deadline": "06.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2118&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-1b312de3917067",
       "title": "Sachbearbeiter*in Kitaförderung (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2157,6 +2232,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/SchulsozialarbeiterinnenSchulsozialarbeiter-in-Voll-oder-T-de-j7306.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-b233752644cc0b",
+      "title": "Ingenieur:innen (w/m/d) Energiemanagement",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "08.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ingenieurinnen-wmd-Energiemanagement-de-j10632.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-d5b3e00d05e834",
@@ -2681,36 +2771,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Stadtplanungsamt-wmd-de-j10336.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-c7c01a26eac635",
-      "title": "Notfallsanitäter:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Notfallsanitaeterinnen-wmd-de-j7048.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6a550e48a4c25a",
-      "title": "Oberbrandmeister:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Oberbrandmeisterin-wmd-de-j8832.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
