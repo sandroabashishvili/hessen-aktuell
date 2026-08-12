@@ -1,3 +1,8 @@
+const analyticsConsentScript = document.createElement("script");
+analyticsConsentScript.src = new URL("analytics-consent.js", document.currentScript.src).href;
+analyticsConsentScript.defer = true;
+document.head.appendChild(analyticsConsentScript);
+
 document.documentElement.classList.add("js-ready");
 
 const siteHeader = document.querySelector(".site-header");

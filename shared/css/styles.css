@@ -2,4 +2,5 @@
 @import "./layout.css";
 @import "./navigation.css";
 @import "./components.css";
+ "./consent.css";
 @import "./responsive.css";
