@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-13 07:30:09 UTC",
-  "generated_at_local": "2026-08-13 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-08-13 16:30:09 UTC",
+  "generated_at_local": "2026-08-13 18:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 204,
+  "count": 205,
   "source_counts": {
-    "stadt-kassel-jobs": 10,
+    "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 99,
+    "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 31,
+    "stadt-darmstadt-jobs": 32,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 8
   },
@@ -359,21 +359,6 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
-      "item_id": "stadt-offenbach-jobs-fd0fd71546085b",
-      "title": "Projektmanager*in Gebäudebetrieb und Instandhaltung (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD 12",
-      "department": "Amt für Planen und Bauen",
-      "deadline": "16.08.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2103&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
       "item_id": "stadt-offenbach-jobs-49cfd292251bf2",
       "title": "Sachbearbeiter*in Erschließungs- und Straßenbeiträge (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -386,21 +371,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2075&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-78220f6712689c",
-      "title": "Sachbearbeiter*in Sozialgerichtsgesetz (SGG) (Widerspruchsstelle) (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD 10",
-      "department": "MainArbeit. Kommunales Jobcenter Offenbach",
-      "deadline": "16.08.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2090&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1859,6 +1829,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-0ec56cf76be864",
+      "title": "Sachbearbeitung (w/m/d) Gefahrenverhütungsschau in der Abteilung Vorbeugender Brandschutz und Tätigkeit im B-Dienst bei der Feuerwehr Darmstadt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "01.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Gefahrenverhuetungsschau-in-der-Abteil-de-j3025.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-2f872f1585555f",
       "title": "Sozialarbeiter/innen bzw. Sozialpädagogen/innen (w/m/d) für die bezirkliche Sozialarbeit beim Jugendamt, Städtischer Sozialdienst",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -2084,6 +2069,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-99d0025398fd70",
+      "title": "Sozialarb./Sozialpäd. für schulbez. Sozialarbeit (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Amt Schule und Bildung",
+      "deadline": "6. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sozialarbeiterin-bzw.Sozialpaedagoginnen-Sozialarbeiter-bzw.Sozialpaedagogen-fuer-die-schulbezogene-Sozialarbeit-an-einer-Ganztagsschule-w-m-d-40-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-a4b35227b1d374",
       "title": "Leitung Kita im Musikerviertel (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2144,6 +2144,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-fd0fd71546085b",
+      "title": "Projektmanager*in Gebäudebetrieb und Instandhaltung (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 12",
+      "department": "Amt für Planen und Bauen",
+      "deadline": "06.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2103&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-3673463d2408a6",
       "title": "Sachbearbeiter*in Haushalt / zentrale Verwaltung (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2171,6 +2186,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2115&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-78220f6712689c",
+      "title": "Sachbearbeiter*in Sozialgerichtsgesetz (SGG) (Widerspruchsstelle) (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 10",
+      "department": "MainArbeit. Kommunales Jobcenter Offenbach",
+      "deadline": "06.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2090&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -2231,6 +2261,36 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieurinnen-wmd-Energiemanagement-de-j10632.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-7744bf7b5d8e68",
+      "title": "Themenbereichsverantwortliche:r (w/m/d) Smart City Schwerpunkt Digital-Community",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stabsstelle Smart City",
+      "deadline": "08.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Themenbereichsverantwortlicher-wmd-Smart-City-Schwerpunkt--de-j11050.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-88e7aa2b3ab131",
+      "title": "Themenbereichsverantwortliche:r (w/m/d) Smart City Schwerpunkt Wirtschaft",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stabsstelle Smart City",
+      "deadline": "08.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Themenbereichsverantwortlicher-wmd-Smart-City-Schwerpunkt--de-j11052.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2295,7 +2355,7 @@
     },
     {
       "item_id": "stadt-offenbach-jobs-4a23563db52ae6",
-      "title": "Pädagogische Fachkräfte (Krippe und Kiga) Kita im Senefelderquartier (m/w/d)",
+      "title": "Pädagogische Fachkräfte (Krippe und Kindergarten) Kita im Senefelderquartier (m/w/d)",
       "employer": "Stadt Offenbach am Main",
       "location": "Offenbach",
       "employment_type": "",
@@ -2654,21 +2714,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-88366d2f8eba4c",
-      "title": "Bauingenieur:innen (w/m/d) Straßenentwurf bzw. Straßenbau für das Programm/ Projekt „Energiewendeviertel FFM“",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-bzw-Strassenbau-fuer-de-j10022.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-9958dd2692889a",
       "title": "Brandoberinspektoranwärter:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2756,21 +2801,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Ingenieurin-wmd-Bauwesen-de-j5135.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-d085b6840fa098",
-      "title": "Initiativbewerbung Stadtplanungsamt (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Initiativstelle",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtplanungsamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Stadtplanungsamt-wmd-de-j10336.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2876,21 +2906,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Textredakteurin-wmd-de-j10971.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-23d38f39776b1b",
-      "title": "städtische Verkehrspolizist:innen (Betriebsangestellte) (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Straßenverkehrsamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/staedtische-Verkehrspolizistinnen-Betriebsangestellte-wmd-de-j742.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
