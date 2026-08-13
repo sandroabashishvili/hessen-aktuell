@@ -192,3 +192,11 @@ h2 {
 li + li {
   margin-top: 8px;
 }
+
+@media (max-width: 720px) {
+  .site-header h1 {
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+}

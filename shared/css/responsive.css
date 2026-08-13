@@ -1,3 +1,13 @@
+@media (max-width: 900px) {
+  .jobs-filter-bar {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .jobs-filter-reset {
+    width: 100%;
+  }
+}
+
 @media (max-width: 720px) {
   :root {
     --shell-width: min(100% - 20px, 1100px);
