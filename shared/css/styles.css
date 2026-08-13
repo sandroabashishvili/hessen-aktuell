@@ -4,3 +4,13 @@
 @import "./components.css";
 @import "./consent.css";
 @import "./responsive.css";
+
+/* WEBSITE-ESSENTIALS-MODES */
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#181512; --panel:#211d18; --text:#f6eee3; --muted:#c6b8a8; --line:#4a4035; --brand:#e59558; --brand-dark:#f0b17e; --accent:#efa565; --shadow:rgba(0,0,0,.28); }
+  html { color-scheme: dark; }
+  body, .site-header, .panel, .story-card, .quick-link, input, select, button { color:var(--text); }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior:auto !important; animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; }
+}

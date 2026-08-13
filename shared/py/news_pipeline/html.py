@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import json
 from html import escape
 import os
 from pathlib import Path
@@ -17,6 +18,21 @@ def head_meta(*, title: str, description: str, prefix: str, canonical_path: str)
     canonical = canonical_path if canonical_path.startswith("/") else f"/{canonical_path}"
     canonical_url = _absolute_site_url(canonical)
     social_image_url = _absolute_site_url(DEFAULT_SOCIAL_IMAGE)
+    structured_data = json.dumps(
+        {
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": title,
+            "url": canonical_url,
+            "description": description,
+            "isPartOf": {
+                "@type": "WebSite",
+                "name": "Hessen Aktuell",
+                "url": _absolute_site_url("/"),
+            },
+        },
+        ensure_ascii=False,
+    )
     return f"""  <title>{escape(title)}</title>
   <meta name="description" content="{escape(description, quote=True)}">
   <link rel="canonical" href="{escape(canonical_url, quote=True)}">
@@ -32,6 +48,7 @@ def head_meta(*, title: str, description: str, prefix: str, canonical_path: str)
   <meta name="twitter:title" content="{escape(title, quote=True)}">
   <meta name="twitter:description" content="{escape(description, quote=True)}">
   <meta name="twitter:image" content="{escape(social_image_url, quote=True)}">
+  <script type="application/ld+json">{structured_data}</script>
 {favicon_links(prefix)}"""
 
 
@@ -44,7 +61,9 @@ def _absolute_site_url(path: str) -> str:
 def favicon_links(prefix: str) -> str:
     return f"""
   <link rel="icon" type="image/svg+xml" href="{prefix}shared/assets/brand/favicon.svg">
-  <link rel="shortcut icon" type="image/svg+xml" href="{prefix}shared/assets/brand/favicon.svg">"""
+  <link rel="shortcut icon" type="image/svg+xml" href="{prefix}shared/assets/brand/favicon.svg">
+  <link rel="apple-touch-icon" sizes="180x180" href="{prefix}shared/assets/brand/apple-touch-icon.png">
+  <link rel="manifest" href="{prefix}manifest.webmanifest">"""
 
 
 def brand_mark(prefix: str) -> str:
