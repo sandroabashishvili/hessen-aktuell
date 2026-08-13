@@ -45,7 +45,7 @@ def _render_day(day_iso: str, items: list[NewsItem]) -> str:
     prefix="../../",
     canonical_path=f"/archive/{day_iso}/",
 )}
-  <link rel="stylesheet" href="../../shared/css/styles.css">
+  <link rel="stylesheet" href="../../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="archive-day">
   <header class="site-header">
@@ -101,7 +101,7 @@ def _render_index(day_iso: str, items: list[NewsItem], archive_counts: dict[str,
     prefix="../",
     canonical_path="/archive/",
 )}
-  <link rel="stylesheet" href="../shared/css/styles.css">
+  <link rel="stylesheet" href="../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="archive-index">
   <header class="site-header">

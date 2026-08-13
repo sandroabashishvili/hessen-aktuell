@@ -152,7 +152,7 @@ def _render_service_page() -> str:
     prefix="../",
     canonical_path="/service/",
 )}
-  <link rel="stylesheet" href="../shared/css/styles.css">
+  <link rel="stylesheet" href="../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="service">
   <header class="site-header">

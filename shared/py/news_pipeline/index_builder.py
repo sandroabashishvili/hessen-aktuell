@@ -77,7 +77,7 @@ def _render_home(day_iso: str, all_items: list[NewsItem], items: list[NewsItem])
     prefix="./",
     canonical_path="/",
 )}
-  <link rel="stylesheet" href="./shared/css/styles.css">
+  <link rel="stylesheet" href="./shared/css/styles.css?v=20260813">
 </head>
 <body data-page="home">
   <header class="site-header">

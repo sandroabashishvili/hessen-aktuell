@@ -313,7 +313,7 @@ def _render_page(
   <meta name="viewport" content="width=device-width, initial-scale=1">
 {head_meta(title="Jobs in Hessen | Hessen Aktuell", description=description, prefix="../", canonical_path="/jobs/")}
 {structured_data}
-  <link rel="stylesheet" href="../shared/css/styles.css">
+  <link rel="stylesheet" href="../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="jobs">
   <header class="site-header">
@@ -465,7 +465,7 @@ def _render_city_page(
   <meta name="viewport" content="width=device-width, initial-scale=1">
 {head_meta(title=title, description=description, prefix="../../", canonical_path=f"/jobs/{slug}/")}
 {structured_data}
-  <link rel="stylesheet" href="../../shared/css/styles.css">
+  <link rel="stylesheet" href="../../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="jobs-city">
   <header class="site-header">

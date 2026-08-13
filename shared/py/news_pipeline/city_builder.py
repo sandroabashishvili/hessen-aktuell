@@ -62,7 +62,7 @@ def _render_city(city: str, day_iso: str, items: list[NewsItem]) -> str:
     prefix="../../",
     canonical_path=f"/cities/{city.lower()}/",
 )}
-  <link rel="stylesheet" href="../../shared/css/styles.css">
+  <link rel="stylesheet" href="../../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="city-{escape(city.lower())}">
   <header class="site-header">
@@ -129,7 +129,7 @@ def _render_index(cities: list[str], items: list[NewsItem]) -> str:
     prefix="../",
     canonical_path="/cities/",
 )}
-  <link rel="stylesheet" href="../shared/css/styles.css">
+  <link rel="stylesheet" href="../shared/css/styles.css?v=20260813">
 </head>
 <body data-page="cities-index">
   <header class="site-header">
