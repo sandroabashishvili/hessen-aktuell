@@ -7,9 +7,102 @@
 
 /* WEBSITE-ESSENTIALS-MODES */
 @media (prefers-color-scheme: dark) {
-  :root { --bg:#181512; --panel:#211d18; --text:#f6eee3; --muted:#c6b8a8; --line:#4a4035; --brand:#e59558; --brand-dark:#f0b17e; --accent:#efa565; --shadow:rgba(0,0,0,.28); }
-  html { color-scheme: dark; }
-  body, .site-header, .panel, .story-card, .quick-link, input, select, button { color:var(--text); }
+  :root {
+    color-scheme: dark;
+    --bg: #181512;
+    --panel: #241f1a;
+    --text: #f6eee3;
+    --muted: #c6b8a8;
+    --line: #4a4035;
+    --brand: #e59558;
+    --brand-dark: #f0b17e;
+    --accent: #efa565;
+    --shadow: rgba(0, 0, 0, 0.28);
+  }
+
+  body {
+    background:
+      radial-gradient(circle at 12% 5%, rgba(229, 149, 88, 0.1), transparent 30%),
+      linear-gradient(180deg, #1d1915 0%, #15120f 100%);
+    color: var(--text);
+  }
+
+  .site-header,
+  .site-header::before,
+  .site-nav,
+  .nav-toggle,
+  .nav-menu {
+    border-color: var(--line);
+    background: rgba(29, 25, 21, 0.97);
+    color: var(--text);
+  }
+
+  .panel,
+  .lead-panel,
+  .urgent-panel,
+  .latest-panel,
+  .home-dashboard-panel,
+  .compact-panel,
+  .status-panel,
+  .story-card,
+  .quick-link,
+  .filter-panel,
+  .job-card,
+  .service-card,
+  .archive-card,
+  .city-card,
+  .topic-card {
+    border-color: var(--line);
+    background: rgba(36, 31, 26, 0.94);
+    color: var(--text);
+    box-shadow: 0 16px 34px rgba(0, 0, 0, 0.22);
+  }
+
+  .quick-link,
+  .meta-row > *,
+  .story-meta,
+  .status-line,
+  .filter-chip,
+  .pagination a,
+  .pagination span {
+    border-color: var(--line);
+    background: rgba(255, 255, 255, 0.045);
+  }
+
+  input,
+  select,
+  textarea,
+  button {
+    color-scheme: dark;
+    border-color: var(--line);
+    background: #28221d;
+    color: var(--text);
+  }
+
+  .site-nav a,
+  .nav-dropdown > button,
+  .hero-link,
+  .story-card h2 a,
+  .story-card h3 a,
+  .quick-link,
+  .site-footer a {
+    color: var(--text);
+  }
+
+  .lede,
+  .story-summary,
+  .story-meta,
+  .meta-row,
+  .panel-intro,
+  .site-footer__note,
+  .quick-link em {
+    color: var(--muted);
+  }
+
+  .site-footer {
+    border-color: var(--line);
+    background: #15120f;
+  }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior:auto !important; animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; }

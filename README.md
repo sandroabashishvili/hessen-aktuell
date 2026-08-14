@@ -10,6 +10,9 @@ SEO-optimierte Themenseiten und einen wiederholbaren Publish-Prozess.
 
 **Live:** [sandroabashishvili.github.io/hessen-aktuell](https://sandroabashishvili.github.io/hessen-aktuell/)
 
+- automatische Hell-/Dunkeldarstellung nach Systemeinstellung
+- gültiges PWA-Manifest mit projektspezifischen Installations-Icons
+
 ## Vom Quellensystem zur Website
 
 1. **Quellen erfassen:** Freigegebene Adapter lesen Metadaten aus offiziellen
