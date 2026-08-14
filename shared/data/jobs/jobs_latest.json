@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-08-14 07:30:12 UTC",
-  "generated_at_local": "2026-08-14 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-08-14 16:30:10 UTC",
+  "generated_at_local": "2026-08-14 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 212,
+  "count": 214,
   "source_counts": {
     "stadt-kassel-jobs": 11,
-    "hessen-mobil-jobs": 8,
+    "hessen-mobil-jobs": 9,
     "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 30,
-    "stadt-darmstadt-jobs": 33,
+    "stadt-darmstadt-jobs": 34,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 11
   },
@@ -2009,6 +2009,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-9346e679a5aab9",
+      "title": "Frauen- und Gleichstellungsbeauftragte sowie Leitung des Frauenbüros",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "03.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Frauen-und-Gleichstellungsbeauftragte-sowie-Leitung-des-Fr-de-j3026.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-ea60dd6d481ee5",
       "title": "Cyber Security Analyst (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2157,6 +2172,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/mehrere-Stadtpolizistinnen-wmd-de-j4078.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-c8ce0fefc7c325",
+      "title": "Ingenieurinnen / Ingenieure (w/m/d) der Fachrichtung Bauingenieurwesen",
+      "employer": "Hessen Mobil",
+      "location": "Fulda",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "6. September 2026",
+      "reference": "PB 26/50",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_pb_26_50_streckenbau_osthessen.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-giessen-jobs-dfe915c8ba68da",
