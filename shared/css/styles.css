@@ -103,6 +103,50 @@
     border-color: var(--line);
     background: #15120f;
   }
+
+  .meta-row span,
+  .stat-grid div,
+  .route-card,
+  .panel-head > a,
+  .jobs-filter-bar input,
+  .jobs-filter-bar select,
+  .jobs-filter-reset,
+  .jobs-pagination button,
+  .service-link-card:hover,
+  .service-link-card:focus-visible,
+  .quick-link:hover,
+  .quick-link:focus-visible {
+    border-color: var(--line);
+    background: rgba(46, 39, 33, 0.96);
+    color: var(--text);
+  }
+
+  .route-card span,
+  .route-card > span:last-child,
+  .jobs-filter-bar label > span,
+  .jobs-result-line,
+  .jobs-pagination span {
+    color: var(--muted);
+  }
+
+  .panel-head > a,
+  .jobs-filter-reset,
+  .jobs-pagination button,
+  .cta-link,
+  .job-apply-link {
+    color: var(--brand-dark);
+  }
+
+  .jobs-filter-bar input::placeholder {
+    color: #a99989;
+  }
+
+  .jobs-filter-bar select,
+  .jobs-filter-bar select option {
+    color-scheme: dark;
+    background-color: #2e2721;
+    color: var(--text);
+  }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior:auto !important; animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important; }
