@@ -1,63 +1,18 @@
 {
-  "generated_at_utc": "2026-08-13 16:30:09 UTC",
-  "generated_at_local": "2026-08-13 18:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-08-14 07:30:12 UTC",
+  "generated_at_local": "2026-08-14 09:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 205,
+  "count": 212,
   "source_counts": {
     "stadt-kassel-jobs": 11,
-    "hessen-mobil-jobs": 9,
+    "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 98,
-    "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 32,
+    "stadt-wiesbaden-jobs": 30,
+    "stadt-darmstadt-jobs": 33,
     "stadt-offenbach-jobs": 21,
-    "stadt-giessen-jobs": 8
+    "stadt-giessen-jobs": 11
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-6d1b3220bc34bf",
-      "title": "Sachbearbeiter:innen (w/m/d) Grundsteuer",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kassen- und Steueramt",
-      "deadline": "13.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterinnen-wmd-Grundsteuer-de-j11003.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "hessen-mobil-jobs-1f1361b785faf4",
-      "title": "Mitarbeiterin / Mitarbeiter (w/m/d) für die Liegenschaftsbetreuung und Gerätewartung",
-      "employer": "Hessen Mobil",
-      "location": "SM Wächtersbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "13. August 2026",
-      "reference": "UI 26/28",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-07/ui_26_28_platzwart.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
-    {
-      "item_id": "hessen-mobil-jobs-85d2aec505810a",
-      "title": "Ingenieurin / Ingenieur (w/m/d) für die Verkehrstechnik",
-      "employer": "Hessen Mobil",
-      "location": "Wiesbaden",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "13. August 2026",
-      "reference": "BV 26/26",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-07/stellenausschreibung_ing-verkehrstechnik_bv_26_26.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-76db0669bef898",
       "title": "Leiter/in (w/m/d) der Abteilung Repräsentationen beim Amt für Gremiendienste, Protokoll und Internationales",
@@ -72,21 +27,6 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Leiterin-wmd-der-Abteilung-Repraesentationen-beim-Amt-fuer-de-j2996.html",
       "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-d34b6a8071d2d8",
-      "title": "Techn. Angestellte:r (w/m/d) Verkehrstechnik",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Straßenverkehrsamt",
-      "deadline": "14.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Techn-Angestellter-wmd-Verkehrstechnik-de-j11054.html",
-      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-d086740b50ac70",
@@ -266,21 +206,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11025.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-b4f5893be527f7",
-      "title": "Technische:n Angestellte:n, Sicherheitsingenieur:in / Fachkraft (w/m/d) für Arbeitssicherheit",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Arbeitsmedizin und Sicherheitstechnik",
-      "deadline": "16.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Technischen-Angestellten-Sicherheitsingenieurin-Fachkraft--de-j11005.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -854,6 +779,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-46b278606d843b",
+      "title": "Projektingenieur:in (w/m/d) Kanalsanierung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Projektingenieurin-wmd-Kanalsanierung-de-j11156.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-6d32ceb2efdddf",
       "title": "Sachbearbeiter:in (w/m/d) Bestandsverwaltung & Belegungskontrolle",
       "employer": "Stadt Frankfurt am Main",
@@ -971,6 +911,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Abteilungsleiterin-wmd-StadtForst-Leitun-de-j11038.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-b4f5893be527f7",
+      "title": "Technische:n Angestellte:n, Sicherheitsingenieur:in / Fachkraft (w/m/d) für Arbeitssicherheit",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Arbeitsmedizin und Sicherheitstechnik",
+      "deadline": "23.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Technischen-Angestellten-Sicherheitsingenieurin-Fachkraft--de-j11005.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1379,6 +1334,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-52c56c9ea63a2f",
+      "title": "Sozialarbeiterin oder Sozialpädagogin im Anerkennungsjahr für die Inobhutnahme Bornheim",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "28.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-Sozialpaedagogin-im-Anerkennungsjahr-de-j11154.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-d34b6a8071d2d8",
+      "title": "Techn. Angestellte:r (w/m/d) Verkehrstechnik",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Straßenverkehrsamt",
+      "deadline": "28.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Techn-Angestellter-wmd-Verkehrstechnik-de-j11054.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-799fec4c92a4b6",
       "title": "Bestattungsberater:in (w/m/d) Städtische Pietät",
       "employer": "Stadt Frankfurt am Main",
@@ -1499,6 +1484,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-7fcbda4f969fb7",
+      "title": "Sozialarbeiter:in (w/m/d) Bereitschaftspflege",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Bereitschaftspflege-de-j10950.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-c8c6d22bdb60e8",
       "title": "Sozialarbeiter:in (w/m/d) Soziale Hilfen (Schwerpunkt SGB IX) Sozialrathaus Ost, Dienstort Bornheim",
       "employer": "Stadt Frankfurt am Main",
@@ -1511,6 +1511,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Soziale-Hilfen-Schwerpunkt-SGB-IX-Soz-de-j11053.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a040ad377f577e",
+      "title": "Sozialarbeiter:innen (w/m/d) Projektstelle Aufsuchende Sozialarbeit im Bahnhofsviertel",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "30.08.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-wmd-Projektstelle-Aufsuchende-Sozialar-de-j11145.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1586,6 +1601,21 @@
       "reference": "",
       "source_name": "Stadt Gießen",
       "source_url": "https://karriere.giessen.de/jobposting/d71778b475c5b8e6085f3976e04ee3c235176c760?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-278c7d26206a27",
+      "title": "Erzieher*innen oder pädagogische Fachkräfte zum Einsatz in den städtischen Kindertagesstätten und Familienzentren",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit/ Teilzeit",
+      "contract_type": "befristet/ unbefristet",
+      "pay_grade": "bis höchstens in die Entgeltgruppe S 8a TVöD",
+      "department": "Jugendamt",
+      "deadline": "30. August 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/8f7f8b1f90075e4f8ea16be25bfa16d083e157760?ref=Homepage",
       "source_id": "stadt-giessen-jobs"
     },
     {
@@ -1829,6 +1859,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-30f1cb0f5898f5",
+      "title": "Gärtner/in (w/m/d) Rosen-/Mathildenhöhe beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "01.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Gaertnerin-wmd-Rosen-Mathildenhoehe-beim-Gruenflaechenamt-de-j3027.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-0ec56cf76be864",
       "title": "Sachbearbeitung (w/m/d) Gefahrenverhütungsschau in der Abteilung Vorbeugender Brandschutz und Tätigkeit im B-Dienst bei der Feuerwehr Darmstadt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -2009,6 +2054,51 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-841103ca84958d",
+      "title": "Büroleiter/-in für das Schulsekretariat der Elly-Heuss-Schule (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "04.09.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Bueroleiter-in-fuer-das-Schulsekretariat-der-Elly-Heuss-Sc-de-j7291.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-387574cd4e24d1",
+      "title": "Sachbearbeiter/-in für die Ausstattung der Schulen (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "04.09.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sachbearbeiter-in-fuer-die-Ausstattung-der-Schulen-wmd-de-j6995.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-386c21c1c7879a",
+      "title": "Bauingenieurin / Bauingenieur (w/m/d) für die Umsetzung von Straßenbauprojekten",
+      "employer": "Hessen Mobil",
+      "location": "Wiesbaden oder Limburg",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "4. September 2026",
+      "reference": "PBH 26/68",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_streckenbauingenieurin_pbh_26_68.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-8b91837b367bd2",
       "title": "Mitarbeiter:in (w/m/d) Gewerbe- und Gesundheitsaufsicht",
       "employer": "Stadt Frankfurt am Main",
@@ -2067,6 +2157,36 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/mehrere-Stadtpolizistinnen-wmd-de-j4078.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-dfe915c8ba68da",
+      "title": "Bauzeichner*in im Stadtplanungsamt",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Teilzeit",
+      "contract_type": "befristet",
+      "pay_grade": "Entgeltgruppe 6 TVöD",
+      "department": "Stadtplanungsamt",
+      "deadline": "6. September 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/c3cd09e6195bf107dfea0b55e5845e119fba60b40?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-88c0a82d053e3d",
+      "title": "Leitung des Sachgebietes \"Soziales Wohnen\"",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Befristet",
+      "pay_grade": "Entgeltgruppe 10 TVöD",
+      "department": "Amt für soziale Angelegenheiten",
+      "deadline": "6. September 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/e9d7c18fffd14010caf7d59fb58d34a4195fa2fd0?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-99d0025398fd70",
@@ -2231,6 +2351,21 @@
       "reference": "",
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Sachbearbeiter-in-Schadensfaelle-und-Zweckentfremdung-wmd-de-j7234.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-2ed213e2bdd60a",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) im Sachgebiet Waffen-, Jagd- und Fischereibehörde",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "06.09.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sachbearbeiterin-Sachbearbeiter-wmd-im-Sachgebiet-Waffen-J-de-j7311.html",
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
@@ -2744,21 +2879,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-1ae3b4faa0319d",
-      "title": "Gärtner:innen (w/m/d) für anspruchsvolle gärtnerische Arbeiten",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Gaertnerinnen-wmd-fuer-anspruchsvolle-gaertnerische-Arbeit-de-j10325.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-1b812bda9475ec",
       "title": "Ingenieur:innen (w/m/d) Brückenbau",
       "employer": "Stadt Frankfurt am Main",
@@ -2774,33 +2894,18 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-11d844b1d65bfc",
-      "title": "Initiativbewerbung Ingenieur:in (w/m/d) Bau oder Umwelt",
+      "item_id": "stadt-frankfurt-jobs-4ff3f0ceaa9909",
+      "title": "Kanalbetriebsarbeiter:in (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r, Initiativstelle",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
       "contract_type": "",
       "pay_grade": "",
       "department": "Stadtentwässerung Frankfurt am Main",
       "deadline": "",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Ingenieurin-wmd-Bau-oder-Umwelt-de-j5100.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-1cb8a8ce6fc77d",
-      "title": "Initiativbewerbung Ingenieur:in (w/m/d) Bauwesen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r, Initiativstelle",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Ingenieurin-wmd-Bauwesen-de-j5135.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Kanalbetriebsarbeiterin-wmd-de-j11161.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2831,21 +2936,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Kreditorenbuchhaltung-de-j11042.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-c489369f07ded1",
-      "title": "Sozialarbeiter:innen (w/m/d) Kinder- und Jugendhilfe Sozialdienst",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-wmd-Kinder-und-Jugendhilfe-Sozialdiens-de-j5607.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2952,6 +3042,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2016&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-62285a897530e1",
+      "title": "Bezirkssozialarbeiterinnen / Bezirkssozialarbeiter (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Bezirkssozialarbeiterinnen-Bezirkssozialarbeiter-wmd-de-j4150.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-bacb88d0e35c0e",
