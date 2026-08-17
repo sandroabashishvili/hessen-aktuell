@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-17 07:30:10 UTC",
-  "generated_at_local": "2026-08-17 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-08-17 16:30:09 UTC",
+  "generated_at_local": "2026-08-17 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 206,
+  "count": 208,
   "source_counts": {
     "stadt-kassel-jobs": 10,
-    "hessen-mobil-jobs": 9,
+    "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 27,
     "stadt-darmstadt-jobs": 33,
-    "stadt-offenbach-jobs": 20,
+    "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 8
   },
   "items": [
@@ -26,21 +26,6 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Bauingenieurin-oder-Architektin-wmd-im-Bereich-Bauordnungs-de-j2963.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-11eb09c7a6102d",
-      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt, Abteilung Friedhöfe",
-      "deadline": "17.08.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3006.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -2099,6 +2084,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-11eb09c7a6102d",
+      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt, Abteilung Friedhöfe",
+      "deadline": "07.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3006.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-db260572bcd8b5",
       "title": "Schulsozialarbeiterinnen/Schulsozialarbeiter in Voll- oder Teilzeit (w/m/d)",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -2157,6 +2157,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Themenbereichsverantwortlicher-wmd-Smart-City-Schwerpunkt--de-j11052.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-307dda92185dd4",
+      "title": "Bauingenieurin / Bauingenieur (w/m/d) mit Schwerpunkt Verkehrswesen",
+      "employer": "Hessen Mobil",
+      "location": "Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "8. September 2026",
+      "reference": "BVH 26/34",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_pbs_bvh_26_34.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-a85503ef7b6e89",
@@ -2396,6 +2411,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2121&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-00bc11254a363c",
+      "title": "Verwaltungssachbearbeiter*in Sozialamt (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 9c, A 10 HBesO",
+      "department": "Sozialamt",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2122&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
