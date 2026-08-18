@@ -80,7 +80,7 @@ def site_footer(prefix: str) -> str:
       <p class="site-footer__note">© 2026 Hessen Aktuell</p>
       <div class="site-footer__creator">
         <div>
-          <a href="https://sandroabashishvili.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+          <a href="https://sandro-abashishvili.de/" target="_blank" rel="noopener noreferrer">Portfolio</a>
           <a href="https://github.com/sandroabashishvili" target="_blank" rel="noopener noreferrer">GitHub</a>
           <a href="https://www.linkedin.com/in/aleksandre-abashishvili-03417617a/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a href="https://github.com/sandroabashishvili/hessen-aktuell" target="_blank" rel="noopener noreferrer">Projekt</a>
@@ -222,78 +222,52 @@ def _story_media(item: NewsItem, prefix: str, visual_index: int | None = None) -
             f'<img src="{escape(item.media_url, quote=True)}" alt="{escape(item.title, quote=True)}" loading="lazy" decoding="async" />'
             "</a>"
         )
-    topic_image = _topic_image(item, visual_index)
+    topic_image = _topic_image_for_item(item.topic, visual_index)
     if topic_image:
         image_src = f"{prefix}shared/assets/news/topics/{topic_image}"
         return (
-            f'<a class="story-media story-media-generated {topic_class}" href="{escape(item.source_url, quote=True)}" rel="nofollow noopener" target="_blank">'
+            f'<a class="story-media story-media-generated {_topic_class(item.topic)}" href="{escape(item.source_url, quote=True)}" rel="nofollow noopener" target="_blank">'
             f'<img src="{escape(image_src, quote=True)}" alt="{escape(item.city)} {escape(display_topic(item.topic))} Bild" loading="lazy" decoding="async" width="1100" height="619" />'
             "</a>"
         )
-    return (
-        f'<div class="story-media story-media-placeholder {topic_class}">'
-        f"<span>{escape(item.city)}</span>"
-        f"<strong>{escape(display_topic(item.topic))}</strong>"
-        "</div>"
-    )
+    return f'<div class="story-media story-media-placeholder {topic_class}"><span>{escape(item.city)}</span><strong>{escape(display_topic(item.topic))}</strong></div>'
+
+
+def _topic_image_name(topic: str, label: str) -> str | None:
+    candidates = sorted(TOPIC_IMAGE_DIR.glob(f"{topic.lower()}-*.webp"))
+    if not candidates:
+        return None
+    digest = hashlib.sha256(label.encode("utf-8")).digest()
+    return candidates[int.from_bytes(digest[:4], "big") % len(candidates)].name
+
+
+def _topic_image_for_item(topic: str, visual_index: int | None) -> str | None:
+    candidates = sorted(TOPIC_IMAGE_DIR.glob(f"{topic.lower()}-*.webp"))
+    if not candidates:
+        return None
+    if visual_index is None:
+        return candidates[0].name
+    return candidates[visual_index % len(candidates)].name
 
 
 def _topic_class(topic: str) -> str:
     normalized = topic.strip().lower()
-    if normalized in {"police", "transport", "events", "economy", "politics", "safety"}:
+    if normalized in {"politics", "transport", "police", "economy", "events", "safety"}:
         return f"story-media-{normalized}"
-    return "story-media-general"
-
-
-def _topic_image(item: NewsItem, visual_index: int | None = None) -> str | None:
-    if visual_index is not None:
-        return _topic_image_name_by_index(item.topic, visual_index)
-    return _topic_image_name(item.topic, item.item_id)
-
-
-def _topic_image_name(topic: str, stable_key: str) -> str | None:
-    normalized = topic.strip().lower()
-    candidates = _topic_image_candidates(normalized)
-    if not candidates:
-        return None
-    digest = hashlib.sha1(stable_key.encode("utf-8")).hexdigest()
-    index = int(digest[:8], 16) % len(candidates)
-    return candidates[index]
-
-
-def _topic_image_name_by_index(topic: str, visual_index: int) -> str | None:
-    normalized = topic.strip().lower()
-    candidates = _topic_image_candidates(normalized)
-    if not candidates:
-        return None
-    return candidates[visual_index % len(candidates)]
-
-
-def _topic_image_candidates(normalized_topic: str) -> tuple[str, ...]:
-    webp = tuple(path.name for path in sorted(TOPIC_IMAGE_DIR.glob(f"{normalized_topic}-*.webp")))
-    if webp:
-        return webp
-    return tuple(path.name for path in sorted(TOPIC_IMAGE_DIR.glob(f"{normalized_topic}-*.png")))
-
-
-def _public_summary(item: NewsItem) -> str:
-    if item.summary.startswith("Source watch entry for ") or "The MVP stores attribution" in item.summary:
-        return (
-            f"Aktuelle Meldungen zu {display_topic(item.topic)} in {item.city}. "
-            "Die Karte verweist auf die vollständige Originalmeldung mit weiteren Details."
-        )
-    summary = item.summary.strip()
-    if summary and len(summary) < 120:
-        return (
-            f"{summary} Weitere Details, Hintergründe und vollständige Angaben stehen "
-            "in der verlinkten Originalmeldung."
-        )
-    return summary
+    return "story-media-default"
 
 
 def _public_title(title: str) -> str:
-    cleaned = " ".join(title.replace("+++", " · ").split())
-    if len(cleaned) <= 125:
-        return cleaned
-    shortened = cleaned[:122].rsplit(" ", 1)[0].rstrip(" ,·:-")
-    return f"{shortened}..."
+    cleaned = title.strip()
+    if cleaned.startswith("POL-") and ":" in cleaned:
+        cleaned = cleaned.split(":", 1)[1].strip()
+    return cleaned
+
+
+def _public_summary(item: NewsItem) -> str:
+    summary = item.summary.strip()
+    if not summary:
+        return ""
+    if summary.lower().startswith("kurzmeldung"):
+        return ""
+    return summary
