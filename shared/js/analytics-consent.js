@@ -1,9 +1,9 @@
 (function () {
   "use strict";
 
-  const measurementId = "G-K6VEJP4NCY";
+  const measurementId = "G-BMKYWEPNHB";
   const consentKey = "hessenAktuellAnalyticsConsent";
-  const productionHost = "sandroabashishvili.github.io";
+  const productionHost = "sandro-abashishvili.de";
   const scriptUrl = new URL(document.currentScript?.src || "shared/js/analytics-consent.js", location.href);
   const siteRoot = new URL("../../", scriptUrl);
   const privacyUrl = new URL("legal/datenschutz.html", siteRoot).href;
