@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-19 07:30:23 UTC",
-  "generated_at_local": "2026-08-19 09:30:21 Europe/Berlin",
+  "generated_at_utc": "2026-08-19 16:30:07 UTC",
+  "generated_at_local": "2026-08-19 18:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 207,
   "source_counts": {
@@ -1649,6 +1649,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-74acfc0d945b02",
+      "title": "Sachbearbeiter:in (w/m/d) Bildung und Teilhabe",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jobcenter Frankfurt am Main",
+      "deadline": "04.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Bildung-und-Teilhabe-de-j11150.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-0f98e7642df365",
       "title": "Sachbearbeiter:innen (w/m/d) Reinigungskontrolle",
       "employer": "Stadt Frankfurt am Main",
@@ -2801,21 +2816,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieurinnen-wmd-Brueckenbau-de-j10243.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-11d844b1d65bfc",
-      "title": "Initiativbewerbung Ingenieur:in (w/m/d) Bau oder Umwelt",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r, Initiativstelle",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Ingenieurin-wmd-Bau-oder-Umwelt-de-j5100.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
