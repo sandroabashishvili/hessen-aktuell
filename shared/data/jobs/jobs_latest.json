@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-20 07:30:13 UTC",
-  "generated_at_local": "2026-08-20 09:30:11 Europe/Berlin",
+  "generated_at_utc": "2026-08-20 16:30:09 UTC",
+  "generated_at_local": "2026-08-20 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 208,
   "source_counts": {
@@ -176,21 +176,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiterin-wmd-Objektbereich-Verwaltung-de-j10990.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-9de218cf5d81ac",
-      "title": "Senior Steuerliche:r Berater:in (w/m/d) (Magistratsroberrätin:Magistratsoberrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtkämmerei",
-      "deadline": "21.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Senior-Steuerlicher-Beraterin-wmd-MagistratsroberraetinMag-de-j11044.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1589,6 +1574,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-9de218cf5d81ac",
+      "title": "Senior Steuerliche:r Berater:in (w/m/d) (Magistratsroberrätin:Magistratsoberrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtkämmerei",
+      "deadline": "04.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Senior-Steuerlicher-Beraterin-wmd-MagistratsroberraetinMag-de-j11044.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-a27b72874c5428",
       "title": "Sachbearbeiter/in für das Childhood-Haus (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2444,8 +2444,8 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-889193726c23ab",
-      "title": "Leiter:in (w/m/d) des Sachgebiets Ausbildung",
+      "item_id": "stadt-frankfurt-jobs-a80b90a4d5a696",
+      "title": "Leiter:in (w/m/d) der Ausbildung für Vermessungstechniker:innen",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufserfahrene:r, Führungskraft",
@@ -2455,7 +2455,7 @@
       "deadline": "16.09.2026",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-des-Sachgebiets-Ausbildung-de-j11094.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-der-Ausbildung-fuer-Vermessungstechnikerinnen-de-j11094.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2834,6 +2834,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-d085b6840fa098",
+      "title": "Initiativbewerbung Stadtplanungsamt (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Initiativstelle",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtplanungsamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Stadtplanungsamt-wmd-de-j10336.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-4ff3f0ceaa9909",
       "title": "Kanalbetriebsarbeiter:in (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2876,21 +2891,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-wmd-Kinder-und-Jugendhilfe-Sozialdiens-de-j5607.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-85ff8b63dc1699",
-      "title": "Steuerliche:r Berater:in (w/m/d) (Magistratsrätin:Magistratsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtkämmerei",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Steuerlicher-Beraterin-wmd-MagistratsraetinMagistratsrat-de-j10680.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
