@@ -80,7 +80,7 @@ def site_footer(prefix: str) -> str:
       <p class="site-footer__note">© 2026 Hessen Aktuell</p>
       <div class="site-footer__creator">
         <div>
-          <a href="https://sandroabashishvili.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+          <a href="https://sandro-abashishvili.de/" target="_blank" rel="noopener noreferrer">Portfolio</a>
           <a href="https://github.com/sandroabashishvili" target="_blank" rel="noopener noreferrer">GitHub</a>
           <a href="https://www.linkedin.com/in/aleksandre-abashishvili-03417617a/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a href="https://github.com/sandroabashishvili/hessen-aktuell" target="_blank" rel="noopener noreferrer">Projekt</a>

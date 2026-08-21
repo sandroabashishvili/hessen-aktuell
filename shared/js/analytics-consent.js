@@ -1,16 +1,26 @@
 (function () {
   "use strict";
 
-  const measurementId = "G-K6VEJP4NCY";
+  const measurementId = "G-BMKYWEPNHB";
   const consentKey = "hessenAktuellAnalyticsConsent";
-  const productionHost = "sandroabashishvili.github.io";
+  const productionHost = "sandro-abashishvili.de";
   const scriptUrl = new URL(document.currentScript?.src || "shared/js/analytics-consent.js", location.href);
   const siteRoot = new URL("../../", scriptUrl);
   const privacyUrl = new URL("legal/datenschutz.html", siteRoot).href;
   let banner = null;
   let analyticsLoaded = false;
 
-  function loadAnalytics() {
+  function setConsent(value) {
+    if (typeof window.gtag !== "function") return;
+    window.gtag("consent", "update", {
+      analytics_storage: value,
+      ad_storage: "denied",
+      ad_user_data: "denied",
+      ad_personalization: "denied",
+    });
+  }
+
+  function loadAnalytics(savedConsent) {
     if (analyticsLoaded || location.hostname !== productionHost) return;
     analyticsLoaded = true;
     window.dataLayer = window.dataLayer || [];
@@ -21,12 +31,7 @@
       ad_user_data: "denied",
       ad_personalization: "denied",
     });
-    window.gtag("consent", "update", {
-      analytics_storage: "granted",
-      ad_storage: "denied",
-      ad_user_data: "denied",
-      ad_personalization: "denied",
-    });
+    if (savedConsent === "granted") setConsent("granted");
     window.gtag("js", new Date());
     window.gtag("config", measurementId, {
       allow_google_signals: false,
@@ -52,8 +57,8 @@
 
   function saveConsent(value) {
     try { localStorage.setItem(consentKey, value); } catch (_) {}
-    if (value === "granted") loadAnalytics();
-    else clearAnalyticsCookies();
+    setConsent(value);
+    if (value === "denied") clearAnalyticsCookies();
     banner?.remove();
     banner = null;
   }
@@ -68,7 +73,7 @@
     banner.innerHTML = `
       <div class="consent-copy">
         <strong id="hessen-consent-title">Optionale Statistik</strong>
-        <p>Mit Ihrer Einwilligung verwenden wir Google Analytics, um die Nutzung von Hessen Aktuell zu verstehen. Ohne Zustimmung wird der Google-Tag nicht geladen. <a href="${privacyUrl}">Mehr erfahren</a></p>
+        <p>Mit Ihrer Einwilligung verwenden wir Google Analytics für die vollständige Nutzungsanalyse von Hessen Aktuell. Ohne Zustimmung werden keine Analytics-Cookies gesetzt; Google kann cookielose Messsignale erhalten. <a href="${privacyUrl}">Mehr erfahren</a></p>
       </div>
       <div class="consent-actions">
         <button type="button" class="consent-button" data-consent="denied">Ablehnen</button>
@@ -95,7 +100,7 @@
 
   let consent = null;
   try { consent = localStorage.getItem(consentKey); } catch (_) {}
-  if (consent === "granted") loadAnalytics();
+  loadAnalytics(consent);
   if (consent !== "granted" && consent !== "denied") showBanner();
   addSettingsControl();
   document.addEventListener("click", (event) => {

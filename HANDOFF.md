@@ -1,6 +1,6 @@
 # Hessen Aktuell Handoff
 
-Date: 2026-07-28
+Updated: 2026-08-21
 Project path: /home/sandro/portfolio_projects/hessen_aktuell
 Windows path: \\wsl$\Ubuntu\home\sandro\portfolio_projects\hessen_aktuell
 
@@ -43,13 +43,13 @@ Finish Hessen Aktuell as a GitHub Pages-ready regional news portal that can run 
 Run from WSL:
 
     cd /home/sandro/portfolio_projects/hessen_aktuell
-    HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" bash scripts/build_publish.sh
+    HESSEN_AKTUELL_BASE_URL="https://sandro-abashishvili.de/hessen-aktuell" bash scripts/build_publish.sh
 
 Last verified result:
 
 - news pipeline builds homepage, city pages, topic pages, daily archive
-- robots.txt uses https://sandroabashishvili.github.io/hessen-aktuell/sitemap.xml
-- sitemap.xml uses https://sandroabashishvili.github.io/hessen-aktuell/... URLs
+- robots.txt uses https://sandro-abashishvili.de/hessen-aktuell/sitemap.xml
+- sitemap.xml uses https://sandro-abashishvili.de/hessen-aktuell/... URLs
 - internal links: 0 broken
 - sitemap: 0 missing, robots ok
 - SEO meta: 0 missing
@@ -59,7 +59,7 @@ Notes from latest runs:
 
 - Source freshness may show a notice for polizei-nordhessen-presse because the latest parsed public item can be older than the build day.
 - Mainova can occasionally timeout or return empty during diagnostics, but when site checks are healthy this should not block publishing.
-- The folder is not a git repository yet. build_publish.sh currently prints: Not a git repository yet; generation and diagnostics completed only.
+- The project is a Git repository with a scheduled source → generated-site workflow.
 
 ## Next Steps
 
@@ -69,7 +69,7 @@ Notes from latest runs:
 4. Test AUTO_COMMIT=1 behavior when scheduled publishing is enabled:
 
        cd /home/sandro/portfolio_projects/hessen_aktuell
-       HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" AUTO_COMMIT=1 bash scripts/build_publish.sh
+       HESSEN_AKTUELL_BASE_URL="https://sandro-abashishvili.de/hessen-aktuell" AUTO_COMMIT=1 bash scripts/build_publish.sh
 
 5. Check logs under shared/data/automation_logs after scheduler runs.
 

@@ -8,7 +8,7 @@ automatisiert erfasst, strukturiert und als statische Website veröffentlicht.
 Das Projekt verbindet Quellenverarbeitung, lokale Suche und Filter,
 SEO-optimierte Themenseiten und einen wiederholbaren Publish-Prozess.
 
-**Live:** [sandroabashishvili.github.io/hessen-aktuell](https://sandroabashishvili.github.io/hessen-aktuell/)
+**Live:** [sandro-abashishvili.de/hessen-aktuell](https://sandro-abashishvili.de/hessen-aktuell/)
 
 - automatische Hell-/Dunkeldarstellung nach Systemeinstellung
 - gültiges PWA-Manifest mit projektspezifischen Installations-Icons
@@ -67,7 +67,7 @@ python3 -m shared.py.diagnostics
 Für eine veröffentlichungsfähige Version mit korrekter Basis-URL:
 
 ```bash
-HESSEN_AKTUELL_BASE_URL="https://sandroabashishvili.github.io/hessen-aktuell" \
+HESSEN_AKTUELL_BASE_URL="https://sandro-abashishvili.de/hessen-aktuell" \
   bash scripts/build_publish.sh
 ```
 
@@ -109,5 +109,5 @@ Details stehen in [docs/current_status.md](docs/current_status.md).
 
 Sandro Abashishvili
 
-[Portfolio](https://sandroabashishvili.github.io/) ·
+[Portfolio](https://sandro-abashishvili.de/) ·
 [GitHub](https://github.com/sandroabashishvili)
