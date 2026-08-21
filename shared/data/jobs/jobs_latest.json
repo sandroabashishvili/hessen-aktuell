@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-21 08:20:37 UTC",
-  "generated_at_local": "2026-08-21 10:20:35 Europe/Berlin",
+  "generated_at_utc": "2026-08-21 10:53:18 UTC",
+  "generated_at_local": "2026-08-21 12:53:16 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 210,
   "source_counts": {
@@ -2129,6 +2129,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-221af6b3249357",
+      "title": "Teamleiter:innen (w/m/d) Schulhausverwaltung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "13.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Teamleiterinnen-wmd-Schulhausverwaltung-de-j11109.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-giessen-jobs-fadedb7611413c",
       "title": "Erzieher*in für die Mitarbeit im \"Pakt für den Ganztag\" an einer Gießener Grundschule",
       "employer": "Universitätsstadt Gießen",
@@ -2771,21 +2786,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Brandreferendarinnen-wmd-de-j8248.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-3cf1fcc899dbe5",
-      "title": "Einsatzbearbeiter:in (w/m/d) Zentrale Leitstelle (Hauptbrandmeister:innen)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Einsatzbearbeiterin-wmd-Zentrale-Leitstelle-Hauptbrandmeis-de-j9635.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
