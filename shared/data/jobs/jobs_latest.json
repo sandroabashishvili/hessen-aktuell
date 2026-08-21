@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-21 10:53:18 UTC",
-  "generated_at_local": "2026-08-21 12:53:16 Europe/Berlin",
+  "generated_at_utc": "2026-08-21 16:30:08 UTC",
+  "generated_at_local": "2026-08-21 18:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 210,
   "source_counts": {
@@ -29,8 +29,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-6309bb60e56d13",
-      "title": "Mitarbeiter:in (w/m/d) Objektbereich Verwaltung",
+      "item_id": "stadt-frankfurt-jobs-b2244e8db0e2e9",
+      "title": "Mitarbeiter:in (w/m/d) Objektbereich VerwaltungMitarbeiter:in (w/m/d) Objektbereich Verwaltung",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufserfahrene:r",
@@ -40,7 +40,7 @@
       "deadline": "21.08.2026",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiterin-wmd-Objektbereich-Verwaltung-de-j10990.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiterin-wmd-Objektbereich-VerwaltungMitarbeiterin-wm-de-j10990.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
