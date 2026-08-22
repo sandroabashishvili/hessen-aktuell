@@ -1,63 +1,18 @@
 {
-  "generated_at_utc": "2026-08-21 16:30:08 UTC",
-  "generated_at_local": "2026-08-21 18:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-08-22 07:30:10 UTC",
+  "generated_at_local": "2026-08-22 09:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 210,
+  "count": 209,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 99,
-    "stadt-wiesbaden-jobs": 31,
+    "stadt-wiesbaden-jobs": 30,
     "stadt-darmstadt-jobs": 26,
     "stadt-offenbach-jobs": 25,
     "stadt-giessen-jobs": 9
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-f9728a68e968d1",
-      "title": "Ausbildung Tierpfleger:in (w/m/d) Fachrichtung Zoo",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Zoologischer Garten Frankfurt",
-      "deadline": "21.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-Tierpflegerin-wmd-Fachrichtung-Zoo-de-j10858.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-b2244e8db0e2e9",
-      "title": "Mitarbeiter:in (w/m/d) Objektbereich VerwaltungMitarbeiter:in (w/m/d) Objektbereich Verwaltung",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "21.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiterin-wmd-Objektbereich-VerwaltungMitarbeiterin-wm-de-j10990.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-wiesbaden-jobs-93c1ef5bd63b6d",
-      "title": "Projektleitung „Strategische Freiraumentwicklung und Förderprogramme“ (w/m/d)",
-      "employer": "Landeshauptstadt Wiesbaden",
-      "location": "Wiesbaden",
-      "employment_type": "abgeschlossenes Studium",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "21.08.2026",
-      "reference": "",
-      "source_name": "Stadt Wiesbaden",
-      "source_url": "https://karriere.wiesbaden.de/Projektleitung-Strategische-Freiraumentwicklung-und-Foerde-de-j6907.html",
-      "source_id": "stadt-wiesbaden-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-7b001f06a951cb",
       "title": "Sozialarbeiter:innen (w/m/d) Screening für unbegleitete minderjährige Ausländer:innen",
@@ -2789,6 +2744,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-3cf1fcc899dbe5",
+      "title": "Einsatzbearbeiter:in (w/m/d) Zentrale Leitstelle (Hauptbrandmeister:innen)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Einsatzbearbeiterin-wmd-Zentrale-Leitstelle-Hauptbrandmeis-de-j9635.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-1ae3b4faa0319d",
       "title": "Gärtner:innen (w/m/d) für anspruchsvolle gärtnerische Arbeiten",
       "employer": "Stadt Frankfurt am Main",
@@ -2906,6 +2876,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-wmd-Kinder-und-Jugendhilfe-Sozialdiens-de-j5607.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-f8ae788f8c2a34",
+      "title": "Studierende (w/m/d) der Sozialen Arbeit/Sozialpädagogik im Praxissemester Inobhutnahmeeinrichtungen",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Studierende-wmd-der-Sozialen-ArbeitSozialpaedagogik-im-Pra-de-j9607.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
