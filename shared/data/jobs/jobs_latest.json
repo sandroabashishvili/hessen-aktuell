@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-22 16:30:10 UTC",
-  "generated_at_local": "2026-08-22 18:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-08-23 07:30:08 UTC",
+  "generated_at_local": "2026-08-23 09:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 209,
   "source_counts": {
@@ -13,21 +13,6 @@
     "stadt-giessen-jobs": 9
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-7b001f06a951cb",
-      "title": "Sozialarbeiter:innen (w/m/d) Screening für unbegleitete minderjährige Ausländer:innen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "22.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-wmd-Screening-fuer-unbegleitete-minder-de-j9653.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-a66313bd621b28",
       "title": "Aufseher/in Kassendienst (w/m/d) beim Institut Mathildenhöhe - Welterbebüro",
@@ -2891,6 +2876,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Studierende-wmd-der-Sozialen-ArbeitSozialpaedagogik-im-Pra-de-j9607.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-83dd27564eabd7",
+      "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Zwischenpraktikum (von 120 bis 400-Stunden)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Studierende-der-Sozialen-Arbeit-oder-Sozialpaedagogik-im-s-de-j9373.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
