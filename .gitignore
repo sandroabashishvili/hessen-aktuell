@@ -45,3 +45,7 @@ node_modules/
 shared/data/automation_logs/
 shared/data/diagnostics/*_report_*.json
 Screenshot*.png
+
+# Lokale Projektdokumentation (nicht auf GitHub veroeffentlichen)
+docs/
+HANDOFF.md

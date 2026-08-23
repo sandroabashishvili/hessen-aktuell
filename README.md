@@ -90,7 +90,6 @@ python3 -m http.server 8000
 ├── archive/                # tägliche Archive
 ├── jobs/                   # generierte aktuelle Stellenangebote
 ├── service/                # nützliche offizielle Dienste
-├── docs/                   # Architektur und Projektregeln
 ├── scripts/                # Build- und Automatisierungsskripte
 └── index.html
 ```
@@ -102,8 +101,6 @@ vollständiges redaktionelles Produkt. Nachrichten und Stellenangebote werden
 aus freigegebenen Quellen erzeugt. Als Nächstes folgen weitere offizielle
 Jobquellen, zusätzliche SEO-/Indexierungsarbeit und eine stabilere
 langfristige Automatisierung.
-
-Details stehen in [docs/current_status.md](docs/current_status.md).
 
 ## Autor
 
