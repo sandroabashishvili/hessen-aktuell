@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-24 07:30:10 UTC",
-  "generated_at_local": "2026-08-24 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-08-24 16:30:09 UTC",
+  "generated_at_local": "2026-08-24 18:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 200,
+  "count": 202,
   "source_counts": {
-    "stadt-kassel-jobs": 8,
-    "hessen-mobil-jobs": 9,
+    "stadt-kassel-jobs": 9,
+    "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 29,
     "stadt-darmstadt-jobs": 25,
@@ -1712,7 +1712,7 @@
       "item_id": "hessen-mobil-jobs-6fd0dfa4175f60",
       "title": "Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst",
       "employer": "Hessen Mobil",
-      "location": "Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Bauingenieurin / Bauingenieur (w/m/d) für Ingenieurbauprojekte Standort: Wiesbaden",
+      "location": "Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Bauingenieurin / Bauingenieur (w/m/d) für Ingenieurbauprojekte Standort: Wiesbaden oder Limburg",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
@@ -1994,6 +1994,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-e3d89276082741",
+      "title": "Assistent:in (w/m/d) Abteilungsleitung und Leitung Geschäftsstelle",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "14.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Assistentin-wmd-Abteilungsleitung-und-Leitung-Geschaeftsst-de-j11105.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-bab7e839e1180a",
       "title": "Sachbearbeiter:in (w/m/d) Landschaftsplanung und Ökologie",
       "employer": "Stadt Frankfurt am Main",
@@ -2129,6 +2144,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-5f90070ddada34",
+      "title": "Bauingenieurin / Bauingenieur (w/m/d) für die Weiterentwicklung der öffentl. Verkehrsinfrastruktur",
+      "employer": "Hessen Mobil",
+      "location": "Wiesbaden (Zentrale)",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "16. September 2026",
+      "reference": "PBH 26/62",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_pbh_26_62.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-ec94b342134c4c",
       "title": "Mitarbeiter*in Geschäftsstelle / Geschäftszimmer (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2157,6 +2187,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2123&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-e13b3112068000",
+      "title": "Mitarbeiter/in CM, Bibliothek, IT-Praxis (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Kulturamt",
+      "deadline": "21. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiter-in-fuer-die-Arbeitsbereiche-Change-Management-Bibliothek-und-IT-Praxis-w-m-d-41-.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-offenbach-jobs-6434101b14152d",
@@ -2202,6 +2247,21 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Leitung-wmd-des-Teams-Asyl-und-Humanitaer-beim-Buerger-und-de-j3011.html",
       "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-e531a331460785",
+      "title": "Sozialarbeiter:in oder Sozialpädagogin:Sozialpädagoge (w/m/d) im Anerkennungsjahr im Sozialrathaus Nord",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "30.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11147.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-9ef6c1a7d4bde2",
@@ -2534,21 +2594,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-6ef649d3fcbaa1",
-      "title": "Forstwirt:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Forstwirtinnen-wmd-de-j4976.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-1ae3b4faa0319d",
       "title": "Gärtner:innen (w/m/d) für anspruchsvolle gärtnerische Arbeiten",
       "employer": "Stadt Frankfurt am Main",
@@ -2711,21 +2756,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Studierende-wmd-der-Sozialen-ArbeitSozialpaedagogik-im-Pra-de-j9607.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-ad2213f3635de8",
-      "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Praktikum und 400-Stunden-Praktikum/Praxisphase",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Praktikant:in (Studium)",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Studierende-der-Sozialen-Arbeit-oder-Sozialpaedagogik-im-s-de-j5791.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
