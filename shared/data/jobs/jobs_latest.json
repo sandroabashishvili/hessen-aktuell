@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-25 07:30:12 UTC",
-  "generated_at_local": "2026-08-25 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-08-25 16:30:12 UTC",
+  "generated_at_local": "2026-08-25 18:30:11 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 199,
+  "count": 200,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 10,
@@ -10,7 +10,7 @@
     "stadt-wiesbaden-jobs": 28,
     "stadt-darmstadt-jobs": 23,
     "stadt-offenbach-jobs": 23,
-    "stadt-giessen-jobs": 7
+    "stadt-giessen-jobs": 8
   },
   "items": [
     {
@@ -1781,6 +1781,21 @@
       "reference": "",
       "source_name": "Stadt Gießen",
       "source_url": "https://karriere.giessen.de/jobposting/58051942fdd31100e72fce4d3426b32dfde68aa90?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-88d1c74974fb34",
+      "title": "Sozialarbeiter*in oder Sozialpädagog*in für Jugendhilfe im Strafverfahren für das Jugendamt",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "befristet",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "13. September 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/e6d338d6ab6fecbd9e6e0ec1e44a948830a74cb70?ref=Homepage",
       "source_id": "stadt-giessen-jobs"
     },
     {
