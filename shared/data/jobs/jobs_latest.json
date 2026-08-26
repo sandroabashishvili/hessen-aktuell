@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-26 07:30:08 UTC",
-  "generated_at_local": "2026-08-26 09:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-08-26 16:30:08 UTC",
+  "generated_at_local": "2026-08-26 18:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 201,
+  "count": 203,
   "source_counts": {
-    "stadt-kassel-jobs": 9,
+    "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 10,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 29,
     "stadt-darmstadt-jobs": 23,
-    "stadt-offenbach-jobs": 23,
+    "stadt-offenbach-jobs": 24,
     "stadt-giessen-jobs": 8
   },
   "items": [
@@ -401,21 +401,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Objektbereich-SchulenKitas-Oberamt-de-j11084.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-7fcbda4f969fb7",
-      "title": "Sozialarbeiter:in (w/m/d) Bereitschaftspflege",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "30.08.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Bereitschaftspflege-de-j10950.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1739,6 +1724,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-54956f6de8ea4b",
+      "title": "Personalsachbearbeiter:in (w/m/d) (Oberinspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "13.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Personalsachbearbeiterin-wmd-Oberinspektorin-de-j11195.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-7fcbda4f969fb7",
+      "title": "Sozialarbeiter:in (w/m/d) Bereitschaftspflege",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "13.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Bereitschaftspflege-de-j10950.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-221af6b3249357",
       "title": "Teamleiter:innen (w/m/d) Schulhausverwaltung",
       "employer": "Stadt Frankfurt am Main",
@@ -2144,6 +2159,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-55141e69da99f1",
+      "title": "Mitarbeiter*in Poststelle / Telefonzentrale (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 7",
+      "department": "MainArbeit. Kommunales Jobcenter Offenbach",
+      "deadline": "20.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2128&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-60243bc8021862",
       "title": "Sozialarbeiter*in / Sozialpädagog*in (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2172,6 +2202,36 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiter-in-fuer-die-Arbeitsbereiche-Change-Management-Bibliothek-und-IT-Praxis-w-m-d-41-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-ab5e374adbfd21",
+      "title": "Bautechniker/in für die Feuerwehr (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet bis 31. August 2028",
+      "pay_grade": "",
+      "department": "Feuerwehr",
+      "deadline": "23. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Bautechnikerin-Bautechniker-w-m-d-37-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-626e6cfd00f6ba",
+      "title": "Sachgebietsleiter:in (w/m/d) Artenschutz und Bauleitplanung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Umweltamt",
+      "deadline": "25.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Artenschutz-und-Bauleitplanung-de-j11180.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-offenbach-jobs-6434101b14152d",
@@ -2504,21 +2564,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-6c5d9226b2346a",
-      "title": "Brandmeister:in (w/m/d) im mittleren feuerwehrtechnischen Dienst",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz, Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Brandmeisterin-wmd-im-mittleren-feuerwehrtechnischen-Diens-de-j436.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-9958dd2692889a",
       "title": "Brandoberinspektoranwärter:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2786,21 +2831,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Textredakteurin-wmd-de-j10971.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-e1b6d19314b84d",
-      "title": "Werkfeuerwehrfrau:Werkfeuerwehrmann (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/WerkfeuerwehrfrauWerkfeuerwehrmann-wmd-de-j435.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
