@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-08-27 07:30:11 UTC",
-  "generated_at_local": "2026-08-27 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-08-27 16:30:40 UTC",
+  "generated_at_local": "2026-08-27 18:30:39 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 202,
+  "count": 203,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 10,
-    "stadt-frankfurt-jobs": 98,
+    "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 29,
     "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 25,
@@ -2126,6 +2126,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Artenschutz-und-Bauleitplanung-de-j11180.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-033cf7106164d0",
+      "title": "Abteilungsleiter:in (w/m/d) Zentrale fachliche Dienste",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtplanungsamt",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiterin-wmd-Zentrale-fachliche-Dienste-de-j11163.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
