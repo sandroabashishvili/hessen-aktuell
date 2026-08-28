@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-08-28 07:30:12 UTC",
-  "generated_at_local": "2026-08-28 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-08-28 16:30:11 UTC",
+  "generated_at_local": "2026-08-28 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 205,
+  "count": 207,
   "source_counts": {
     "stadt-kassel-jobs": 10,
-    "hessen-mobil-jobs": 9,
+    "hessen-mobil-jobs": 11,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 31,
     "stadt-darmstadt-jobs": 21,
@@ -1994,6 +1994,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-28fcd26a61acb1",
+      "title": "Ingenieurin / Ingenieur (w/m/d) für Verkehrssicherungsarbeit und Baustellenmanagement",
+      "employer": "Hessen Mobil",
+      "location": "Eschwege oder Fulda",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "20. September 2026",
+      "reference": "BV 26/28",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/verkehrsing-baustellenmanagement_eschwege_bv_26_28.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-1d1c44d9958bad",
       "title": "Umwelttechnologin:Umwelttechnologe (w/m/d) für Abwasserbewirtschaftung",
       "employer": "Stadt Frankfurt am Main",
@@ -2082,6 +2097,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2129&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-83ccce35945cae",
+      "title": "Ingenieurin / Ingenieur (w/m/d) der Fachrichtung Bauingenieurwesen …",
+      "employer": "Hessen Mobil",
+      "location": "Schotten",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "20. September 2026",
+      "reference": "BV 26/12",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_bv_26_12_streckenbau_schotten.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-669dd99ba28b7e",
