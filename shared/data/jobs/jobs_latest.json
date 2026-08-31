@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-08-31 07:30:12 UTC",
-  "generated_at_local": "2026-08-31 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-08-31 16:30:10 UTC",
+  "generated_at_local": "2026-08-31 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 183,
+  "count": 186,
   "source_counts": {
-    "stadt-kassel-jobs": 10,
+    "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 9,
     "stadt-frankfurt-jobs": 85,
     "stadt-wiesbaden-jobs": 28,
-    "stadt-darmstadt-jobs": 21,
-    "stadt-offenbach-jobs": 23,
-    "stadt-giessen-jobs": 7
+    "stadt-darmstadt-jobs": 23,
+    "stadt-offenbach-jobs": 24,
+    "stadt-giessen-jobs": 6
   },
   "items": [
     {
@@ -1229,21 +1229,6 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
-      "item_id": "stadt-offenbach-jobs-4140a00909f904",
-      "title": "Koordinator*in Patenschaftsmodell Offenbach (PMO) (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD S11b",
-      "department": "Jugendamt",
-      "deadline": "13.09.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2130&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
       "item_id": "stadt-offenbach-jobs-e00c41be3d045f",
       "title": "Pädagogische Fachkraft (Krippe) Kita im Goethequartier (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1514,6 +1499,36 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-7dd1cd5de80cd3",
+      "title": "Sachbearbeiter/in (w/m/d) im Bereich Unterhaltsvorschuss beim Jugendamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "16.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-im-Bereich-Unterhaltsvorschuss-beim-J-de-j3030.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-9733f0213ede9e",
+      "title": "Stadtplaner/in (w/m/d) beim Stadtplanungsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtplanungsamt",
+      "deadline": "16.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Stadtplanerin-wmd-beim-Stadtplanungsamt-de-j3029.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-ffc83571cfc94b",
       "title": "Abteilungsleiter:in (w/m/d) Abwasserbehandlung Betrieb",
       "employer": "Stadt Frankfurt am Main",
@@ -1646,21 +1661,6 @@
       "reference": "",
       "source_name": "Stadt Gießen",
       "source_url": "https://karriere.giessen.de/jobposting/67d75394a68fc6ee6a139b5cd0ad743071a8bd350?ref=Homepage",
-      "source_id": "stadt-giessen-jobs"
-    },
-    {
-      "item_id": "stadt-giessen-jobs-ddbdbf1eaed522",
-      "title": "Reinigungskraft für die Herderschule",
-      "employer": "Universitätsstadt Gießen",
-      "location": "Gießen",
-      "employment_type": "Teilzeit",
-      "contract_type": "unbefristet",
-      "pay_grade": "Entgeltgruppe 3 TVöD",
-      "department": "Schulverwaltungsamt",
-      "deadline": "20. September 2026",
-      "reference": "",
-      "source_name": "Stadt Gießen",
-      "source_url": "https://karriere.giessen.de/jobposting/9c53999e9cce2b9db19702f3dcd7e6837865b8890?ref=Homepage",
       "source_id": "stadt-giessen-jobs"
     },
     {
@@ -1844,6 +1844,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-f00dd4de049362",
+      "title": "Sozialarb./Sozialpäd. für Modulare Qualifizierung (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet bis 30. Juni 2027",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "27. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Sozialpaedagoginnen-bzw.Sozialarbeiterinnen-Sozialpaedagogen-bzw.Sozialarbeiter-fuer-das-Programm-Modulare-Qualifizierung-fuer-den-Bereich-Allgemeine-Soziale-Dienste-w-m-d-51-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-6434101b14152d",
       "title": "Bereichsleitung Hochbaumanagement (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1856,6 +1871,36 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2121&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-ca728633622930",
+      "title": "Sachbearbeiter*in Versicherungsamt (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 9b, A 9 g.D. HBesO",
+      "department": "Wohnungs-, Versicherungs- und Standesamt",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2132&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-afcf8088310cdc",
+      "title": "Schulverwaltungskraft in Springerfunktion im Rahmen eines Förderprogramms (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 8",
+      "department": "Stadtschulamt",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2131&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
