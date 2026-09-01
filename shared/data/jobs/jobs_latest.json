@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-01 07:30:10 UTC",
-  "generated_at_local": "2026-09-01 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-09-01 16:30:12 UTC",
+  "generated_at_local": "2026-09-01 18:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 183,
+  "count": 191,
   "source_counts": {
-    "stadt-kassel-jobs": 8,
-    "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 88,
+    "stadt-kassel-jobs": 10,
+    "hessen-mobil-jobs": 12,
+    "stadt-frankfurt-jobs": 91,
     "stadt-wiesbaden-jobs": 27,
     "stadt-darmstadt-jobs": 21,
     "stadt-offenbach-jobs": 24,
@@ -1664,6 +1664,36 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-532ab5fd828053",
+      "title": "Leiter:in (w/m/d) des Denkmalamtes (Hauptkonservator:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Dezernat III - Planen, Wohnen und Personal",
+      "deadline": "22.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-des-Denkmalamtes-Hauptkonservatorin-de-j11240.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-dabd8af2a529fa",
+      "title": "stellv. Teamleiter:in (w/m/d) Hilfen zur Gesundheit und Beförderungsdienst",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "23.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/stellv-Teamleiterin-wmd-Hilfen-zur-Gesundheit-und-Befoerde-de-j11124.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-ab5e374adbfd21",
       "title": "Bautechniker/in für die Feuerwehr (w/m/d)",
       "employer": "Stadt Kassel",
@@ -1694,6 +1724,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-50669dfcba564e",
+      "title": "Mitarbeiter/in für die Bibliothek der Musikakademie (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet für zwei Jahre",
+      "pay_grade": "",
+      "department": "Kulturamt",
+      "deadline": "25. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiterin-Mitarbeiter-fuer-die-Bibliothek-der-Musikakademie-w-m-d-41-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-033cf7106164d0",
       "title": "Abteilungsleiter:in (w/m/d) Zentrale fachliche Dienste",
       "employer": "Stadt Frankfurt am Main",
@@ -1722,6 +1767,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitektin-wmd-Projektleitung-Aussenanlagen-Sc-de-j11121.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-d01cb2319fa4cf",
+      "title": "Sachbearbeiter/in Wasser- und Bodenschutzbehörde (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Umwelt- und Gartenamt",
+      "deadline": "27. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sachbearbeiterin-Sachbearbeiter-fuer-die-Untere-Wasser-und-Bodenschutzbehoerde-w-m-d-67-.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-f00dd4de049362",
@@ -1829,6 +1889,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-d9b1a17613878d",
+      "title": "Sachbearbeiter:in (w/m/d) Ausschreibungsservice (Amtfrau:Amtmann)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtkämmerei",
+      "deadline": "29.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Ausschreibungsservice-AmtfrauAmtmann-de-j11111.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-d4d350304ed837",
       "title": "Leitung (w/m/d) des Teams Asyl und Humanitär beim Bürger- und Ordnungsamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1842,6 +1917,21 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Leitung-wmd-des-Teams-Asyl-und-Humanitaer-beim-Buerger-und-de-j3011.html",
       "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-858b8bb87ad31e",
+      "title": "Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Systemintegration",
+      "employer": "Hessen Mobil",
+      "location": "Darmstadt, Eschwege, Gelnhausen, Schotten, Kassel oder Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. September 2026",
+      "reference": "FISI-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_systemintegration_mehrere_aussenstellen.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-c51c11537b9835",
@@ -1872,6 +1962,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11147.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-36f83819b3a829",
+      "title": "Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Anwendungsentwicklung",
+      "employer": "Hessen Mobil",
+      "location": "Fulda",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. September 2026",
+      "reference": "FIA-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_anwendungsentwicklung_fulda.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-9ef6c1a7d4bde2",
@@ -1917,6 +2022,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Brandmeisterinnen-Brandmeister-wmd-fuer-die-Ausbildung-im--de-j7349.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-76ae21895e99a6",
+      "title": "Auszubildende (w/m/d) zur Geomatikerin / zum Geomatiker",
+      "employer": "Hessen Mobil",
+      "location": "Kassel / Homburg (Efze)",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "23. Oktober 2026",
+      "reference": "GEO-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-geomatikerin_homberg_efze_kassel.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-c4127bc349d724",
@@ -2279,6 +2399,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-576b646c4c6179",
+      "title": "Hauptbrandmeister:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Hauptbrandmeisterin-wmd-de-j11189.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-1b812bda9475ec",
       "title": "Ingenieur:innen (w/m/d) Brückenbau",
       "employer": "Stadt Frankfurt am Main",
@@ -2396,21 +2531,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Pflasterbauerinnen-Strassenbauerinnen-wmd-de-j10701.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-d9b1a17613878d",
-      "title": "Sachbearbeiter:in (w/m/d) Ausschreibungsservice (Amtfrau:Amtmann)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtkämmerei",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Ausschreibungsservice-AmtfrauAmtmann-de-j11111.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
