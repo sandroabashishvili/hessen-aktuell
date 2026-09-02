@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-02 07:30:11 UTC",
-  "generated_at_local": "2026-09-02 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-09-02 16:30:10 UTC",
+  "generated_at_local": "2026-09-02 18:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 184,
+  "count": 186,
   "source_counts": {
     "stadt-kassel-jobs": 9,
-    "hessen-mobil-jobs": 12,
-    "stadt-frankfurt-jobs": 89,
+    "hessen-mobil-jobs": 11,
+    "stadt-frankfurt-jobs": 90,
     "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 18,
+    "stadt-darmstadt-jobs": 20,
     "stadt-offenbach-jobs": 24,
     "stadt-giessen-jobs": 6
   },
@@ -41,21 +41,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Kuratorischer-Assistentin-wmd-de-j11136.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-7e763c78f483e0",
-      "title": "Versorgungsingenieur:in (w/m/d) Technisches Objektmanagement",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "02.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Versorgungsingenieurin-wmd-Technisches-Objektmanagement-de-j11089.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1364,21 +1349,6 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-28fcd26a61acb1",
-      "title": "Ingenieurin / Ingenieur (w/m/d) für Verkehrssicherungsarbeit und Baustellenmanagement",
-      "employer": "Hessen Mobil",
-      "location": "Eschwege oder Fulda",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "20. September 2026",
-      "reference": "BV 26/28",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/verkehrsing-baustellenmanagement_eschwege_bv_26_28.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-1d1c44d9958bad",
       "title": "Umwelttechnologin:Umwelttechnologe (w/m/d) für Abwasserbewirtschaftung",
       "employer": "Stadt Frankfurt am Main",
@@ -1512,6 +1482,36 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Sachbearbeiter-in-fuer-Stadtforschung-und-Umfragen-wmd-de-j7343.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-7a6069777d2b7a",
+      "title": "Abteilungsleitung (w/m/d) der Abteilung Landschaftsplanung beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "21.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Abteilungsleitung-wmd-der-Abteilung-Landschaftsplanung-bei-de-j3034.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-41109bd95004f1",
+      "title": "Sachgebietsleitung (w/m/d) im Bereich kaufmännisches Facility Management, Fachbereich „Verwaltung, Kitas und sonstige Gebäude“ beim Eigenbetrieb Immobilienmanagement (IDA)",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Eigenbetrieb Immobilienmanagement (IDA)",
+      "deadline": "21.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachgebietsleitung-wmd-im-Bereich-kaufmaennisches-Facility-de-j3035.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-1b3510b8333070",
@@ -1859,6 +1859,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-7e763c78f483e0",
+      "title": "Versorgungsingenieur:in (w/m/d) Technisches Objektmanagement",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "30.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Versorgungsingenieurin-wmd-Technisches-Objektmanagement-de-j11089.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "hessen-mobil-jobs-36f83819b3a829",
       "title": "Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Anwendungsentwicklung",
       "employer": "Hessen Mobil",
@@ -1902,6 +1917,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2126&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-ed01af3a06da27",
+      "title": "Stellvertretende:n Sachgebietsleiter:in (w/m/d) IT-Finanzen Administration und Support",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kassen- und Steueramt",
+      "deadline": "05.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretenden-Sachgebietsleiterin-wmd-IT-Finanzen-Admi-de-j11233.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-6044e48ee6e5ba",
