@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-09-03 07:30:08 UTC",
-  "generated_at_local": "2026-09-03 09:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-09-03 16:30:07 UTC",
+  "generated_at_local": "2026-09-03 18:30:05 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 187,
+  "count": 190,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 11,
-    "stadt-frankfurt-jobs": 89,
+    "stadt-frankfurt-jobs": 90,
     "stadt-wiesbaden-jobs": 28,
-    "stadt-darmstadt-jobs": 19,
-    "stadt-offenbach-jobs": 25,
+    "stadt-darmstadt-jobs": 20,
+    "stadt-offenbach-jobs": 26,
     "stadt-giessen-jobs": 6
   },
   "items": [
@@ -71,36 +71,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Bildung-und-Teilhabe-de-j11150.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-0f98e7642df365",
-      "title": "Sachbearbeiter:innen (w/m/d) Reinigungskontrolle",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "04.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterinnen-wmd-Reinigungskontrolle-de-j11034.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-9de218cf5d81ac",
-      "title": "Senior Steuerliche:r Berater:in (w/m/d) (Magistratsroberrätin:Magistratsoberrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtkämmerei",
-      "deadline": "04.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Senior-Steuerlicher-Beraterin-wmd-MagistratsroberraetinMag-de-j11044.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1454,6 +1424,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-35e3d136cd83d6",
+      "title": "Mitarbeiter/in (w/m/d) im Wohnbereich ohne Bezugsbetreuung beim Eigenbetrieb Darmstädter Werkstätten und Wohneinrichtungen",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Eigenbetrieb Darmstädter Werkstätten und Wohneinrichtungen",
+      "deadline": "21.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Mitarbeiterin-wmd-im-Wohnbereich-ohne-Bezugsbetreuung-beim-de-j3036.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-41109bd95004f1",
       "title": "Sachgebietsleitung (w/m/d) im Bereich kaufmännisches Facility Management, Fachbereich „Verwaltung, Kitas und sonstige Gebäude“ beim Eigenbetrieb Immobilienmanagement (IDA)",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1874,6 +1859,36 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-0f98e7642df365",
+      "title": "Sachbearbeiter:innen (w/m/d) Reinigungskontrolle",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "02.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterinnen-wmd-Reinigungskontrolle-de-j11034.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-9de218cf5d81ac",
+      "title": "Senior Steuerliche:r Berater:in (w/m/d) (Magistratsroberrätin:Magistratsoberrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtkämmerei",
+      "deadline": "02.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Senior-Steuerlicher-Beraterin-wmd-MagistratsroberraetinMag-de-j11044.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-9ef6c1a7d4bde2",
       "title": "Ausbildung Gärtner:in (w/m/d) Zierpflanzenbau",
       "employer": "Stadt Frankfurt am Main",
@@ -1916,6 +1931,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2126&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-eef7ccf8670dd9",
+      "title": "Notfallsanitäter*innen (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD N",
+      "department": "Feuerwehr",
+      "deadline": "04.10.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2138&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -2459,6 +2489,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-7a94c0b61a38c5",
+      "title": "Personalsachbearbeiter:in (w/m/d) (Inspektorin)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Ordnungsamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Personalsachbearbeiterin-wmd-Inspektorin-de-j11210.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-b73be7b877acb9",
       "title": "Pflasterbauer:innen / Straßenbauer:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2609,8 +2654,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-23d38f39776b1b",
-      "title": "städtische Verkehrspolizist:innen (Betriebsangestellte) (w/m/d)",
+      "item_id": "stadt-frankfurt-jobs-3d1cbe538df477",
+      "title": "städtische Verkehrspolizist:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
@@ -2620,7 +2665,7 @@
       "deadline": "",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/staedtische-Verkehrspolizistinnen-Betriebsangestellte-wmd-de-j742.html",
+      "source_url": "https://stadtfrankfurtjobs.de/staedtische-Verkehrspolizistinnen-wmd-de-j742.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
