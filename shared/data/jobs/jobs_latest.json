@@ -1,33 +1,18 @@
 {
-  "generated_at_utc": "2026-09-03 16:30:09 UTC",
-  "generated_at_local": "2026-09-03 18:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-09-04 07:30:12 UTC",
+  "generated_at_local": "2026-09-04 09:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 190,
+  "count": 194,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 11,
-    "stadt-frankfurt-jobs": 90,
-    "stadt-wiesbaden-jobs": 28,
-    "stadt-darmstadt-jobs": 20,
+    "stadt-frankfurt-jobs": 92,
+    "stadt-wiesbaden-jobs": 29,
+    "stadt-darmstadt-jobs": 21,
     "stadt-offenbach-jobs": 26,
     "stadt-giessen-jobs": 6
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-9346e679a5aab9",
-      "title": "Frauen- und Gleichstellungsbeauftragte sowie Leitung des Frauenbüros",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "03.09.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Frauen-und-Gleichstellungsbeauftragte-sowie-Leitung-des-Fr-de-j3026.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-ea60dd6d481ee5",
       "title": "Cyber Security Analyst (w/m/d)",
@@ -1274,6 +1259,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-7d331bd46214e2",
+      "title": "Sachgebietsleiter:in (w/m/d) Bautechnik",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "20.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Bautechnik-de-j11167.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-1d1c44d9958bad",
       "title": "Umwelttechnologin:Umwelttechnologe (w/m/d) für Abwasserbewirtschaftung",
       "employer": "Stadt Frankfurt am Main",
@@ -1409,6 +1409,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-809756b11d15b9",
+      "title": "Systemadministrator/-in und Digitalisierungsexperte/-in (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "20.09.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Systemadministrator-in-und-Digitalisierungsexperte-in-wmd-de-j7236.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-7a6069777d2b7a",
       "title": "Abteilungsleitung (w/m/d) der Abteilung Landschaftsplanung beim Grünflächenamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1421,6 +1436,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Abteilungsleitung-wmd-der-Abteilung-Landschaftsplanung-bei-de-j3034.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-b72f2f807eac83",
+      "title": "Mitarbeiter/in (w/m/d) für Arbeits- und Berufsförderung Berufsbildungsbereich beim Eigenbetrieb Darmstädter Werkstätten und Wohneinrichtungen",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Eigenbetrieb Darmstädter Werkstätten und Wohneinrichtungen",
+      "deadline": "21.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Mitarbeiterin-wmd-fuer-Arbeits-und-Berufsfoerderung-Berufs-de-j3038.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -1497,6 +1527,21 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiter-in-fuer-die-Arbeitsbereiche-Change-Management-Bibliothek-und-IT-Praxis-w-m-d-41-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-10f5d7232c1e95",
+      "title": "Koordinator/in (w/m/d) Umsetzung der Istanbul Konvention beim Frauenbüro",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Frauenbüro",
+      "deadline": "22.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Koordinatorin-wmd-Umsetzung-der-Istanbul-Konvention-beim-F-de-j3037.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-532ab5fd828053",
@@ -1586,6 +1631,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiterin-wmd-Zentrale-fachliche-Dienste-de-j11163.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-6b8623ee827fa5",
+      "title": "Baukontrolleur:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bauaufsicht",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Baukontrolleurin-wmd-de-j11212.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
