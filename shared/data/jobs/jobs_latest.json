@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-04 07:30:12 UTC",
-  "generated_at_local": "2026-09-04 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-09-04 16:30:08 UTC",
+  "generated_at_local": "2026-09-04 18:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 194,
+  "count": 197,
   "source_counts": {
     "stadt-kassel-jobs": 9,
-    "hessen-mobil-jobs": 11,
-    "stadt-frankfurt-jobs": 92,
+    "hessen-mobil-jobs": 12,
+    "stadt-frankfurt-jobs": 94,
     "stadt-wiesbaden-jobs": 29,
     "stadt-darmstadt-jobs": 21,
     "stadt-offenbach-jobs": 26,
@@ -1814,6 +1814,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-58afa8f0c2b159",
+      "title": "Ingenieurin / Ingenieur (w/m/d) der Fachrichtung Vermessungswesen oder Geoinformatik",
+      "employer": "Hessen Mobil",
+      "location": "Dillenburg",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "28. September 2026",
+      "reference": "PB 26/73",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/pb_26_73_vermessung_0.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-d9b1a17613878d",
       "title": "Sachbearbeiter:in (w/m/d) Ausschreibungsservice (Amtfrau:Amtmann)",
       "employer": "Stadt Frankfurt am Main",
@@ -1919,6 +1934,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-56a8d87001c329",
+      "title": "Sachbearbeiter:in (w/m/d) Ideenplattform Stabsstelle Bürger:innenbeteiligung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Dezernat V - Bürger:innen, Digitales und Internationales",
+      "deadline": "02.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Ideenplattform-Stabsstelle-Buergerinn-de-j11255.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-0f98e7642df365",
       "title": "Sachbearbeiter:innen (w/m/d) Reinigungskontrolle",
       "employer": "Stadt Frankfurt am Main",
@@ -2022,6 +2052,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Jungbauleiter-in-wmd-de-j7286.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-67e81c0e86cdfc",
+      "title": "Facility Manager:in (w/m/d) als Projektverantwortliche:r",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "05.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Facility-Managerin-wmd-als-Projektverantwortlicher-de-j11203.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ed01af3a06da27",
