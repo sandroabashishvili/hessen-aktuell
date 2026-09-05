@@ -59,11 +59,21 @@
           <a href="../topics/safety/">Sicherheit</a>
         </div>
       </div>
-      <a href="../archive/">Archiv</a>
-      <a href="../jobs/">Jobs</a>
-      <a href="../service/">Service</a>
+      <div class="nav-dropdown">
+        <a href="../jobs/">Jobs</a>
+        <div class="nav-menu">
+          <a href="../jobs/">Alle Jobs</a>
+          <a href="../jobs/#job-city">Nach Ort</a>
+          <a href="../jobs/#job-category">Nach Berufsfeld</a>
+          <a href="../jobs/kassel/">Kassel</a>
+          <a href="../jobs/frankfurt/">Frankfurt</a>
+          <a href="../jobs/wiesbaden/">Wiesbaden</a>
+        </div>
+      </div>
+      <a href="../service/">Nützliche Links</a>
       <a href="../about/">Über uns</a>
-    </nav>
+          <a href="../archive/">Archiv</a>
+</nav>
 
     <a class="site-brand-mark" href="../" aria-label="Hessen Aktuell Startseite">
       <img src="../shared/assets/brand/brand-mark.svg" alt="Hessen Aktuell">
@@ -74,15 +84,14 @@
       <div>
         <p class="section-label">Aktuelle Stellenangebote</p>
         <h2 id="jobs-heading">190 Stellen aus offiziellen Quellen</h2>
-        <p>7 offizielle Arbeitgeberportale · geprüft am 05.09.2026, 18:30 Uhr</p>
       </div>
     </section>
 
     <nav class="jobs-city-links" aria-label="Jobs nach Stadt">
       <strong>Direkt nach Stadt:</strong>
-      <a href="./kassel/">Kassel <b>8</b></a>
+      <a href="./kassel/">Kassel <b>9</b></a>
       <a href="./frankfurt/">Frankfurt <b>91</b></a>
-      <a href="./wiesbaden/">Wiesbaden <b>28</b></a>
+      <a href="./wiesbaden/">Wiesbaden <b>29</b></a>
       <a href="./darmstadt/">Darmstadt <b>21</b></a>
       <a href="./offenbach/">Offenbach <b>26</b></a>
       <a href="./giessen/">Gießen <b>6</b></a>
@@ -94,28 +103,25 @@
         <input id="job-search" type="search" placeholder="Beruf, Arbeitgeber oder Kennziffer" autocomplete="off">
       </label>
       <label>
-        <span>Ort</span>
+        <span>Standort</span>
         <select id="job-city">
           <option value="">Alle Orte</option>
           <option value="darmstadt">Darmstadt</option>
-          <option value="darmstadt, eschwege, gelnhausen, schotten, kassel oder wiesbaden">Darmstadt, Eschwege, Gelnhausen, Schotten, Kassel oder Wiesbaden</option>
           <option value="dillenburg">Dillenburg</option>
           <option value="frankfurt">Frankfurt</option>
           <option value="fulda">Fulda</option>
           <option value="giessen">Gießen</option>
-          <option value="idstein bewerbungsfrist: keine kennziffer: bvta bvta_technikerin / techniker (w/m/d) im strassenbetriebsdienst (pdf/391.22 kb) offnet sich in einem neuen fenster bauingenieurin / bauingenieur (w/m/d) fur ingenieurbauprojekte standort: wiesbaden oder limburg">Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Bauingenieurin / Bauingenieur (w/m/d) für Ingenieurbauprojekte Standort: Wiesbaden oder Limburg</option>
+          <option value="idstein bewerbungsfrist: keine kennziffer: bvta bvta_technikerin / techniker (w/m/d) im strassenbetriebsdienst (pdf/391.22 kb) offnet sich in einem neuen fenster bauingenieurin / bauingenieur (w/m/d) fur ingenieurbauprojekte standort: wiesbaden oder limburg">Mehrere Orte</option>
           <option value="kassel">Kassel</option>
-          <option value="kassel / homburg (efze)">Kassel / Homburg (Efze)</option>
           <option value="marburg">Marburg</option>
-          <option value="marburg oder dillenburg">Marburg oder Dillenburg</option>
+          <option value="mehrere orte">Mehrere Orte</option>
           <option value="offenbach">Offenbach</option>
           <option value="schotten">Schotten</option>
           <option value="wiesbaden">Wiesbaden</option>
-          <option value="wiesbaden (zentrale)">Wiesbaden (Zentrale)</option>
         </select>
       </label>
       <label>
-        <span>Berufsfeld</span>
+        <span>Bereich</span>
         <select id="job-category">
           <option value="">Alle Berufsfelder</option>
           <option value="bau &amp; ingenieurwesen">Bau &amp; Ingenieurwesen</option>
@@ -1309,7 +1315,7 @@
         </article>
 
         <article class="story-card job-card" hidden
-          data-job-city="wiesbaden (zentrale)"
+          data-job-city="wiesbaden"
           data-job-category="bau &amp; ingenieurwesen"
           data-job-search="bauingenieurin / bauingenieur (w/m/d) fur die weiterentwicklung der offentl. verkehrsinfrastruktur hessen mobil wiesbaden (zentrale) pbh 26/62 bau &amp; ingenieurwesen">
           <a class="story-media story-media-generated job-media" href="https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/stellenausschreibung_pbh_26_62.pdf" rel="nofollow noopener" target="_blank" aria-label="Bauingenieurin / Bauingenieur (w/m/d) für die Weiterentwicklung der öffentl. Verkehrsinfrastruktur – Originalausschreibung">
@@ -1341,7 +1347,7 @@
         </article>
 
         <article class="story-card job-card" hidden
-          data-job-city="marburg oder dillenburg"
+          data-job-city="mehrere orte"
           data-job-category="bau &amp; ingenieurwesen"
           data-job-search="bauingenieurin / bauingenieur (w/m/d) mit schwerpunkt konstruktiver ingenieurbau hessen mobil marburg oder dillenburg pb 26/40 bau &amp; ingenieurwesen">
           <a class="story-media story-media-generated job-media" href="https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-08/pb_26_40.pdf" rel="nofollow noopener" target="_blank" aria-label="Bauingenieurin / Bauingenieur (w/m/d) mit Schwerpunkt konstruktiver Ingenieurbau – Originalausschreibung">
@@ -1997,7 +2003,7 @@
         </article>
 
         <article class="story-card job-card" hidden
-          data-job-city="darmstadt, eschwege, gelnhausen, schotten, kassel oder wiesbaden"
+          data-job-city="mehrere orte"
           data-job-category="it &amp; digitales"
           data-job-search="auszubildende (w/m/d) zur fachinformatikerin / zum fachinformatiker fur systemintegration hessen mobil darmstadt, eschwege, gelnhausen, schotten, kassel oder wiesbaden fisi-2027 it &amp; digitales">
           <a class="story-media story-media-generated job-media" href="https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_systemintegration_mehrere_aussenstellen.pdf" rel="nofollow noopener" target="_blank" aria-label="Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Systemintegration – Originalausschreibung">
@@ -2253,7 +2259,7 @@
         </article>
 
         <article class="story-card job-card" hidden
-          data-job-city="kassel / homburg (efze)"
+          data-job-city="kassel"
           data-job-category="weitere bereiche"
           data-job-search="auszubildende (w/m/d) zur geomatikerin / zum geomatiker hessen mobil kassel / homburg (efze) geo-2027 weitere bereiche">
           <a class="story-media story-media-generated job-media" href="https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-geomatikerin_homberg_efze_kassel.pdf" rel="nofollow noopener" target="_blank" aria-label="Auszubildende (w/m/d) zur Geomatikerin / zum Geomatiker – Originalausschreibung">

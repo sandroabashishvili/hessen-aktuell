@@ -59,11 +59,21 @@
           <a href="../../topics/safety/">Sicherheit</a>
         </div>
       </div>
-      <a href="../../archive/">Archiv</a>
-      <a href="../../jobs/">Jobs</a>
-      <a href="../../service/">Service</a>
+      <div class="nav-dropdown">
+        <a href="../../jobs/">Jobs</a>
+        <div class="nav-menu">
+          <a href="../../jobs/">Alle Jobs</a>
+          <a href="../../jobs/#job-city">Nach Ort</a>
+          <a href="../../jobs/#job-category">Nach Berufsfeld</a>
+          <a href="../../jobs/kassel/">Kassel</a>
+          <a href="../../jobs/frankfurt/">Frankfurt</a>
+          <a href="../../jobs/wiesbaden/">Wiesbaden</a>
+        </div>
+      </div>
+      <a href="../../service/">Nützliche Links</a>
       <a href="../../about/">Über uns</a>
-    </nav>
+          <a href="../../archive/">Archiv</a>
+</nav>
 
     <a class="site-brand-mark" href="../../" aria-label="Hessen Aktuell Startseite">
       <img src="../../shared/assets/brand/brand-mark.svg" alt="Hessen Aktuell">
@@ -74,20 +84,47 @@
       <div>
         <p class="section-label">Stellenangebote in Offenbach</p>
         <h2 id="jobs-heading">26 aktuelle Stellen</h2>
-        <p>Automatisch geprüft am 05.09.2026, 18:30 Uhr · Bewerbung beim Originalanbieter</p>
+        <p>26 passende Angebote</p>
       </div>
       <a class="jobs-all-link" href="../">Alle Jobs in Hessen →</a>
     </section>
 
     <nav class="jobs-city-links" aria-label="Jobs nach Stadt">
       <strong>Direkt nach Stadt:</strong>
-      <a href="../kassel/">Kassel <b>8</b></a>
+      <a href="../kassel/">Kassel <b>9</b></a>
       <a href="../frankfurt/">Frankfurt <b>91</b></a>
-      <a href="../wiesbaden/">Wiesbaden <b>28</b></a>
+      <a href="../wiesbaden/">Wiesbaden <b>29</b></a>
       <a href="../darmstadt/">Darmstadt <b>21</b></a>
       <span aria-current="page">Offenbach <b>26</b></span>
       <a href="../giessen/">Gießen <b>6</b></a>
     </nav>
+
+    <section class="jobs-filter-bar" aria-label="Stellenangebote filtern">
+      <label class="jobs-search">
+        <span>Suche</span>
+        <input id="job-search" type="search" placeholder="Beruf oder Arbeitgeber" autocomplete="off">
+      </label>
+      <label>
+        <span>Standort</span>
+        <select id="job-city">
+          <option value="">Alle Orte</option>
+          <option value="offenbach" selected>Offenbach</option>
+        </select>
+      </label>
+      <label>
+        <span>Bereich</span>
+        <select id="job-category">
+          <option value="">Alle Bereiche</option>
+          <option value="gesundheit &amp; soziales">Gesundheit &amp; Soziales</option>
+          <option value="it &amp; digitales">IT &amp; Digitales</option>
+          <option value="natur &amp; handwerk">Natur &amp; Handwerk</option>
+          <option value="verwaltung &amp; organisation">Verwaltung &amp; Organisation</option>
+          <option value="weitere bereiche">Weitere Bereiche</option>
+
+        </select>
+      </label>
+      <button id="job-filter-reset" class="jobs-filter-reset" type="button">Zurücksetzen</button>
+    </section>
 
     <div class="jobs-result-line" aria-live="polite">
       <strong id="job-result-count">26</strong>

@@ -147,7 +147,7 @@ def _render_service_page() -> str:
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {head_meta(
-    title="Service Links | Hessen Aktuell",
+    title="Nützliche Links | Hessen Aktuell",
     description="Nützliche offizielle Links für Alltag, Behörden, Sicherheit, Gesundheit, Verkehr und Leben in Hessen.",
     prefix="../",
     canonical_path="/service/",
@@ -158,7 +158,7 @@ def _render_service_page() -> str:
   <header class="site-header">
 {brand_mark('../')}
     <p class="eyebrow">Hessen Aktuell</p>
-    <h1><a class="hero-link" href="../service/">Service Links</a></h1>
+    <h1><a class="hero-link" href="../service/">Nützliche Links</a></h1>
     <p class="lede">Nützliche offizielle Links für Alltag, Behörden, Sicherheit, Gesundheit, Verkehr und Leben in Hessen.</p>
 {page_nav('../')}
   </header>

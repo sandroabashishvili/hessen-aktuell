@@ -23,6 +23,16 @@ if (siteHeader && navToggle && siteNav) {
   });
 }
 
+// Mark the current section consistently across every generated page.
+const currentPath = window.location.pathname.replace(/index\.html$/, "");
+siteNav?.querySelectorAll("a").forEach((link) => {
+  if (!link.href || link.hash) return;
+  const linkPath = new URL(link.href, window.location.href).pathname.replace(/index\.html$/, "");
+  if (linkPath === currentPath) {
+    link.setAttribute("aria-current", "page");
+  }
+});
+
 const jobSearch = document.getElementById("job-search");
 const jobCity = document.getElementById("job-city");
 const jobCategory = document.getElementById("job-category");

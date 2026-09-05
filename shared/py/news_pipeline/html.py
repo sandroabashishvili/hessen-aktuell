@@ -122,10 +122,20 @@ def page_nav(prefix: str) -> str:
           <a href="{prefix}topics/safety/">Sicherheit</a>
         </div>
       </div>
-      <a href="{prefix}archive/">Archiv</a>
-      <a href="{prefix}jobs/">Jobs</a>
-      <a href="{prefix}service/">Service</a>
+      <div class="nav-dropdown">
+        <a href="{prefix}jobs/">Jobs</a>
+        <div class="nav-menu">
+          <a href="{prefix}jobs/">Alle Jobs</a>
+          <a href="{prefix}jobs/#job-city">Nach Ort</a>
+          <a href="{prefix}jobs/#job-category">Nach Berufsfeld</a>
+          <a href="{prefix}jobs/kassel/">Kassel</a>
+          <a href="{prefix}jobs/frankfurt/">Frankfurt</a>
+          <a href="{prefix}jobs/wiesbaden/">Wiesbaden</a>
+        </div>
+      </div>
+      <a href="{prefix}service/">Nützliche Links</a>
       <a href="{prefix}about/">Über uns</a>
+      <a href="{prefix}archive/">Archiv</a>
     </nav>"""
 
 

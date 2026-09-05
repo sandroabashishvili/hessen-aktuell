@@ -283,7 +283,7 @@ def _render_page(
         "durchsuchbar nach Ort und beruflichem Bereich."
     )
     city_options = "\n".join(
-        f'          <option value="{escape(_filter_value(city), quote=True)}">{escape(city)}</option>'
+        f'          <option value="{escape(_filter_value(city), quote=True)}">{escape(_display_city_filter(city))}</option>'
         for city in cities
     )
     category_options = "\n".join(
@@ -328,7 +328,6 @@ def _render_page(
       <div>
         <p class="section-label">Aktuelle Stellenangebote</p>
         <h2 id="jobs-heading">{jobs_count} Stellen aus offiziellen Quellen</h2>
-        <p>{escape(source_summary)} · geprüft am {escape(generated_at)}</p>
       </div>
     </section>
 {city_links}
@@ -339,14 +338,14 @@ def _render_page(
         <input id="job-search" type="search" placeholder="Beruf, Arbeitgeber oder Kennziffer" autocomplete="off">
       </label>
       <label>
-        <span>Ort</span>
+        <span>Standort</span>
         <select id="job-city">
           <option value="">Alle Orte</option>
 {city_options}
         </select>
       </label>
       <label>
-        <span>Berufsfeld</span>
+        <span>Bereich</span>
         <select id="job-category">
           <option value="">Alle Berufsfelder</option>
 {category_options}
@@ -420,6 +419,7 @@ def _write_city_page(
         for position, (job, category, visual_topic, filter_city, index)
         in enumerate(decorated_jobs)
     )
+    city_categories = sorted({category for _, category, _, _, _ in decorated_jobs}, key=str.casefold)
     city_dir.joinpath("index.html").write_text(
         _render_city_page(
             city=city,
@@ -428,6 +428,7 @@ def _write_city_page(
             jobs=[item[0] for item in decorated_jobs],
             generated_at=generated_at,
             featured_cities=featured_cities,
+            categories=city_categories,
         ),
         encoding="utf-8",
     )
@@ -441,6 +442,7 @@ def _render_city_page(
     jobs: list[JobItem],
     generated_at: str,
     featured_cities: list[tuple[str, str, int]],
+    categories: list[str],
 ) -> str:
     title = f"Jobs in {city} | Hessen Aktuell"
     description = (
@@ -480,11 +482,33 @@ def _render_city_page(
       <div>
         <p class="section-label">Stellenangebote in {escape(city)}</p>
         <h2 id="jobs-heading">{len(jobs)} aktuelle Stellen</h2>
-        <p>Automatisch geprüft am {escape(generated_at)} · Bewerbung beim Originalanbieter</p>
+        <p>{len(jobs)} passende Angebote</p>
       </div>
       <a class="jobs-all-link" href="../">Alle Jobs in Hessen →</a>
     </section>
 {city_links}
+
+    <section class="jobs-filter-bar" aria-label="Stellenangebote filtern">
+      <label class="jobs-search">
+        <span>Suche</span>
+        <input id="job-search" type="search" placeholder="Beruf oder Arbeitgeber" autocomplete="off">
+      </label>
+      <label>
+        <span>Standort</span>
+        <select id="job-city">
+          <option value="">Alle Orte</option>
+          <option value="{escape(_filter_value(city), quote=True)}" selected>{escape(_display_city_filter(city))}</option>
+        </select>
+      </label>
+      <label>
+        <span>Bereich</span>
+        <select id="job-category">
+          <option value="">Alle Bereiche</option>
+{''.join(f'          <option value="{escape(_filter_value(category), quote=True)}">{escape(category)}</option>\n' for category in categories)}
+        </select>
+      </label>
+      <button id="job-filter-reset" class="jobs-filter-reset" type="button">Zurücksetzen</button>
+    </section>
 
     <div class="jobs-result-line" aria-live="polite">
       <strong id="job-result-count">{len(jobs)}</strong>
@@ -663,6 +687,13 @@ def _job_city_label(location: str) -> str:
     if lowered.startswith("wahlweise "):
         choices = cleaned[len("wahlweise "):].replace(" oder ", " / ")
         return choices[:1].upper() + choices[1:]
+    # Keep the location filter compact and avoid near-duplicate city entries.
+    if lowered.startswith("kassel /"):
+        return "Kassel"
+    if lowered.startswith("wiesbaden ("):
+        return "Wiesbaden"
+    if "," in cleaned or " oder " in lowered:
+        return "Mehrere Orte"
     return cleaned
 
 
@@ -672,6 +703,16 @@ def _filter_value(value: str) -> str:
         char for char in normalized if not unicodedata.combining(char)
     )
     return re.sub(r"\s+", " ", without_marks).strip()
+
+
+def _display_city_filter(value: str) -> str:
+    """Keep the select readable while retaining the full value for filtering."""
+    cleaned = " ".join(value.split())
+    if "," in cleaned or " oder " in cleaned.casefold():
+        return "Mehrere Orte"
+    if len(cleaned) > 28:
+        return f"{cleaned[:25].rstrip()}…"
+    return cleaned
 
 
 def _portal_link(name: str, url: str) -> str:
