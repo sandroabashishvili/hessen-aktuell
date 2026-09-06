@@ -1,33 +1,18 @@
 {
-  "generated_at_utc": "2026-09-05 16:30:10 UTC",
-  "generated_at_local": "2026-09-05 18:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-09-06 07:30:12 UTC",
+  "generated_at_local": "2026-09-06 09:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 190,
+  "count": 189,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 11,
-    "stadt-frankfurt-jobs": 91,
+    "stadt-frankfurt-jobs": 90,
     "stadt-wiesbaden-jobs": 27,
     "stadt-darmstadt-jobs": 21,
     "stadt-offenbach-jobs": 26,
     "stadt-giessen-jobs": 6
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-99b7cf3faffce2",
-      "title": "Assistent:in (w/m/d) der Sozialrathausleitung Bockenheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "05.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Assistentin-wmd-der-Sozialrathausleitung-Bockenheim-de-j11144.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-1f19eb3863bc4e",
       "title": "Grundsatzsachbearbeiter:in (w/m/d) Kinder- und Jugendhilfe - Schwerpunkt Eingliederungshilfe",
