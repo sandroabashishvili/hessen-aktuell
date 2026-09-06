@@ -92,7 +92,7 @@
 
 .nav-menu {
   position: absolute;
-  top: calc(100% + 2px);
+  top: calc(100% - 1px);
   left: 0;
   z-index: 80;
   min-width: 180px;
@@ -102,6 +102,16 @@
   border-radius: 8px;
   background: rgba(255, 249, 239, 0.98);
   box-shadow: 0 18px 42px rgba(91, 53, 26, 0.14);
+}
+
+/* Keep the hover target continuous while moving from the trigger to the menu. */
+.nav-menu::before {
+  position: absolute;
+  top: -8px;
+  right: 0;
+  left: 0;
+  height: 8px;
+  content: "";
 }
 
 .nav-menu a {
