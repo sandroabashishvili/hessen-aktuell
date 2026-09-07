@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-09-07 07:30:09 UTC",
-  "generated_at_local": "2026-09-07 09:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-09-07 16:30:10 UTC",
+  "generated_at_local": "2026-09-07 18:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 172,
+  "count": 176,
   "source_counts": {
     "stadt-kassel-jobs": 7,
     "hessen-mobil-jobs": 10,
-    "stadt-frankfurt-jobs": 88,
+    "stadt-frankfurt-jobs": 90,
     "stadt-wiesbaden-jobs": 24,
-    "stadt-darmstadt-jobs": 20,
-    "stadt-offenbach-jobs": 19,
+    "stadt-darmstadt-jobs": 21,
+    "stadt-offenbach-jobs": 20,
     "stadt-giessen-jobs": 4
   },
   "items": [
@@ -749,21 +749,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-ffc83571cfc94b",
-      "title": "Abteilungsleiter:in (w/m/d) Abwasserbehandlung Betrieb",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Führungskraft",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "16.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiterin-wmd-Abwasserbehandlung-Betrieb-de-j11190.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-a80b90a4d5a696",
       "title": "Leiter:in (w/m/d) der Ausbildung für Vermessungstechniker:innen",
       "employer": "Stadt Frankfurt am Main",
@@ -1001,6 +986,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Abteilungsleitung-wmd-der-Abteilung-Landschaftsplanung-bei-de-j3034.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-d452154cd5ba4f",
+      "title": "Mitarbeiter/in (w/m/d) für Arbeits- und Berufsförderung beim Eigenbetrieb Darmstädter Werkstätten und Wohneinrichtungen",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Eigenbetrieb Darmstädter Werkstätten und Wohneinrichtungen",
+      "deadline": "21.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Mitarbeiterin-wmd-fuer-Arbeits-und-Berufsfoerderung-beim-E-de-j3039.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -1305,7 +1305,7 @@
     },
     {
       "item_id": "stadt-offenbach-jobs-7e1ac3c762025c",
-      "title": "Leitung Kita im Senefelderquartierl (m/w/d)",
+      "title": "Leitung Kita im Senefelderquartier (m/w/d)",
       "employer": "Stadt Offenbach am Main",
       "location": "Offenbach",
       "employment_type": "",
@@ -1346,6 +1346,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2131&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-d2154247b36fc8",
+      "title": "Stellvertretende Leitung Kita im Senefelderquartier (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD S15",
+      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2140&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1439,6 +1454,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-480465b2ba52c0",
+      "title": "Sachbearbeiter:innen (w/m/d) Hilfen zur Gesundheit",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "28.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterinnen-wmd-Hilfen-zur-Gesundheit-de-j11196.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-d9b1a17613878d",
       "title": "Sachbearbeiter:in (w/m/d) Ausschreibungsservice (Amtfrau:Amtmann)",
       "employer": "Stadt Frankfurt am Main",
@@ -1496,6 +1526,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-Gaertnerin-wmd-Garten-und-Landschaftsbau-de-j11002.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-e9fde1bf88584b",
+      "title": "Sachbearbeiter:in (w/m/d) Beschaffung, Ausschreibungen, Verträge, Publikationen (Oberinspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "30.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Beschaffung-Ausschreibungen-Vertraege-de-j10641.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1737,6 +1782,21 @@
       "source_name": "Hessen Mobil",
       "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-geomatikerin_homberg_efze_kassel.pdf",
       "source_id": "hessen-mobil-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-ffc83571cfc94b",
+      "title": "Abteilungsleiter:in (w/m/d) Abwasserbehandlung Betrieb",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "25.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiterin-wmd-Abwasserbehandlung-Betrieb-de-j11190.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-c4127bc349d724",
