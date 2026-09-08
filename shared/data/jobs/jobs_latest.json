@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-08 07:30:11 UTC",
-  "generated_at_local": "2026-09-08 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-09-08 16:30:14 UTC",
+  "generated_at_local": "2026-09-08 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 173,
+  "count": 176,
   "source_counts": {
-    "stadt-kassel-jobs": 7,
+    "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 10,
-    "stadt-frankfurt-jobs": 89,
+    "stadt-frankfurt-jobs": 90,
     "stadt-wiesbaden-jobs": 23,
     "stadt-darmstadt-jobs": 20,
     "stadt-offenbach-jobs": 20,
@@ -446,21 +446,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2119&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-addea72122d24f",
-      "title": "Sachgebietsleitung Vollstreckung / Stellv. Kassenverwalter*in (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD 11, A 12 HBesO",
-      "department": "Kämmerei, Kasse und Steuern",
-      "deadline": "13.09.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2109&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1289,6 +1274,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-addea72122d24f",
+      "title": "Sachgebietsleitung Vollstreckung / Stellv. Kassenverwalter*in (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 11, A 12 HBesO",
+      "department": "Kämmerei, Kasse und Steuern",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2109&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-afcf8088310cdc",
       "title": "Schulverwaltungskraft in Springerfunktion im Rahmen eines Förderprogramms (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1544,6 +1544,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-2693f3082ccfe4",
+      "title": "Fachinformatiker/in für die Verwaltungsabteilung (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet bis 31. Dezember 2027",
+      "pay_grade": "",
+      "department": "Umwelt- und Gartenamt",
+      "deadline": "30. September 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Fachinformatikerin-Fachinformatiker-w-m-d-67-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-56a8d87001c329",
       "title": "Sachbearbeiter:in (w/m/d) Ideenplattform Stabsstelle Bürger:innenbeteiligung",
       "employer": "Stadt Frankfurt am Main",
@@ -1602,6 +1617,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-Gaertnerin-wmd-Zierpflanzenbau-de-j11164.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-f5def7ea49aa5f",
+      "title": "Mitarbeiter/in technische Sportstättenunterhaltung (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet für 2 Jahre",
+      "pay_grade": "",
+      "department": "Sportamt",
+      "deadline": "4. Oktober 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiterin-Mitarbeiter-fuer-die-technische-Sportstaettenunterhaltung-w-m-d-52-.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-offenbach-jobs-ab97320285eb78",
@@ -1706,6 +1736,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Stellvertretenden-Sachgebietsleiterin-wmd-IT-Finanzen-Admi-de-j11233.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-25f2ea66efbba1",
+      "title": "Fachspezialist:in (w/m/d) Finanzen und Projekte (Amtsrätin:Amtsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kassen- und Steueramt",
+      "deadline": "06.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Fachspezialistin-wmd-Finanzen-und-Projekte-AmtsraetinAmtsr-de-j11267.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
