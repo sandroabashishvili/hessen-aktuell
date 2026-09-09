@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-09 07:30:12 UTC",
-  "generated_at_local": "2026-09-09 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-09-09 16:30:15 UTC",
+  "generated_at_local": "2026-09-09 18:30:11 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 174,
+  "count": 181,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 8,
-    "stadt-frankfurt-jobs": 91,
+    "stadt-frankfurt-jobs": 92,
     "stadt-wiesbaden-jobs": 22,
-    "stadt-darmstadt-jobs": 21,
+    "stadt-darmstadt-jobs": 27,
     "stadt-offenbach-jobs": 20,
     "stadt-giessen-jobs": 4
   },
@@ -236,21 +236,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Bereitschaftspflege-de-j10950.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-221af6b3249357",
-      "title": "Teamleiter:innen (w/m/d) Schulhausverwaltung",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "13.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Teamleiterinnen-wmd-Schulhausverwaltung-de-j11109.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1124,6 +1109,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-221af6b3249357",
+      "title": "Teamleiter:innen (w/m/d) Schulhausverwaltung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Teamleiterinnen-wmd-Schulhausverwaltung-de-j11109.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-d01cb2319fa4cf",
       "title": "Sachbearbeiter/in Wasser- und Bodenschutzbehörde (w/m/d)",
       "employer": "Stadt Kassel",
@@ -1317,6 +1317,36 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Sachbearbeiter-innen-fuer-die-Betreuungsbehoerde-wmd-de-j7344.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-5a003f5b59bc7c",
+      "title": "Gärtner/in (w/m/d) Rosen-/Mathildenhöhe beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "28.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Gaertnerin-wmd-Rosen-Mathildenhoehe-beim-Gruenflaechenamt-de-j3044.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-f9282825d20984",
+      "title": "Sachbearbeiter/in (w/m/d) im Bereich Fachbereichskoordination bei der Volkshochschule",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "28.09.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-im-Bereich-Fachbereichskoordination-b-de-j3049.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "hessen-mobil-jobs-58afa8f0c2b159",
@@ -1514,6 +1544,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-392a395720f7f2",
+      "title": "Gärtner/in (w/m/d) beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "01.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Gaertnerin-wmd-beim-Gruenflaechenamt-de-j3042.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-f1c4873910f563",
       "title": "Verwaltungsmitarbeiter/in (w/m/d) Mietspiegel, Mietpreisüberprüfung und Wohnungsüberwachung beim Amt für Wohnungswesen",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1526,6 +1571,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Verwaltungsmitarbeiterin-wmd-Mietspiegel-Mietpreisueberpru-de-j3041.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-27b7ad629ce217",
+      "title": "Abteilungsleitung (w/m/d) der Abteilung Planung und Neubau beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "02.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Abteilungsleitung-wmd-der-Abteilung-Planung-und-Neubau-bei-de-j3045.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -1724,6 +1784,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-5a7c48cfca7fb5",
+      "title": "Ingenieur:in (w/m/d) für Elektrotechnik",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "06.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ingenieurin-wmd-fuer-Elektrotechnik-de-j10523.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-f2d1615cd88bde",
+      "title": "Sachbearbeitung sowie stellvertretende Sachgebietsleitung (w/m/d) Fahrerlaubnisbehörde beim Bürger- und Ordnungsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt",
+      "deadline": "07.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-sowie-stellvertretende-Sachgebietsleitung--de-j3048.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-6044e48ee6e5ba",
       "title": "Brandmeisterinnen / Brandmeister (w/m/d) für die Ausbildung im mittleren feuerwehrtechnischen Dienst",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -1737,6 +1827,36 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Brandmeisterinnen-Brandmeister-wmd-fuer-die-Ausbildung-im--de-j7349.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-7b8a2be1076c3b",
+      "title": "Hilfspolizeibeamter/-beamtin (w/m/d) beim Bürger- und Ordnungsamt, Stadtpolizei, Dienstgruppe Überwachung ruhender Verkehr",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt, Stadtpolizei, Dienstgruppe Überwachung ruhender Verkehr",
+      "deadline": "22.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Hilfspolizeibeamter-beamtin-wmd-beim-Buerger-und-Ordnungsa-de-j3043.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-808dbc689f123f",
+      "title": "Hilfspolizeibeamter/in (w/m/d) im Bereich Ordnung und Sicherheit Bürger- und Ordnungsamt, Stadtpolizei",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "22.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Hilfspolizeibeamterin-wmd-im-Bereich-Ordnung-und-Sicherhei-de-j3046.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "hessen-mobil-jobs-76ae21895e99a6",
@@ -1962,21 +2082,6 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagogen-wmd-de-j11247.html",
       "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-83187a7e92d54a",
-      "title": "Zusatzkräfte (w/m/d) für die städtischen Kinderbetreuungseinrichtungen beim Jugendamt",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugendamt",
-      "deadline": "31.08.2031",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Zusatzkraefte-wmd-fuer-die-staedtischen-Kinderbetreuungsei-de-j727.html",
-      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-60cf059731ea4a",
