@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-10 07:30:12 UTC",
-  "generated_at_local": "2026-09-10 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-09-10 16:30:12 UTC",
+  "generated_at_local": "2026-09-10 18:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 181,
+  "count": 190,
   "source_counts": {
     "stadt-kassel-jobs": 8,
-    "hessen-mobil-jobs": 8,
-    "stadt-frankfurt-jobs": 91,
+    "hessen-mobil-jobs": 9,
+    "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 22,
     "stadt-darmstadt-jobs": 27,
     "stadt-offenbach-jobs": 21,
@@ -1004,6 +1004,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-0210a690ca00b6",
+      "title": "Baumkontrolleur:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "27.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Baumkontrolleurin-wmd-de-j11224.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-38e38f53212343",
       "title": "Büchereiangestellte:r (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1319,6 +1334,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-211b4cd6545963",
+      "title": "Sachbearbeiter:in (w/m/d) Allgemeine Gefahrenabwehr",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Ordnungsamt",
+      "deadline": "28.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Allgemeine-Gefahrenabwehr-de-j11185.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-480465b2ba52c0",
       "title": "Sachbearbeiter:innen (w/m/d) Hilfen zur Gesundheit",
       "employer": "Stadt Frankfurt am Main",
@@ -1424,6 +1454,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-e2f5fba5e95a6a",
+      "title": "Sachbearbeiter:innen (w/m/d) Wirtschaftliche Hilfen für Wohnungslose und Suchtkranke (Oberinspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "30.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterinnen-wmd-Wirtschaftliche-Hilfen-fuer-Wohnun-de-j11202.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-b61a5e81f522be",
       "title": "Sachbearbeiter:innen (w/m/d) Wohngeld (Inspektor:in)",
       "employer": "Stadt Frankfurt am Main",
@@ -1466,6 +1511,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Versorgungsingenieurin-wmd-Technisches-Objektmanagement-de-j11089.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-99c3137d472331",
+      "title": "stellv. Sachgebietsleiter:in (w/m/d) Technischer Außendienst",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Wohnungswesen",
+      "deadline": "30.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/stellv-Sachgebietsleiterin-wmd-Technischer-Aussendienst-de-j11204.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1589,6 +1649,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-726eb35ed97670",
+      "title": "Softwareentwickler:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Gesundheitsamt",
+      "deadline": "02.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Softwareentwicklerin-wmd-de-j11258.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-9ef6c1a7d4bde2",
       "title": "Ausbildung Gärtner:in (w/m/d) Zierpflanzenbau",
       "employer": "Stadt Frankfurt am Main",
@@ -1680,7 +1755,7 @@
     },
     {
       "item_id": "stadt-offenbach-jobs-954ecbf49ebd90",
-      "title": "Stellvertretende Leitung Kita Buchhügel (m/w/d)",
+      "title": "Stellvertretende Leitung Kita in Buchhügel (m/w/d)",
       "employer": "Stadt Offenbach am Main",
       "location": "Offenbach",
       "employment_type": "",
@@ -1692,6 +1767,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2141&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-38bfff7e2ce07f",
+      "title": "Ingenieurin / Ingenieur (w/m/d) Fachrichtung Landespflege, Umweltmanagement oder Landschaftsplanung",
+      "employer": "Hessen Mobil",
+      "location": "Schotten oder Gelnhausen",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "4. Oktober 2026",
+      "reference": "PB 26/71",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/stellenausschreibung_landespflege_pb_26_71.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-a67b5e6f108d31",
@@ -1799,6 +1889,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-56e6d2296b8db6",
+      "title": "Sachbearbeiter:in (w/m/d) Psychische Gesundheit für Kinder, Jugendliche und junge Erwachsene",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Gesundheitsamt",
+      "deadline": "11.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Psychische-Gesundheit-fuer-Kinder-Jug-de-j11140.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-6044e48ee6e5ba",
       "title": "Brandmeisterinnen / Brandmeister (w/m/d) für die Ausbildung im mittleren feuerwehrtechnischen Dienst",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -1812,6 +1917,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Brandmeisterinnen-Brandmeister-wmd-fuer-die-Ausbildung-im--de-j7349.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-707b8c194ef925",
+      "title": "Sachbearbeiter:in (w/m/d) Gesamtverkehrsplanung Öffentlicher Verkehr und Stellplatzablöse",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "13.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Gesamtverkehrsplanung-oeffentlicher-V-de-j11276.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-7b8a2be1076c3b",
@@ -2381,6 +2501,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Pflasterbauerinnen-Strassenbauerinnen-wmd-de-j10701.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-4425d91cfc6031",
+      "title": "Sachbearbeiter:in (w/m/d) EDV der Ausländerbehörde (Amtfrau:Amtmann)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Ausländerbehörde (Frankfurt Immigration Office)",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-EDV-der-Auslaenderbehoerde-AmtfrauAmt-de-j11230.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
