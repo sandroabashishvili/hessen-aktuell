@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-14 07:30:13 UTC",
-  "generated_at_local": "2026-09-14 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-09-14 16:30:11 UTC",
+  "generated_at_local": "2026-09-14 18:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 174,
+  "count": 176,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 90,
+    "stadt-frankfurt-jobs": 92,
     "stadt-wiesbaden-jobs": 21,
     "stadt-darmstadt-jobs": 27,
     "stadt-offenbach-jobs": 18,
@@ -1304,6 +1304,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-67d6144224835f",
+      "title": "Sachbearbeiter:in (w/m/d) Verwaltungsverfahren (Oberinspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Umweltamt",
+      "deadline": "02.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Verwaltungsverfahren-Oberinspektorin-de-j11265.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-0f98e7642df365",
       "title": "Sachbearbeiter:innen (w/m/d) Reinigungskontrolle",
       "employer": "Stadt Frankfurt am Main",
@@ -1376,6 +1391,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-Gaertnerin-wmd-Zierpflanzenbau-de-j11164.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-0dc19999d6ac1d",
+      "title": "Landschaftsarchitekt:in (w/m/d) Projektsteuerung Kinderspielanlagen",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "04.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitektin-wmd-Projektsteuerung-Kinderspielanl-de-j11194.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
