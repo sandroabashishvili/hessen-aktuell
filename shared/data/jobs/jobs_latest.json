@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-15 07:30:09 UTC",
-  "generated_at_local": "2026-09-15 09:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-09-15 16:30:08 UTC",
+  "generated_at_local": "2026-09-15 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 177,
+  "count": 183,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 90,
+    "stadt-frankfurt-jobs": 96,
     "stadt-wiesbaden-jobs": 22,
     "stadt-darmstadt-jobs": 27,
     "stadt-offenbach-jobs": 20,
@@ -1049,19 +1049,19 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-858b8bb87ad31e",
-      "title": "Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Systemintegration",
-      "employer": "Hessen Mobil",
-      "location": "Darmstadt, Eschwege, Gelnhausen, Schotten, Kassel oder Wiesbaden",
-      "employment_type": "",
+      "item_id": "stadt-frankfurt-jobs-c4127bc349d724",
+      "title": "Ausbildung - Kauffrau:Kaufmann für Büromanagement (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Ausbildungsplatz",
       "contract_type": "",
       "pay_grade": "",
-      "department": "",
-      "deadline": "30. September 2026",
-      "reference": "FISI-2027",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_systemintegration_mehrere_aussenstellen.pdf",
-      "source_id": "hessen-mobil-jobs"
+      "department": "Personal- und Organisationsamt",
+      "deadline": "30.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-KauffrauKaufmann-fuer-Bueromanagement-wmd-de-j10823.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-c51c11537b9835",
@@ -1214,6 +1214,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-85ca9fc3a7a98f",
+      "title": "Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst",
+      "employer": "Hessen Mobil",
+      "location": "Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Krisensicheres, unbefristetes Arbeitsverhältnis Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) mit automatischem Gehaltsaufstieg Betriebliche Altersversorgung, Jahressonderzahlung und Kinderzulage 30 Tage Urlaub (zusätzlich 24.12. und 31.12. frei) Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z.B. Kooperation mit dem Sport-/ Freizeit- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster , Hessen Mobil Gesundheitstage, Gesundheitsmanagement des Landes) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung zur Vereinbarkeit von Familie und Beruf Möglichkeit zum mobilen Arbeiten Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Ausbildungsangebote Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Systemintegration Standort: Darmstadt, Eschwege, Gelnhausen, Schotten, Kassel oder Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. September 2026",
+      "reference": "FISI-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_systemintegration_mehrere_aussenstellen.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-392a395720f7f2",
       "title": "Gärtner/in (w/m/d) beim Grünflächenamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1334,8 +1349,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-10716d53ca1569",
-      "title": "Werkstudentin / Werkstudenten (w/m/d) der Fachrichtung Bauingenieurwesen",
+      "item_id": "hessen-mobil-jobs-4937656f9ed997",
+      "title": "Kfz-Meisterin / Kfz-Meister (w/m/d) Fuhrparkmanagement im Bereich Nutzfahrzeuge",
       "employer": "Hessen Mobil",
       "location": "Wetzlar",
       "employment_type": "",
@@ -1376,6 +1391,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitektin-wmd-Projektsteuerung-Kinderspielanl-de-j11194.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-7fef7fe0012128",
+      "title": "Projektkoordinator:in (w/m/d) Das fliegende Künstler:innenzimmer im Quartier",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "04.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Projektkoordinatorin-wmd-Das-fliegende-Kuenstlerinnenzimme-de-j11127.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1634,6 +1664,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-3f4b20f11e85f2",
+      "title": "Sachbearbeiter:in (w/m/d) Wohnraumversorgung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Wohnungswesen",
+      "deadline": "06.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Wohnraumversorgung-de-j11188.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-7d49c718815b96",
+      "title": "Volontär:in (w/m/d) Wissenschaft",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Volontär:in",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "06.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Volontaerin-wmd-Wissenschaft-de-j11272.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-f2d1615cd88bde",
       "title": "Sachbearbeitung sowie stellvertretende Sachgebietsleitung (w/m/d) Fahrerlaubnisbehörde beim Bürger- und Ordnungsamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1709,6 +1769,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-b0142857c1be00",
+      "title": "Assistent:in (w/m/d) der Direktion",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Museum der Weltkulturen",
+      "deadline": "13.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Assistentin-wmd-der-Direktion-de-j11090.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-707b8c194ef925",
       "title": "Sachbearbeiter:in (w/m/d) Gesamtverkehrsplanung Öffentlicher Verkehr und Stellplatzablöse",
       "employer": "Stadt Frankfurt am Main",
@@ -1721,6 +1796,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Gesamtverkehrsplanung-oeffentlicher-V-de-j11276.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-90be8310001f67",
+      "title": "Objektverantwortliche:r (w/m/d) Schulen (Amtsrätin:Amtsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "16.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Objektverantwortlicher-wmd-Schulen-AmtsraetinAmtsrat-de-j11149.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1737,6 +1827,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2145&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-4f60c4886daaae",
+      "title": "Sachbearbeiter:in (w/m/d) Immissionsschutz",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Umweltamt",
+      "deadline": "19.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Immissionsschutz-de-j11270.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-7b8a2be1076c3b",
@@ -1796,21 +1901,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiterin-wmd-Abwasserbehandlung-Betrieb-de-j11190.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-c4127bc349d724",
-      "title": "Ausbildung - Kauffrau:Kaufmann für Büromanagement (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Personal- und Organisationsamt",
-      "deadline": "31.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-KauffrauKaufmann-fuer-Bueromanagement-wmd-de-j10823.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
