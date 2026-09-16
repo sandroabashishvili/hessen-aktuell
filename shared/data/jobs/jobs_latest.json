@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-16 07:30:10 UTC",
-  "generated_at_local": "2026-09-16 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-09-16 16:30:10 UTC",
+  "generated_at_local": "2026-09-16 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 180,
+  "count": 183,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 96,
+    "stadt-frankfurt-jobs": 97,
     "stadt-wiesbaden-jobs": 22,
-    "stadt-darmstadt-jobs": 24,
+    "stadt-darmstadt-jobs": 26,
     "stadt-offenbach-jobs": 20,
     "stadt-giessen-jobs": 1
   },
@@ -1244,10 +1244,10 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-4937656f9ed997",
-      "title": "Kfz-Meisterin / Kfz-Meister (w/m/d) Fuhrparkmanagement im Bereich Nutzfahrzeuge",
+      "item_id": "hessen-mobil-jobs-01a1f708251c00",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) mit den Schwerpunkten Interne Revision und Organisationsen",
       "employer": "Hessen Mobil",
-      "location": "Wetzlar",
+      "location": "Wiesbaden (Zentrale) Bewerbungsfrist: 12. Oktober 2026 Kennziffer: S1 24/2 Stellenausschreibung Sachbearbeiterin / Sachbearbeiter (w/m/d) mit den Schwerpunkten Interne Revision und Organisationsentwicklung S1 24/2 (PDF/394.00 KB) Öffnet sich in einem neuen Fenster Projektingenieurin / Projektingenieur (w/m/d) für die Verkehrstechnik und Straßenausstattung Kennziffer : BV 26/28 Standort : Eschwege oder Fulda Bewerbungsfrist : 07. Oktober 2026 Stellenausschreibung Ing. Verkehrstechnik BV 11.2.02 BV 26/28.pdf (PDF/318.85 KB) Öffnet sich in einem neuen Fenster Kfz-Meisterin / Kfz-Meister (w/m/d) für das Fuhrparkmanagement Standort : Dillenburg oder Marburg Kennziffer : BV 26/35 Bewerbungsfrist : 05. Oktober 2026 Stellenausschreibung_Kfz_BV_1.2_Westhessen_BV_26_35.pdf (PDF/484.43 KB) Öffnet sich in einem neuen Fenster Werkstudentin / Werkstudenten (w/m/d) der Fachrichtung Bauingenieurwesen Standort: Wetzlar",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
@@ -1301,6 +1301,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitektin-wmd-Projektsteuerung-Kinderspielanl-de-j11194.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-77ad6919cdfbd4",
+      "title": "Leiter:in (w/m/d) Verwaltung und Rechnungsführung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Frauenreferat",
+      "deadline": "04.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-Verwaltung-und-Rechnungsfuehrung-de-j11205.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1511,6 +1526,36 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Ingenieurin-wmd-fuer-Elektrotechnik-fuer-das-Technische-Ob-de-j3054.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-b9fc60152e2799",
+      "title": "Sachbearbeiter/in (w/m/d) Wohnungsvermittlung beim Amt für Wohnungswesen",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Wohnungswesen",
+      "deadline": "05.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-Wohnungsvermittlung-beim-Amt-fuer-Woh-de-j3056.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-5ce74aa9e5d02f",
+      "title": "Sachbearbeitung (w/m/d) Stadtentwässerung, Abteilung Planung im Sachgebiet Kanal- und Gewässerplanung beim Mobilitäts- und Tiefbauamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Mobilitäts- und Tiefbauamt",
+      "deadline": "05.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Stadtentwaesserung-Abteilung-Planung-i-de-j3055.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
