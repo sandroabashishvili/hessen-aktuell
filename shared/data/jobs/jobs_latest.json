@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-17 07:30:13 UTC",
-  "generated_at_local": "2026-09-17 09:30:11 Europe/Berlin",
+  "generated_at_utc": "2026-09-17 16:30:13 UTC",
+  "generated_at_local": "2026-09-17 18:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 181,
+  "count": 183,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 8,
-    "stadt-frankfurt-jobs": 96,
+    "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 23,
     "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 20,
@@ -431,6 +431,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Gruppenleiterin-wmd-Betreuungsbehoerde-AmtsraetinAmtsrat-de-j11207.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-5dbce931b74da1",
+      "title": "Hausmeister:in (w/m/d) Sozialrathaus Sachsenhausen",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "25.09.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Hausmeisterin-wmd-Sozialrathaus-Sachsenhausen-de-j11239.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1751,6 +1766,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Gesamtverkehrsplanung-oeffentlicher-V-de-j11276.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-60370459eb11a1",
+      "title": "Sachbearbeiter:in (w/m/d) im Bereich CAFM und Prozessoptimierung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "15.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-im-Bereich-CAFM-und-Prozessoptimierun-de-j11260.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
