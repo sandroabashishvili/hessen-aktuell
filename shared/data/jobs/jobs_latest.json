@@ -1,13 +1,13 @@
 {
-  "generated_at_utc": "2026-09-17 16:30:13 UTC",
-  "generated_at_local": "2026-09-17 18:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-09-18 07:30:12 UTC",
+  "generated_at_local": "2026-09-18 09:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 183,
+  "count": 185,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 8,
-    "stadt-frankfurt-jobs": 98,
-    "stadt-wiesbaden-jobs": 23,
+    "stadt-frankfurt-jobs": 99,
+    "stadt-wiesbaden-jobs": 24,
     "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 20,
     "stadt-giessen-jobs": 1
@@ -1244,6 +1244,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-a68f01ab8087c0",
+      "title": "Bauingenieur:in (w/m/d) Schwerpunkt Betoninstandsetzung",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "04.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurin-wmd-Schwerpunkt-Betoninstandsetzung-de-j11311.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-6c5add11f8db4f",
       "title": "Ingenieur:in (w/m/d) Bau- oder Umweltingenieurwesen",
       "employer": "Stadt Frankfurt am Main",
@@ -1301,6 +1316,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Projektkoordinatorin-wmd-Das-fliegende-Kuenstlerinnenzimme-de-j11127.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-b08f8951b7a999",
+      "title": "Sachbearbeiter:in (w/m/d) Kanalnetzauskünfte und technische Verträge",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "04.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Kanalnetzauskuenfte-und-technische-Ve-de-j11191.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1529,21 +1559,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-darmstadt-jobs-5ce74aa9e5d02f",
-      "title": "Sachbearbeitung (w/m/d) Stadtentwässerung, Abteilung Planung im Sachgebiet Kanal- und Gewässerplanung beim Mobilitäts- und Tiefbauamt",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Mobilitäts- und Tiefbauamt",
-      "deadline": "05.10.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Stadtentwaesserung-Abteilung-Planung-i-de-j3055.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-f66959b0432352",
       "title": "Assistent:innen (w/m/d) für d. Fachbereichsleitungen Zentrale Dienste und Immobilienmanagement",
       "employer": "Stadt Frankfurt am Main",
@@ -1679,6 +1694,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-0e8f6177a21a33",
+      "title": "Gärtner:in (w/m/d) Hauptfriedhof",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "11.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Gaertnerin-wmd-Hauptfriedhof-de-j11225.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-56e6d2296b8db6",
       "title": "Sachbearbeiter:in (w/m/d) Psychische Gesundheit für Kinder, Jugendliche und junge Erwachsene",
       "employer": "Stadt Frankfurt am Main",
@@ -1737,6 +1767,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Projektmanager-in-fuer-klimagerechtes-Stadtgruen-wmd-de-j7416.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-5ce74aa9e5d02f",
+      "title": "Sachbearbeitung (w/m/d) Stadtentwässerung, Abteilung Planung im Sachgebiet Kanal- und Gewässerplanung beim Mobilitäts- und Tiefbauamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Mobilitäts- und Tiefbauamt",
+      "deadline": "12.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Stadtentwaesserung-Abteilung-Planung-i-de-j3055.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-b0142857c1be00",
@@ -1812,6 +1857,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2145&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-89059ce2a62bb1",
+      "title": "Projektleiter in der Kanalsanierung (m/w/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "18.10.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Projektleiter-in-der-Kanalsanierung-mwd-de-j7428.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-4f60c4886daaae",
@@ -2399,21 +2459,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-7a94c0b61a38c5",
-      "title": "Personalsachbearbeiter:in (w/m/d) (Inspektorin)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Ordnungsamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Personalsachbearbeiterin-wmd-Inspektorin-de-j11210.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-b73be7b877acb9",
       "title": "Pflasterbauer:innen / Straßenbauer:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2441,21 +2486,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-EDV-der-Auslaenderbehoerde-AmtfrauAmt-de-j11230.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
-      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
