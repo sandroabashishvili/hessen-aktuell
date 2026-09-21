@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-09-21 07:30:16 UTC",
-  "generated_at_local": "2026-09-21 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-09-21 16:30:14 UTC",
+  "generated_at_local": "2026-09-21 18:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 179,
+  "count": 182,
   "source_counts": {
     "stadt-kassel-jobs": 9,
-    "hessen-mobil-jobs": 6,
+    "hessen-mobil-jobs": 7,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 21,
     "stadt-darmstadt-jobs": 25,
-    "stadt-offenbach-jobs": 19,
+    "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 0
   },
   "items": [
@@ -989,10 +989,10 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-01a1f708251c00",
-      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) mit den Schwerpunkten Interne Revision und Organisationsen",
+      "item_id": "hessen-mobil-jobs-537490e6ba03e6",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) im Bereich Presse- und Öffentlichkeitsarbeit",
       "employer": "Hessen Mobil",
-      "location": "Wiesbaden (Zentrale) Bewerbungsfrist: 12. Oktober 2026 Kennziffer: S1 24/2 Stellenausschreibung Sachbearbeiterin / Sachbearbeiter (w/m/d) mit den Schwerpunkten Interne Revision und Organisationsentwicklung S1 24/2 (PDF/394.00 KB) Öffnet sich in einem neuen Fenster Sachbearbeiterin / Sachbearbeiter (w/m/d) im Bereich Presse- und Öffentlichkeitsarbeit Standort: Marburg Bewerbungsfrist: 11. Oktober 2026 Kennziffer: S2 26/2 Stellenausschreibung Sachbearbeiter in Öffentlichkeitsarbeit S2 26/2.pdf (PDF/457.47 KB) Öffnet sich in einem neuen Fenster Projektingenieurin / Projektingenieur (w/m/d) für die Verkehrstechnik und Straßenausstattung Kennziffer : BV 26/28 Standort : Eschwege oder Fulda Bewerbungsfrist : 07. Oktober 2026 Stellenausschreibung Ing. Verkehrstechnik BV 11.2.02 BV 26/28.pdf (PDF/318.85 KB) Öffnet sich in einem neuen Fenster Kfz-Meisterin / Kfz-Meister (w/m/d) für das Fuhrparkmanagement Standort : Dillenburg oder Marburg Kennziffer : BV 26/35 Bewerbungsfrist : 05. Oktober 2026 Stellenausschreibung_Kfz_BV_1.2_Westhessen_BV_26_35.pdf (PDF/484.43 KB) Öffnet sich in einem neuen Fenster Werkstudentin / Werkstudenten (w/m/d) der Fachrichtung Bauingenieurwesen Standort: Wetzlar",
+      "location": "Marburg Bewerbungsfrist: 11. Oktober 2026 Kennziffer: S2 26/2 Stellenausschreibung Sachbearbeiter in Öffentlichkeitsarbeit S2 26/2.pdf (PDF/457.47 KB) Öffnet sich in einem neuen Fenster Projektingenieurin / Projektingenieur (w/m/d) für die Verkehrstechnik und Straßenausstattung Kennziffer : BV 26/28 Standort : Eschwege oder Fulda Bewerbungsfrist : 07. Oktober 2026 Stellenausschreibung Ing. Verkehrstechnik BV 11.2.02 BV 26/28.pdf (PDF/318.85 KB) Öffnet sich in einem neuen Fenster Kfz-Meisterin / Kfz-Meister (w/m/d) für das Fuhrparkmanagement Standort : Dillenburg oder Marburg Kennziffer : BV 26/35 Bewerbungsfrist : 05. Oktober 2026 Stellenausschreibung_Kfz_BV_1.2_Westhessen_BV_26_35.pdf (PDF/484.43 KB) Öffnet sich in einem neuen Fenster Werkstudentin / Werkstudenten (w/m/d) der Fachrichtung Bauingenieurwesen Standort: Wetzlar",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
@@ -1634,6 +1634,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-7175290403748d",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) mit den Schwerpunkten Interne Revision",
+      "employer": "Hessen Mobil",
+      "location": "Wiesbaden (Zentrale) Bewerbungsfrist: 12. Oktober 2026 Kennziffer: S1 24/2 Stellenausschreibung Sachbearbeiterin / Sachbearbeiter (w/m/d) mit den Schwerpunkten Interne Revision und Organisationsentwicklung S1 24/2 (PDF/394.00 KB) Öffnet sich in einem neuen Fenster Bauingenieurin / Bauingenieur (w/m/d) für die Realisierung von Straßenbauprojekten Standort: Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "11. Oktober 2026",
+      "reference": "PB 25/22",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/bauing-streckenbau_darmstadt_pb_25_22.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-5ce74aa9e5d02f",
       "title": "Sachbearbeitung (w/m/d) Stadtentwässerung, Abteilung Planung im Sachgebiet Kanal- und Gewässerplanung beim Mobilitäts- und Tiefbauamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1769,6 +1784,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-29c7a1bb0e36d0",
+      "title": "Sachbearbeiter*in Mitwirkung Grund- und Gewerbesteuer (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 11, A 12 HBesO",
+      "department": "Kämmerei, Kasse und Steuern",
+      "deadline": "18.10.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2149&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-89059ce2a62bb1",
       "title": "Projektleiter in der Kanalsanierung (m/w/d)",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -1872,6 +1902,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiterin-wmd-Abwasserbehandlung-Betrieb-de-j11190.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-3a0b60796b42e6",
+      "title": "Sachbearbeiter*in Ehrungen / Protokoll / Städtepartnerschaften (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 10",
+      "department": "Amt für Öffentlichkeitsarbeit",
+      "deadline": "25.10.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2150&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ddbed33f010512",
