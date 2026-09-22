@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-22 07:30:13 UTC",
-  "generated_at_local": "2026-09-22 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-09-22 16:30:14 UTC",
+  "generated_at_local": "2026-09-22 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 176,
+  "count": 179,
   "source_counts": {
-    "stadt-kassel-jobs": 8,
+    "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 7,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 21,
-    "stadt-darmstadt-jobs": 20,
+    "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 0
   },
@@ -1379,6 +1379,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-cb48c4e7a234c2",
+      "title": "Lebensmittelkontrolleur/in (w/m/d) oder Lebensmittelkontrolleur/in (w/m/d) zur Fortbildung beim Bürger- und Ordnungsamt, Abteilung Veterinärwesen und Verbraucherschutz",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt, Abteilung Veterinärwesen und Verbraucherschutz",
+      "deadline": "07.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Lebensmittelkontrolleurin-wmd-oder-Lebensmittelkontrolleur-de-j3060.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-66985b603a7850",
+      "title": "Sachbearbeiter/in (w/m/d) Leistungsgewährung im Bereich SGB II Existenzsicherung beim Jobcenter",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jobcenter",
+      "deadline": "07.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-Leistungsgewaehrung-im-Bereich-SGB-II-de-j3062.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-f2d1615cd88bde",
       "title": "Sachbearbeitung sowie stellvertretende Sachgebietsleitung (w/m/d) Fahrerlaubnisbehörde beim Bürger- und Ordnungsamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1647,6 +1677,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Linuxadministratorin-wmd-de-j11292.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-3898bc9513e1e5",
+      "title": "Leiter/in Erzieherungshilfen Auguste Förster (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "18. Oktober 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Leiterin-Leiter-fuer-die-Abteilung-Erziehungshilfen-Auguste-Foerster-w-m-d-51.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-offenbach-jobs-fc856b892a30f5",
