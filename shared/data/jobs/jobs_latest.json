@@ -1,33 +1,18 @@
 {
-  "generated_at_utc": "2026-09-22 16:30:14 UTC",
-  "generated_at_local": "2026-09-22 18:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-09-23 07:30:12 UTC",
+  "generated_at_local": "2026-09-23 09:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 179,
+  "count": 180,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 7,
     "stadt-frankfurt-jobs": 99,
-    "stadt-wiesbaden-jobs": 21,
+    "stadt-wiesbaden-jobs": 22,
     "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 0
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-10f5d7232c1e95",
-      "title": "Koordinator/in (w/m/d) Umsetzung der Istanbul Konvention beim Frauenbüro",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Frauenbüro",
-      "deadline": "22.09.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Koordinatorin-wmd-Umsetzung-der-Istanbul-Konvention-beim-F-de-j3037.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-75fb5f8a0e76df",
       "title": "Sachbearbeiter:in (w/m/d) Geschäftsstelle Jugendhilfeausschuss",
@@ -1574,6 +1559,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-7eff53f8cc60a2",
+      "title": "IT-Infrastruktur-Administrator/in (w/m/d) mit Schwerpunkt Storage und Backup beim Amt für IT",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für IT",
+      "deadline": "12.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/IT-Infrastruktur-Administratorin-wmd-mit-Schwerpunkt-Stora-de-j3063.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-5ce74aa9e5d02f",
       "title": "Sachbearbeitung (w/m/d) Stadtentwässerung, Abteilung Planung im Sachgebiet Kanal- und Gewässerplanung beim Mobilitäts- und Tiefbauamt",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1647,6 +1647,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-im-Bereich-CAFM-und-Prozessoptimierun-de-j11260.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-b59ef3155f0a4d",
+      "title": "Sachbearbeiter/-in für IT und Online-Service (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "15.10.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sachbearbeiter-in-fuer-IT-und-Online-Service-wmd-de-j7411.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-90be8310001f67",
