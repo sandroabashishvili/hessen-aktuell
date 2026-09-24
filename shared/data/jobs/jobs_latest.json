@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-24 07:30:12 UTC",
-  "generated_at_local": "2026-09-24 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-09-24 16:30:11 UTC",
+  "generated_at_local": "2026-09-24 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 180,
+  "count": 183,
   "source_counts": {
-    "stadt-kassel-jobs": 8,
+    "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 7,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 22,
-    "stadt-darmstadt-jobs": 23,
+    "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 21,
     "stadt-giessen-jobs": 0
   },
@@ -884,21 +884,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-b08f8951b7a999",
-      "title": "Sachbearbeiter:in (w/m/d) Kanalnetzauskünfte und technische Verträge",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "04.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Kanalnetzauskuenfte-und-technische-Ve-de-j11191.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-a26b0a8e0fed76",
       "title": "Sozialarbeiter:in (w/m/d) Koordinierungsstelle Vormundschaft (Amtfrau:Amtmann)",
       "employer": "Stadt Frankfurt am Main",
@@ -1619,6 +1604,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-363df64695fec6",
+      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt, Abteilung Friedhöfe",
+      "deadline": "14.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3066.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-74a1d7a062967a",
+      "title": "Sachbearbeiter/in (w/m/d) im Bereich Bildung und Teilhabe beim Amt für Soziales und Prävention",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Soziales und Prävention",
+      "deadline": "14.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-im-Bereich-Bildung-und-Teilhabe-beim--de-j3067.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-60370459eb11a1",
       "title": "Sachbearbeiter:in (w/m/d) im Bereich CAFM und Prozessoptimierung",
       "employer": "Stadt Frankfurt am Main",
@@ -2099,6 +2114,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-655ceabc9d5efb",
+      "title": "Hausmeisterinnen/Hausmeister (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet/befristet für 2 Jahre",
+      "pay_grade": "",
+      "department": "Hochbau und Gebäudebewirtschaftung",
+      "deadline": "1. November 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Hausmeisterinnen-Hausmeister-w-m-d-65.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-65f7e56c74dd9c",
       "title": "Brandmeister*innen im mittleren feuerwehrtechnischen Dienst (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2411,6 +2441,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Notfallsanitaeterinnen-wmd-de-j7048.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-6a550e48a4c25a",
+      "title": "Oberbrandmeister:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Oberbrandmeisterin-wmd-de-j8832.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
