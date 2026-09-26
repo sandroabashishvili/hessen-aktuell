@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-09-25 16:30:11 UTC",
-  "generated_at_local": "2026-09-25 18:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-09-26 07:30:08 UTC",
+  "generated_at_local": "2026-09-26 09:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 191,
+  "count": 190,
   "source_counts": {
-    "stadt-kassel-jobs": 9,
+    "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 7,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 23,
@@ -13,96 +13,6 @@
     "stadt-giessen-jobs": 4
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-67b010ffe95a39",
-      "title": "Fachteamleiter:in (w/m/d) Zentrales Liegenschaftsmanagement und Betreiberpflichten",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kita Frankfurt",
-      "deadline": "25.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Fachteamleiterin-wmd-Zentrales-Liegenschaftsmanagement-und-de-j11289.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-dae9e52715e427",
-      "title": "Gruppenleiter:in (w/m/d) Betreuungsbehörde (Amtsrätin:Amtsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Führungskraft",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "25.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Gruppenleiterin-wmd-Betreuungsbehoerde-AmtsraetinAmtsrat-de-j11207.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-5dbce931b74da1",
-      "title": "Hausmeister:in (w/m/d) Sozialrathaus Sachsenhausen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "25.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Hausmeisterin-wmd-Sozialrathaus-Sachsenhausen-de-j11239.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-626e6cfd00f6ba",
-      "title": "Sachgebietsleiter:in (w/m/d) Artenschutz und Bauleitplanung",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Führungskraft",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Umweltamt",
-      "deadline": "25.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-Artenschutz-und-Bauleitplanung-de-j11180.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-ffc808423b2937",
-      "title": "Sachratenleiter:in (w/m/d) Grundsatz, Arbeits-/Disziplinarrecht, Personalservice, Bezügeberechnung (Amtsrätin:Amtsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Führungskraft",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Ordnungsamt",
-      "deadline": "25.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachratenleiterin-wmd-Grundsatz-Arbeits-Disziplinarrecht-P-de-j11211.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-kassel-jobs-50669dfcba564e",
-      "title": "Mitarbeiter/in für die Bibliothek der Musikakademie (w/m/d)",
-      "employer": "Stadt Kassel",
-      "location": "Kassel",
-      "employment_type": "Vollzeit/Teilzeit",
-      "contract_type": "befristet für zwei Jahre",
-      "pay_grade": "",
-      "department": "Kulturamt",
-      "deadline": "25. September 2026",
-      "reference": "",
-      "source_name": "Stadt Kassel",
-      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mitarbeiterin-Mitarbeiter-fuer-die-Bibliothek-der-Musikakademie-w-m-d-41-.php",
-      "source_id": "stadt-kassel-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-6b8623ee827fa5",
       "title": "Baukontrolleur:in (w/m/d)",
@@ -2354,6 +2264,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-4a7c6b4d89c460",
+      "title": "Bauingenieur:innen (w/m/d) Straßenentwurf Bauingenieur:innen (w/m/d) Straßenbau",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-Bauingenieurinnen-wm-de-j8003.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-88366d2f8eba4c",
       "title": "Bauingenieur:innen (w/m/d) Straßenentwurf bzw. Straßenbau für das Programm/ Projekt „Energiewendeviertel FFM“",
       "employer": "Stadt Frankfurt am Main",
@@ -2366,6 +2291,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-bzw-Strassenbau-fuer-de-j10022.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-6c5d9226b2346a",
+      "title": "Brandmeister:in (w/m/d) im mittleren feuerwehrtechnischen Dienst",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Ausbildungsplatz, Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Brandmeisterin-wmd-im-mittleren-feuerwehrtechnischen-Diens-de-j436.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2411,6 +2351,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Einsatzbearbeiterin-wmd-Zentrale-Leitstelle-Hauptbrandmeis-de-j9635.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-6ef649d3fcbaa1",
+      "title": "Forstwirt:innen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Forstwirtinnen-wmd-de-j4976.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2639,6 +2594,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-ad2213f3635de8",
+      "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Praktikum und 400-Stunden-Praktikum/Praxisphase",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Studierende-der-Sozialen-Arbeit-oder-Sozialpaedagogik-im-s-de-j5791.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-83dd27564eabd7",
       "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Zwischenpraktikum (von 120 bis 400-Stunden)",
       "employer": "Stadt Frankfurt am Main",
@@ -2681,6 +2651,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Technische-Objektmanagerinnen-wmd-de-j10440.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-e1b6d19314b84d",
+      "title": "Werkfeuerwehrfrau:Werkfeuerwehrmann (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Ausbildungsplatz",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/WerkfeuerwehrfrauWerkfeuerwehrmann-wmd-de-j435.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
