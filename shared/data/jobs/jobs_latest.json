@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-09-26 16:30:10 UTC",
-  "generated_at_local": "2026-09-26 18:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-09-27 07:30:12 UTC",
+  "generated_at_local": "2026-09-27 09:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 190,
+  "count": 189,
   "source_counts": {
-    "stadt-kassel-jobs": 8,
+    "stadt-kassel-jobs": 7,
     "hessen-mobil-jobs": 7,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 23,
@@ -102,21 +102,6 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Teamleiterinnen-wmd-Schulhausverwaltung-de-j11109.html",
       "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-kassel-jobs-d01cb2319fa4cf",
-      "title": "Sachbearbeiter/in Wasser- und Bodenschutzbehörde (w/m/d)",
-      "employer": "Stadt Kassel",
-      "location": "Kassel",
-      "employment_type": "Vollzeit",
-      "contract_type": "unbefristet",
-      "pay_grade": "",
-      "department": "Umwelt- und Gartenamt",
-      "deadline": "27. September 2026",
-      "reference": "",
-      "source_name": "Stadt Kassel",
-      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sachbearbeiterin-Sachbearbeiter-fuer-die-Untere-Wasser-und-Bodenschutzbehoerde-w-m-d-67-.php",
-      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-f00dd4de049362",
