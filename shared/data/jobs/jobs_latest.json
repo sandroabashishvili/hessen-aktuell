@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-28 07:30:12 UTC",
-  "generated_at_local": "2026-09-28 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-09-28 16:30:11 UTC",
+  "generated_at_local": "2026-09-28 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 175,
+  "count": 180,
   "source_counts": {
-    "stadt-kassel-jobs": 6,
+    "stadt-kassel-jobs": 7,
     "hessen-mobil-jobs": 7,
-    "stadt-frankfurt-jobs": 94,
+    "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 19,
     "stadt-darmstadt-jobs": 27,
     "stadt-offenbach-jobs": 18,
@@ -1079,8 +1079,8 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
-      "item_id": "stadt-kassel-jobs-ff15644e2d17de",
-      "title": "Ordnungspolizeibeamtinnen / Ordnungspolizeibeamte (w/m/d)",
+      "item_id": "stadt-kassel-jobs-e7d664e4986556",
+      "title": "Mehrere Ordnungspolizeibeamtinnen/-beamte (w/m/d)",
       "employer": "Stadt Kassel",
       "location": "Kassel",
       "employment_type": "Vollzeit/Teilzeit",
@@ -1090,7 +1090,7 @@
       "deadline": "11. Oktober 2026",
       "reference": "",
       "source_name": "Stadt Kassel",
-      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Ordnungspolizeibeamtinnen-Ordnungspolizeibeamte-w-m-d-32.php",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Ordnungspolizeibeamtinnen-Ordnungspolizeibeamte-w-m-d-32.php",
       "source_id": "stadt-kassel-jobs"
     },
     {
@@ -1349,6 +1349,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-02be7280bcb012",
+      "title": "Sozialarbeiter:in oder Sozialpädagogin:Sozialpädagoge (w/m/d) im Anerkennungsjahr für das Kinder- und Jugendhaus Fechenheim",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "16.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11322.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-0210a690ca00b6",
       "title": "Baumkontrolleur:in (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1391,6 +1406,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Linuxadministratorin-wmd-de-j11292.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-b0a05907fe3b4d",
+      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Inobhutnahme Höchst",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "18.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Inobh-de-j11332.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1664,6 +1694,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-6b820256aba190",
+      "title": "Sachbearbeiter/in Ambulante Hilfe zur Pflege (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Sozialamt",
+      "deadline": "25. Oktober 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sachbearbeiterin-Sachbearbeiter-fuer-den-Bereich-Ambulante-Hilfe-zur-Pflege-Tagespflege-w-m-d-50-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-3a0b60796b42e6",
       "title": "Sachbearbeiter*in Ehrungen / Protokoll / Städtepartnerschaften (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1707,6 +1752,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2153&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-fa0290a8936fee",
+      "title": "Mitarbeiter:in (w/m/d) Digitales Sammlungsmanagement",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Historisches Museum",
+      "deadline": "26.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiterin-wmd-Digitales-Sammlungsmanagement-de-j11326.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ddbed33f010512",
@@ -1874,8 +1934,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-kassel-jobs-655ceabc9d5efb",
-      "title": "Hausmeisterinnen/Hausmeister (w/m/d)",
+      "item_id": "stadt-kassel-jobs-d6fab4d1b1cc17",
+      "title": "Mehrere Hausmeisterinnen/Hausmeister (w/m/d)",
       "employer": "Stadt Kassel",
       "location": "Kassel",
       "employment_type": "Vollzeit/Teilzeit",
@@ -1885,7 +1945,7 @@
       "deadline": "1. November 2026",
       "reference": "",
       "source_name": "Stadt Kassel",
-      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Hausmeisterinnen-Hausmeister-w-m-d-65.php",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Hausmeisterinnen-Hausmeister-w-m-d-65.php",
       "source_id": "stadt-kassel-jobs"
     },
     {
@@ -2171,6 +2231,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieurinnen-wmd-Brueckenbau-de-j10243.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a38f43f42d7597",
+      "title": "Ingenieur:innen (w/m/d) für Großprojekte der Verkehrsinfrastruktur",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ingenieurinnen-wmd-fuer-Grossprojekte-der-Verkehrsinfrastr-de-j11327.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
