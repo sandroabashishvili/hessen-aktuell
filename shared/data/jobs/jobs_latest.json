@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-09-30 07:30:09 UTC",
-  "generated_at_local": "2026-09-30 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-09-30 16:30:09 UTC",
+  "generated_at_local": "2026-09-30 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 178,
+  "count": 182,
   "source_counts": {
     "stadt-kassel-jobs": 7,
-    "hessen-mobil-jobs": 6,
-    "stadt-frankfurt-jobs": 96,
+    "hessen-mobil-jobs": 9,
+    "stadt-frankfurt-jobs": 97,
     "stadt-wiesbaden-jobs": 22,
     "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 18,
@@ -27,6 +27,21 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Leitung-wmd-des-Teams-Asyl-und-Humanitaer-beim-Buerger-und-de-j3011.html",
       "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-858b8bb87ad31e",
+      "title": "Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Systemintegration",
+      "employer": "Hessen Mobil",
+      "location": "Darmstadt, Eschwege, Gelnhausen, Schotten, Kassel oder Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. September 2026",
+      "reference": "FISI-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_systemintegration_mehrere_aussenstellen.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-c4127bc349d724",
@@ -192,21 +207,6 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Fachinformatikerin-Fachinformatiker-w-m-d-67-.php",
       "source_id": "stadt-kassel-jobs"
-    },
-    {
-      "item_id": "hessen-mobil-jobs-85ca9fc3a7a98f",
-      "title": "Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst",
-      "employer": "Hessen Mobil",
-      "location": "Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Krisensicheres, unbefristetes Arbeitsverhältnis Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) mit automatischem Gehaltsaufstieg Betriebliche Altersversorgung, Jahressonderzahlung und Kinderzulage 30 Tage Urlaub (zusätzlich 24.12. und 31.12. frei) Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z.B. Kooperation mit dem Sport-/ Freizeit- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster , Hessen Mobil Gesundheitstage, Gesundheitsmanagement des Landes) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung zur Vereinbarkeit von Familie und Beruf Möglichkeit zum mobilen Arbeiten Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Ausbildungsangebote Auszubildende (w/m/d) zur Fachinformatikerin / zum Fachinformatiker für Systemintegration Standort: Darmstadt, Eschwege, Gelnhausen, Schotten, Kassel oder Wiesbaden",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "30. September 2026",
-      "reference": "FISI-2027",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachinformatikerin_systemintegration_mehrere_aussenstellen.pdf",
-      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-392a395720f7f2",
@@ -1739,6 +1739,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-cc72b042ccc961",
+      "title": "Auszubildende (w/m/d) zur Baustoffprüferin / zum Baustoffprüfer",
+      "employer": "Hessen Mobil",
+      "location": "Darmstadt, Wetzlar, Kassel",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "31. Oktober 2026",
+      "reference": "BSP-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-baustoffprueferin_kassel_wetzlar_darmstadt.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-ddbed33f010512",
       "title": "Ausbildung - Verwaltungsfachangestellte:r (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1901,6 +1916,51 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-Bachelor-of-Arts-Public-Administration-wmd--de-j10826.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-a66ccf6752910d",
+      "title": "Auszubildende (w/m/d) zur Fachkraft für Straßen- und Verkehrstechnik",
+      "employer": "Hessen Mobil",
+      "location": "Hessenweit",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "31. Oktober 2026",
+      "reference": "FSVT-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-fachkraft_fuer_strassen-und_verkehrstechnik_hessenweit.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-2a43153ea69ef8",
+      "title": "Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst",
+      "employer": "Hessen Mobil",
+      "location": "Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Krisensicheres, unbefristetes Arbeitsverhältnis Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) mit automatischem Gehaltsaufstieg Betriebliche Altersversorgung, Jahressonderzahlung und Kinderzulage 30 Tage Urlaub (zusätzlich 24.12. und 31.12. frei) Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z.B. Kooperation mit dem Sport-/ Freizeit- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster , Hessen Mobil Gesundheitstage, Gesundheitsmanagement des Landes) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung zur Vereinbarkeit von Familie und Beruf Möglichkeit zum mobilen Arbeiten Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Ausbildungsangebote Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter Standort: Hessenweit",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "31. Oktober 2026",
+      "reference": "STW-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-2e87f4d5c55c0a",
+      "title": "Gartenarbeiter:in (w/m/d) Friedhofsbezirk West",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Gartenarbeiterin-wmd-Friedhofsbezirk-West-de-j11329.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
