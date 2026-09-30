@@ -1,33 +1,18 @@
 {
-  "generated_at_utc": "2026-09-29 16:30:16 UTC",
-  "generated_at_local": "2026-09-29 18:30:12 Europe/Berlin",
+  "generated_at_utc": "2026-09-30 07:30:09 UTC",
+  "generated_at_local": "2026-09-30 09:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 179,
+  "count": 178,
   "source_counts": {
     "stadt-kassel-jobs": 7,
     "hessen-mobil-jobs": 6,
-    "stadt-frankfurt-jobs": 98,
-    "stadt-wiesbaden-jobs": 21,
+    "stadt-frankfurt-jobs": 96,
+    "stadt-wiesbaden-jobs": 22,
     "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 18,
     "stadt-giessen-jobs": 4
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-d9b1a17613878d",
-      "title": "Sachbearbeiter:in (w/m/d) Ausschreibungsservice (Amtfrau:Amtmann)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtkämmerei",
-      "deadline": "29.09.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Ausschreibungsservice-AmtfrauAmtmann-de-j11111.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-d4d350304ed837",
       "title": "Leitung (w/m/d) des Teams Asyl und Humanitär beim Bürger- und Ordnungsamt",
@@ -1197,6 +1182,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Tierpflegerin-wmd-Huftierrevier-de-j11278.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-5b43428da429bc",
+      "title": "Standesbeamtin / Standesbeamter (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "13.10.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Standesbeamtin-Standesbeamter-wmd-de-j7442.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-363df64695fec6",
@@ -2411,21 +2411,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Sachratenleiterin-wmd-Spielgeraetesteuer-de-j11237.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-f8ae788f8c2a34",
-      "title": "Studierende (w/m/d) der Sozialen Arbeit/Sozialpädagogik im Praxissemester Inobhutnahmeeinrichtungen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Praktikant:in (Studium)",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Studierende-wmd-der-Sozialen-ArbeitSozialpaedagogik-im-Pra-de-j9607.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
