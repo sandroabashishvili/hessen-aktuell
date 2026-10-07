@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-07 07:30:21 UTC",
-  "generated_at_local": "2026-10-07 09:30:11 Europe/Berlin",
+  "generated_at_utc": "2026-10-07 16:30:13 UTC",
+  "generated_at_local": "2026-10-07 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 189,
+  "count": 193,
   "source_counts": {
     "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 7,
-    "stadt-frankfurt-jobs": 92,
+    "stadt-frankfurt-jobs": 95,
     "stadt-wiesbaden-jobs": 27,
-    "stadt-darmstadt-jobs": 21,
+    "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 24,
     "stadt-giessen-jobs": 7
   },
@@ -749,21 +749,6 @@
       "source_id": "stadt-giessen-jobs"
     },
     {
-      "item_id": "stadt-kassel-jobs-3898bc9513e1e5",
-      "title": "Leiter/in Erzieherungshilfen Auguste Förster (w/m/d)",
-      "employer": "Stadt Kassel",
-      "location": "Kassel",
-      "employment_type": "Vollzeit/Teilzeit",
-      "contract_type": "unbefristet",
-      "pay_grade": "",
-      "department": "Jugendamt",
-      "deadline": "18. Oktober 2026",
-      "reference": "",
-      "source_name": "Stadt Kassel",
-      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Leiterin-Leiter-fuer-die-Abteilung-Erziehungshilfen-Auguste-Foerster-w-m-d-51.php",
-      "source_id": "stadt-kassel-jobs"
-    },
-    {
       "item_id": "stadt-offenbach-jobs-f1b19277a8dc21",
       "title": "Minijobber*in für die gemeinsame Anlaufstelle Offenbach (JAM) (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -956,6 +941,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Immissionsschutz-de-j11270.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-923d18625ac60f",
+      "title": "Tierpfleger:in (w/m/d) Exotarium",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "20.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Tierpflegerin-wmd-Exotarium-de-j11093.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1347,6 +1347,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Technikerin-wmd-TGM-Rathaus-Roemer-de-j11080.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-d671d1280c5f41",
+      "title": "Sachbearbeitung JVA (w/m/d) beim Bürger- und Ordnungsamt, Abteilung Ausländer- und Staatsangehörigkeitswesen",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt, Abteilung Ausländer- und Staatsangehörigkeitswesen",
+      "deadline": "27.10.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-JVA-wmd-beim-Buerger-und-Ordnungsamt-Abtei-de-j3078.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "hessen-mobil-jobs-f9012808e04f0a",
@@ -1799,6 +1814,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-234d16bf057fe1",
+      "title": "Personalsachbearbeiter:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Personalsachbearbeiterin-wmd-de-j11271.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-d6fab4d1b1cc17",
       "title": "Mehrere Hausmeisterinnen/Hausmeister (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2024,6 +2054,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-afd5fc1e5d1235",
+      "title": "Sachbearbeiter :innen (w/m/d) Steuerrechtliche Unterstützungsleistungen (Amtfrau:Amtmann)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kassen- und Steueramt",
+      "deadline": "04.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-innen-wmd-Steuerrechtliche-Unterstuetzungsl-de-j11378.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-2c5d536458bb94",
       "title": "Sozialarb./Sozialpäd. Jugendhilfe im Strafverfahren (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2097,6 +2142,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2166&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-1bebb9959b6c5b",
+      "title": "Sozialarb./Sozialpäd. Allgemeine Soziale Dienste (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet für die Dauer eines Jahres",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "15. November 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Sozialarbeiterinnen-bzw.Sozialpaedagoginnen-Sozialarbeiter-bzw.Sozialpaedagogen-w-m-d-51-.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-5ece7f1fd5f671",
