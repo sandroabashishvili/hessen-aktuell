@@ -1,63 +1,18 @@
 {
-  "generated_at_utc": "2026-10-06 16:30:10 UTC",
-  "generated_at_local": "2026-10-06 18:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-10-07 07:30:21 UTC",
+  "generated_at_local": "2026-10-07 09:30:11 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 191,
+  "count": 189,
   "source_counts": {
     "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 7,
-    "stadt-frankfurt-jobs": 93,
+    "stadt-frankfurt-jobs": 92,
     "stadt-wiesbaden-jobs": 27,
     "stadt-darmstadt-jobs": 21,
     "stadt-offenbach-jobs": 24,
-    "stadt-giessen-jobs": 8
+    "stadt-giessen-jobs": 7
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-25f2ea66efbba1",
-      "title": "Fachspezialist:in (w/m/d) Finanzen und Projekte (Amtsrätin:Amtsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kassen- und Steueramt",
-      "deadline": "06.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Fachspezialistin-wmd-Finanzen-und-Projekte-AmtsraetinAmtsr-de-j11267.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-5a7c48cfca7fb5",
-      "title": "Ingenieur:in (w/m/d) für Elektrotechnik",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "06.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ingenieurin-wmd-fuer-Elektrotechnik-de-j10523.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-3f4b20f11e85f2",
-      "title": "Sachbearbeiter:in (w/m/d) Wohnraumversorgung",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Wohnungswesen",
-      "deadline": "06.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Wohnraumversorgung-de-j11188.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-cb48c4e7a234c2",
       "title": "Lebensmittelkontrolleur/in (w/m/d) oder Lebensmittelkontrolleur/in (w/m/d) zur Fortbildung beim Bürger- und Ordnungsamt, Abteilung Veterinärwesen und Verbraucherschutz",
@@ -1199,21 +1154,6 @@
       "source_id": "stadt-giessen-jobs"
     },
     {
-      "item_id": "stadt-giessen-jobs-a28c412e9634ed",
-      "title": "Mitarbeiter*in zur Wahrnehmung von Aufgaben in der Ordnungs- und Gewerbeabteilung, Serviceteam Ordnung",
-      "employer": "Universitätsstadt Gießen",
-      "location": "Gießen",
-      "employment_type": "Vollzeit",
-      "contract_type": "Unbefristet",
-      "pay_grade": "Entgeltgruppe 9a TVöD",
-      "department": "Ordnungsamt",
-      "deadline": "25. Oktober 2026",
-      "reference": "",
-      "source_name": "Stadt Gießen",
-      "source_url": "https://karriere.giessen.de/jobposting/44f4a068f4f1cd81966cd0f45ca2233777768f230?ref=Homepage",
-      "source_id": "stadt-giessen-jobs"
-    },
-    {
       "item_id": "stadt-giessen-jobs-eaf5d2bf4ef110",
       "title": "Sachgebietsleiter*in Kreditorenbuchhaltung",
       "employer": "Universitätsstadt Gießen",
@@ -1559,6 +1499,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-298d47faac8855",
+      "title": "Abteilungsleiter :in Fachdienste (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bauaufsicht",
+      "deadline": "31.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiter-in-Fachdienste-wmd-de-j11087.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-ddbed33f010512",
       "title": "Ausbildung - Verwaltungsfachangestellte:r (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1829,6 +1784,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-d21f6d5375197f",
+      "title": "Landschaftsarchitekt: in Projektleitung \"Grün-blaue Infrastruktur - Neubaugebiete\" (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitekt-in-Projektleitung-Gruen-blaue-Infrast-de-j11328.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-d6fab4d1b1cc17",
       "title": "Mehrere Hausmeisterinnen/Hausmeister (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2039,21 +2009,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-0da03d6751ad32",
-      "title": "Stellvertretende:r Revierleiter:in (w/m/d) Vogelhallen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Zoologischer Garten Frankfurt",
-      "deadline": "03.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Revierleiterin-wmd-Vogelhallen-de-j11313.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-kassel-jobs-1759598751da91",
       "title": "Stellvertr. Leitung Kindertagesstätte Menzelstraße (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2171,6 +2126,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagogen-wmd-de-j11247.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-0da03d6751ad32",
+      "title": "Stellvertretende:r Revierleiter:in (w/m/d) Vogelhallen",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "20.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Revierleiterin-wmd-Vogelhallen-de-j11313.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
