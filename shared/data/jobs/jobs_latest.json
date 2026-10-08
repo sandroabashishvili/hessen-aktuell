@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-10-08 07:30:16 UTC",
-  "generated_at_local": "2026-10-08 09:30:13 Europe/Berlin",
+  "generated_at_utc": "2026-10-08 16:30:17 UTC",
+  "generated_at_local": "2026-10-08 18:30:13 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 189,
+  "count": 193,
   "source_counts": {
-    "stadt-kassel-jobs": 11,
+    "stadt-kassel-jobs": 12,
     "hessen-mobil-jobs": 6,
-    "stadt-frankfurt-jobs": 95,
+    "stadt-frankfurt-jobs": 97,
     "stadt-wiesbaden-jobs": 27,
     "stadt-darmstadt-jobs": 19,
-    "stadt-offenbach-jobs": 24,
+    "stadt-offenbach-jobs": 25,
     "stadt-giessen-jobs": 7
   },
   "items": [
@@ -41,6 +41,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Assistentinnen-wmd-Bezirksabteilungen-de-j10757.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-5574e86bf7e641",
+      "title": "Leiter:in (w/m/d) Sachgebiet Empfänge, Vermietungsangelegenheiten, Service, Floristik und Veranstaltungssicherheit (Magistratsrätin:Magistratsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Hauptamt",
+      "deadline": "09.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-Sachgebiet-Empfaenge-Vermietungsangelegenheit-de-j10496.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1634,21 +1649,6 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-efc70fa56a85ec",
-      "title": "Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter",
-      "employer": "Hessen Mobil",
-      "location": "Hessenweit",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "31. Oktober 2026",
-      "reference": "STW-2027",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
-    {
       "item_id": "stadt-kassel-jobs-bea2d691086b7d",
       "title": "Dozent/in für Korrepetition und Zweitfach Klavier (w/m/d)",
       "employer": "Stadt Kassel",
@@ -1677,6 +1677,36 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Notfallsanitaeterinnen-Notfallsanitaeter-w-m-d-37-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-5302980c60ce69",
+      "title": "Wissenschaftliche/r Volontär/in für das Stadtmuseum (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet für zwei Jahre",
+      "pay_grade": "",
+      "department": "Kulturamt",
+      "deadline": "31. Oktober 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Wissenschaftliche-Volontaerin-wissenschaftlicher-Volontaer-fuer-das-Stadtmuseum-w-m-d-41-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-6aa0e80075770c",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) im Bereich Presse- und Öffentlichkeitsarbeit",
+      "employer": "Hessen Mobil",
+      "location": "Marburg Bewerbungsfrist: 11. Oktober 2026 Kennziffer: S2 26/2 Stellenausschreibung Sachbearbeiter in Öffentlichkeitsarbeit S2 26/2.pdf (PDF/457.47 KB) Öffnet sich in einem neuen Fenster Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst Standort: Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Krisensicheres, unbefristetes Arbeitsverhältnis Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) mit automatischem Gehaltsaufstieg Betriebliche Altersversorgung, Jahressonderzahlung und Kinderzulage 30 Tage Urlaub (zusätzlich 24.12. und 31.12. frei) Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z.B. Kooperation mit dem Sport-/ Freizeit- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster , Hessen Mobil Gesundheitstage, Gesundheitsmanagement des Landes) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung zur Vereinbarkeit von Familie und Beruf Möglichkeit zum mobilen Arbeiten Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Ausbildungsangebote Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter Standort: Hessenweit",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "31. Oktober 2026",
+      "reference": "STW-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-dc03fccc863bde",
@@ -1949,6 +1979,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-e52cf915c2c9f6",
+      "title": "Tierpfleger:in Afrikasavanne (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "02.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Tierpflegerin-Afrikasavanne-wmd-de-j11379.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-6db7e00670746b",
       "title": "Ingenieur :in Elektrotechnik und Nachrichtentechnik (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1976,6 +2021,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Leiter-in-des-Sachgebiets-wmd-IT-Finanzen-Grundlagen-und-A-de-j11377.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-c8a6909998ecd5",
+      "title": "Mitarbeiter :in Futtermittelwirtschaft (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "03.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiter-in-Futtermittelwirtschaft-wmd-de-j11400.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2009,6 +2069,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-6e8e8f9e8893ff",
+      "title": "Sachbearbeiter:in Stiftungsvermögensverwaltung, Rechnungsführung Zentrale Finanzwirtschaft (Amtfrau:Amtmann) (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtkämmerei",
+      "deadline": "08.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-Stiftungsvermoegensverwaltung-Rechnungsfu-de-j11337.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-2c5d536458bb94",
       "title": "Sozialarb./Sozialpäd. Jugendhilfe im Strafverfahren (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2036,6 +2111,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2148&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-727bfc64ba4947",
+      "title": "Leitung Digitalisierungsamt (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 15, A 15 HBesO",
+      "department": "Digitalisierungsamt",
+      "deadline": "08.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2169&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -2129,8 +2219,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-0da03d6751ad32",
-      "title": "Stellvertretende:r Revierleiter:in (w/m/d) Vogelhallen",
+      "item_id": "stadt-frankfurt-jobs-3103953d386d6f",
+      "title": "Stellvertretende:r Revierleiter :in Vogelhallen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufserfahrene:r",
@@ -2140,7 +2230,7 @@
       "deadline": "20.11.2026",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Revierleiterin-wmd-Vogelhallen-de-j11313.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Revierleiter-in-Vogelhallen-wmd-de-j11313.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2474,21 +2564,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-5574e86bf7e641",
-      "title": "Leiter:in (w/m/d) Sachgebiet Empfänge, Vermietungsangelegenheiten, Service, Floristik und Veranstaltungssicherheit (Magistratsrätin:Magistratsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Hauptamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Leiterin-wmd-Sachgebiet-Empfaenge-Vermietungsangelegenheit-de-j10496.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-c7c01a26eac635",
       "title": "Notfallsanitäter:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2531,21 +2606,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Pflasterbauerinnen-Strassenbauerinnen-wmd-de-j10701.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-4425d91cfc6031",
-      "title": "Sachbearbeiter:in (w/m/d) EDV der Ausländerbehörde (Amtfrau:Amtmann)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Ausländerbehörde (Frankfurt Immigration Office)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-EDV-der-Auslaenderbehoerde-AmtfrauAmt-de-j11230.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
