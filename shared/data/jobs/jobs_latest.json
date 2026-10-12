@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-12 07:30:08 UTC",
-  "generated_at_local": "2026-10-12 09:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-10-12 16:30:08 UTC",
+  "generated_at_local": "2026-10-12 18:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 202,
+  "count": 205,
   "source_counts": {
     "stadt-kassel-jobs": 11,
-    "hessen-mobil-jobs": 7,
+    "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 97,
-    "stadt-wiesbaden-jobs": 26,
-    "stadt-darmstadt-jobs": 24,
+    "stadt-wiesbaden-jobs": 27,
+    "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 26,
     "stadt-giessen-jobs": 11
   },
@@ -959,21 +959,6 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
-      "item_id": "stadt-offenbach-jobs-ba423cef0a670a",
-      "title": "Museumspädagog*in - Bildung, Vermittlung (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD 10",
-      "department": "Klingspor Museum",
-      "deadline": "25.10.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2171&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
       "item_id": "stadt-offenbach-jobs-3a0b60796b42e6",
       "title": "Sachbearbeiter*in Ehrungen / Protokoll / Städtepartnerschaften (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1169,8 +1154,8 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-darmstadt-jobs-17def6ea4aeaf8",
-      "title": "Facility / Property-Manager (w/m/d) für das technische Objektmanagement beim Eigenbetrieb Immobilienmanagement (IDA) im Fachbereich technischer Gebäudebetrieb",
+      "item_id": "stadt-darmstadt-jobs-e74c575b6484d8",
+      "title": "Facility / Property-Manager/in (w/m/d) für das technische Objektmanagement beim Eigenbetrieb Immobilienmanagement (IDA) im Fachbereich technischer Gebäudebetrieb",
       "employer": "Wissenschaftsstadt Darmstadt",
       "location": "Darmstadt",
       "employment_type": "",
@@ -1180,7 +1165,7 @@
       "deadline": "27.10.2026",
       "reference": "",
       "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Facility-Property-Manager-wmd-fuer-das-technische-Objektma-de-j3082.html",
+      "source_url": "https://karriere.darmstadt.de/Facility-Property-Managerin-wmd-fuer-das-technische-Objekt-de-j3082.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -1377,6 +1362,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Restauratorin-wmd-Papier-de-j11315.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-c808d027400dc3",
+      "title": "Verwaltungsfachangestellte (w/m/d) für die Straßenmeisterei Groß-Umstadt",
+      "employer": "Hessen Mobil",
+      "location": "Straßenmeisterei Groß-Umstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. Oktober 2026",
+      "reference": "BV 25/18",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-10/stellenausschreibung_vfa_bv_25_18_bv_15.1.06.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "hessen-mobil-jobs-cc72b042ccc961",
@@ -1955,12 +1955,27 @@
       "location": "Offenbach",
       "employment_type": "",
       "contract_type": "",
-      "pay_grade": "TVöD 10, A 11 HBesO",
+      "pay_grade": "TVöD 9b, A 10 HBesO",
       "department": "Hauptamt",
       "deadline": "01.11.2026",
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2170&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-ba423cef0a670a",
+      "title": "Museumspädagog*in - Bildung, Vermittlung (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 10",
+      "department": "Klingspor Museum",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2171&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -2009,6 +2024,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-5e3ccbfc7bb7d2",
+      "title": "Assistenzkraft der Abteilung „Personaldienstleistungen“ (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Assistenzkraft-der-Abteilung-Personaldienstleistungen-wmd-de-j7459.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-6044e48ee6e5ba",
       "title": "Brandmeisterinnen / Brandmeister (w/m/d) für die Ausbildung im mittleren feuerwehrtechnischen Dienst",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -2052,6 +2082,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Schulsozialarbeiterinnen-Schulsozialarbeiter-wmd-de-j7443.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-932c184330d577",
+      "title": "Technische Projektleitung (w/m/d) für Heizung, Lüftung und Sanitärtechnik beim Eigenbetrieb Immobilienmanagement (IDA), Fachbereich Hochbau",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Eigenbetrieb Immobilienmanagement (IDA), Fachbereich Hochbau",
+      "deadline": "02.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Technische-Projektleitung-wmd-fuer-Heizung-Lueftung-und-Sa-de-j3084.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-75f2c3212a7f82",
