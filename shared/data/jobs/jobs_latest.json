@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-13 07:30:10 UTC",
-  "generated_at_local": "2026-10-13 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-10-13 16:30:10 UTC",
+  "generated_at_local": "2026-10-13 18:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 203,
   "source_counts": {
@@ -416,21 +416,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2164&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-fc856b892a30f5",
-      "title": "Pädagogische Fachkraft (Kindergarten) Kita am Hafen (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD S8b",
-      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
-      "deadline": "18.10.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2146&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1574,21 +1559,6 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-6aa0e80075770c",
-      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) im Bereich Presse- und Öffentlichkeitsarbeit",
-      "employer": "Hessen Mobil",
-      "location": "Marburg Bewerbungsfrist: 11. Oktober 2026 Kennziffer: S2 26/2 Stellenausschreibung Sachbearbeiter in Öffentlichkeitsarbeit S2 26/2.pdf (PDF/457.47 KB) Öffnet sich in einem neuen Fenster Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst Standort: Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Sicherheit & Perspektive Krisensicheres Arbeitsverhältnis Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) bzw. nach Hessischem Besoldungsgesetz (HBesG) mit automatischem Stufenaufstieg Betriebliche Altersversorgung, Jahressonderzahlung, vermögenswirksame Leistungen und Kinderzulage Vereinbarkeit von Beruf & Privatleben 33 freie Tage: 30 Tage Jahresurlaub plus frei am 24.12. und 31.12. sowie an einem frei gewählten Datum („Flexitag“) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung Möglichkeit zum mobilen Arbeiten an bis zu 2 Tagen pro Woche Mobilität & Freizeit Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen zur Privatnutzung inkl. Mitnahmeregelung Zugang zu Angeboten bei bekannten Marken und Anbietern über Corporate Benefits Gesundheit & Wohlbefinden Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z. B. Kooperation mit dem Sport- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster ) Hessen Mobil-Gesundheitstage und Gesundheitsmanagement des Landes Hessen Entwicklung & Karriere Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Möglichkeit zur Teilnahme an internen und externen Fortbildungen Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Gute Aufstiegschancen – bereits für Berufsanfängerinnen und -anfänger Arbeitsmöglichkeiten an über 60 Orten in Hessen Mission & Vision Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Je nach Position und Aufgabengebiet können die Rahmenbedingungen / Arbeitszeiten variieren. Ausbildungsangebote Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter Standort: Hessenweit",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "31. Oktober 2026",
-      "reference": "STW-2027",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
-    {
       "item_id": "stadt-wiesbaden-jobs-dc03fccc863bde",
       "title": "Forstwirtinnen / Forstwirte (w/m/d) für den Wiesbadener Stadtwald",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -1602,6 +1572,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Forstwirtinnen-Forstwirte-wmd-fuer-den-Wiesbadener-Stadtwa-de-j6842.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "hessen-mobil-jobs-d3260718dcbccf",
+      "title": "Statikerin / Statiker (w/m/d) in der Brückeninstandhaltung",
+      "employer": "Hessen Mobil",
+      "location": "Wiesbaden (Zentrale) Bewerbungsfrist: 18. Oktober 2026 Kennziffer: MR 26/10 Steuerung VIF Wiesbaden_MR_26_10.pdf (PDF/320.79 KB) Öffnet sich in einem neuen Fenster Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst Standort: Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Sicherheit & Perspektive Krisensicheres Arbeitsverhältnis Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) bzw. nach Hessischem Besoldungsgesetz (HBesG) mit automatischem Stufenaufstieg Betriebliche Altersversorgung, Jahressonderzahlung, vermögenswirksame Leistungen und Kinderzulage Vereinbarkeit von Beruf & Privatleben 33 freie Tage: 30 Tage Jahresurlaub plus frei am 24.12. und 31.12. sowie an einem frei gewählten Datum („Flexitag“) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung Möglichkeit zum mobilen Arbeiten an bis zu 2 Tagen pro Woche Mobilität & Freizeit Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen zur Privatnutzung inkl. Mitnahmeregelung Zugang zu Angeboten bei bekannten Marken und Anbietern über Corporate Benefits Gesundheit & Wohlbefinden Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z. B. Kooperation mit dem Sport- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster ) Hessen Mobil-Gesundheitstage und Gesundheitsmanagement des Landes Hessen Entwicklung & Karriere Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Möglichkeit zur Teilnahme an internen und externen Fortbildungen Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Gute Aufstiegschancen – bereits für Berufsanfängerinnen und -anfänger Arbeitsmöglichkeiten an über 60 Orten in Hessen Mission & Vision Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Je nach Position und Aufgabengebiet können die Rahmenbedingungen / Arbeitszeiten variieren. Ausbildungsangebote Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter Standort: Hessenweit",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "31. Oktober 2026",
+      "reference": "STW-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
+      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-eb83d721a5e4ca",
@@ -1920,7 +1905,7 @@
     },
     {
       "item_id": "stadt-offenbach-jobs-ba423cef0a670a",
-      "title": "Museumspädagog*in - Bildung und Vermittlung (m/w/d)",
+      "title": "Museumspädagog*in Bildung und Vermittlung (m/w/d)",
       "employer": "Stadt Offenbach am Main",
       "location": "Offenbach",
       "employment_type": "",
@@ -1931,6 +1916,21 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2171&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-fc856b892a30f5",
+      "title": "Pädagogische Fachkraft (Kindergarten) Kita am Hafen (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD S8b",
+      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2146&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
