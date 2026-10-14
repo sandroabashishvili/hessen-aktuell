@@ -1,33 +1,18 @@
 {
-  "generated_at_utc": "2026-10-14 07:30:10 UTC",
-  "generated_at_local": "2026-10-14 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-10-14 16:30:19 UTC",
+  "generated_at_local": "2026-10-14 18:30:17 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 201,
+  "count": 203,
   "source_counts": {
     "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 25,
     "stadt-darmstadt-jobs": 21,
-    "stadt-offenbach-jobs": 27,
+    "stadt-offenbach-jobs": 29,
     "stadt-giessen-jobs": 11
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-363df64695fec6",
-      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt, Abteilung Friedhöfe",
-      "deadline": "14.10.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3066.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-74a1d7a062967a",
       "title": "Sachbearbeiter/in (w/m/d) im Bereich Bildung und Teilhabe beim Amt für Soziales und Prävention",
@@ -1544,6 +1529,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-363df64695fec6",
+      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt, Abteilung Friedhöfe",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3066.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-eb83d721a5e4ca",
       "title": "Klimaschutzmanager/in (w/m/d) beim Amt für Klimaschutz und Klimaanpassung",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -2307,6 +2307,36 @@
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Sozialarbeiterinnen-bzw.Sozialpaedagoginnen-Sozialarbeiter-bzw.Sozialpaedagogen-w-m-d-51-.php",
       "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-c990d7e0d05d84",
+      "title": "Mitarbeiter*in Registratur und Baubüro (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 7",
+      "department": "Bauaufsichtsamt",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2174&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-d9b771fbf8ea76",
+      "title": "Persönliche Ansprechpartner*innen Arbeitsvermittlung (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 9c",
+      "department": "MainArbeit. Kommunales Jobcenter Offenbach",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2173&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-5ece7f1fd5f671",
