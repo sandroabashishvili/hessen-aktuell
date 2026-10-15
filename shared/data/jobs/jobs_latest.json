@@ -1,63 +1,18 @@
 {
-  "generated_at_utc": "2026-10-14 16:30:19 UTC",
-  "generated_at_local": "2026-10-14 18:30:17 Europe/Berlin",
+  "generated_at_utc": "2026-10-15 07:30:09 UTC",
+  "generated_at_local": "2026-10-15 09:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 203,
+  "count": 202,
   "source_counts": {
     "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 25,
-    "stadt-darmstadt-jobs": 21,
+    "stadt-darmstadt-jobs": 20,
     "stadt-offenbach-jobs": 29,
     "stadt-giessen-jobs": 11
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-74a1d7a062967a",
-      "title": "Sachbearbeiter/in (w/m/d) im Bereich Bildung und Teilhabe beim Amt für Soziales und Prävention",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Soziales und Prävention",
-      "deadline": "14.10.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-im-Bereich-Bildung-und-Teilhabe-beim--de-j3067.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-b4b8e0f92e8f9b",
-      "title": "Sozialpädagogen/innen bzw. Sozialarbeiter/innen (w/m/d) beim Jugendamt, Abteilung Eingliederungshilfe",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugendamt, Abteilung Eingliederungshilfe",
-      "deadline": "14.10.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Sozialpaedagogeninnen-bzw-Sozialarbeiterinnen-wmd-beim-Jug-de-j3068.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-1579c70d35c2d1",
-      "title": "Sozialarbeiter:in (w/m/d) Soziale Hilfen (Schwerpunkt Hilfe zur Pflege) Sozialrathaus Ost, Dienstort Bergen-Enkheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "14.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-wmd-Soziale-Hilfen-Schwerpunkt-Hilfe-zur--de-j11107.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-60370459eb11a1",
       "title": "Sachbearbeiter:in (w/m/d) im Bereich CAFM und Prozessoptimierung",
@@ -209,21 +164,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-b0a05907fe3b4d",
-      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Inobhutnahme Höchst",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "18.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Inobh-de-j11332.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-32afc2bb68c670",
       "title": "Teamleiter :in Servicebereich Verwaltung (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -356,21 +296,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2145&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-29c7a1bb0e36d0",
-      "title": "Sachbearbeiter*in Mitwirkung Grund- und Gewerbesteuer (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD 11, A 12 HBesO",
-      "department": "Kämmerei, Kasse und Steuern",
-      "deadline": "18.10.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2149&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -716,6 +641,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-oekologie-und-Landschaftsplanung-de-j11268.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-b0a05907fe3b4d",
+      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Inobhutnahme Höchst",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "25.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Inobh-de-j11332.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1919,6 +1859,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-29c7a1bb0e36d0",
+      "title": "Sachbearbeiter*in Mitwirkung Grund- und Gewerbesteuer (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 11, A 12 HBesO",
+      "department": "Kämmerei, Kasse und Steuern",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2149&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-d15293605458b8",
       "title": "Stellvertretende Leitung Kita in Bieber (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2067,6 +2022,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Tierpflegerin-Afrikasavanne-wmd-de-j11379.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-1b120283357cde",
+      "title": "Sachbearbeiter/in (w/m/d) im Bereich Unterhaltsvorschuss beim Jugendamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "03.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-im-Bereich-Unterhaltsvorschuss-beim-J-de-j3085.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-6db7e00670746b",
@@ -2726,6 +2696,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Kanalbetriebsarbeiterin-wmd-de-j11161.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-baf50bcb1ab8d6",
+      "title": "Koordinator :in für die inklusive Bildung an Schulen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtschulamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Koordinator-in-fuer-die-inklusive-Bildung-an-Schulen-wmd-de-j11340.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
