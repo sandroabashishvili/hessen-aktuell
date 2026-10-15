@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-15 07:30:09 UTC",
-  "generated_at_local": "2026-10-15 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-10-15 16:30:12 UTC",
+  "generated_at_local": "2026-10-15 18:30:11 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 202,
+  "count": 204,
   "source_counts": {
     "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 8,
-    "stadt-frankfurt-jobs": 98,
+    "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 25,
-    "stadt-darmstadt-jobs": 20,
+    "stadt-darmstadt-jobs": 21,
     "stadt-offenbach-jobs": 29,
     "stadt-giessen-jobs": 11
   },
@@ -2099,6 +2099,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-73085b800b0e0d",
+      "title": "Sachbearbeiter/in (w/m/d) Internationale Beziehungen beim Amt für Gremiendienste, Protokoll und Internationales",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Gremiendienste, Protokoll und Internationales",
+      "deadline": "04.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-Internationale-Beziehungen-beim-Amt-f-de-j3086.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-afd5fc1e5d1235",
       "title": "Sachbearbeiter :innen (w/m/d) Steuerrechtliche Unterstützungsleistungen (Amtfrau:Amtmann)",
       "employer": "Stadt Frankfurt am Main",
@@ -2262,6 +2277,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Sozialpaedagogischen-Familienhelfer-in-wmd-de-j7393.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a36963fbd131cc",
+      "title": "Wissenschaftliche :n Volontär :in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Volontär:in",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jüdisches Museum",
+      "deadline": "12.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Wissenschaftliche-n-Volontaer-in-wmd-de-j11362.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-1bebb9959b6c5b",
@@ -2774,21 +2804,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
-      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-c489369f07ded1",
       "title": "Sozialarbeiter:innen (w/m/d) Kinder- und Jugendhilfe Sozialdienst",
       "employer": "Stadt Frankfurt am Main",
@@ -2861,6 +2876,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Technische-Objektmanagerinnen-wmd-de-j10440.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-f9706d747aaabf",
+      "title": "Volontär :in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Volontär:in",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Museum der Weltkulturen",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Volontaer-in-wmd-de-j11262.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
