@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-16 07:30:12 UTC",
-  "generated_at_local": "2026-10-16 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-10-16 16:30:11 UTC",
+  "generated_at_local": "2026-10-16 18:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 204,
+  "count": 207,
   "source_counts": {
-    "stadt-kassel-jobs": 11,
-    "hessen-mobil-jobs": 8,
+    "stadt-kassel-jobs": 12,
+    "hessen-mobil-jobs": 9,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 24,
-    "stadt-darmstadt-jobs": 21,
+    "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 29,
     "stadt-giessen-jobs": 12
   },
@@ -1154,6 +1154,21 @@
       "source_id": "hessen-mobil-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-7eab2a26b3105e",
+      "title": "Ingenieurin / Ingenieur (w/m/d) als Straßenmeistereileitung (Rhein-Main)",
+      "employer": "Hessen Mobil",
+      "location": "Straßenmeisterei Hofheim",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "30. Oktober 2026",
+      "reference": "BV 26/36",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-10/stellenausschreibung_ing-sm_leitung_bv_26_36.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "hessen-mobil-jobs-cc72b042ccc961",
       "title": "Auszubildende (w/m/d) zur Baustoffprüferin / zum Baustoffprüfer",
       "employer": "Hessen Mobil",
@@ -1709,6 +1724,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-b6ef79c8839759",
+      "title": "Sachbearbeiter/in Büro Stadtverordnetenversammlung (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "befristet für die Dauer von Mutterschutz und Elternzeit",
+      "pay_grade": "",
+      "department": "Büro der Stadtverordnetenversammlung",
+      "deadline": "1. November 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sachbearbeiterin-Sachbearbeiter-fuer-das-Buero-der-Stadtverordnetenversammlung-w-m-d-16-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-186d94edfbb673",
       "title": "Ausbildung Fachinformatiker*in Systemintegration (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2022,6 +2052,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Tierpflegerin-Afrikasavanne-wmd-de-j11379.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-e8d520cf876135",
+      "title": "Sachbearbeiter/in (w/m/d) im Bereich Amtsvormundschaften beim Jugendamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "03.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-im-Bereich-Amtsvormundschaften-beim-J-de-j3088.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-1b120283357cde",
@@ -2669,8 +2714,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-11d844b1d65bfc",
-      "title": "Initiativbewerbung Ingenieur:in (w/m/d) Bau oder Umwelt",
+      "item_id": "stadt-frankfurt-jobs-b9f3a5cc9693b1",
+      "title": "Initiativbewerbung Ingenieur: in Bau oder Umwelt (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufseinsteiger:in, Berufserfahrene:r, Initiativstelle",
@@ -2680,7 +2725,7 @@
       "deadline": "",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Ingenieurin-wmd-Bau-oder-Umwelt-de-j5100.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Initiativbewerbung-Ingenieur-in-Bau-oder-Umwelt-wmd-de-j5100.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
