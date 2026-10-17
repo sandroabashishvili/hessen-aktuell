@@ -1,63 +1,18 @@
 {
-  "generated_at_utc": "2026-10-16 16:30:11 UTC",
-  "generated_at_local": "2026-10-16 18:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-10-17 07:30:08 UTC",
+  "generated_at_local": "2026-10-17 09:30:06 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 207,
+  "count": 206,
   "source_counts": {
     "stadt-kassel-jobs": 12,
     "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 99,
+    "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 24,
     "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 29,
     "stadt-giessen-jobs": 12
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-90be8310001f67",
-      "title": "Objektverantwortliche:r (w/m/d) Schulen (Amtsrätin:Amtsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "16.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Objektverantwortlicher-wmd-Schulen-AmtsraetinAmtsrat-de-j11149.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-cb39d7853fab13",
-      "title": "Sachbearbeiter:in (w/m/d) Servicebereich Verwaltung im Sozialrathaus Ost, Dienstort Bergen-Enkheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "16.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-Servicebereich-Verwaltung-im-Sozialra-de-j11249.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-8561be38b775e3",
-      "title": "Teamleiter:in (w/m/d) Soziale Hilfen Wirtschaftsdienst (Amtsrätin:Amtsrat) Sozialrathaus Sachsenhausen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Führungskraft",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "16.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Teamleiterin-wmd-Soziale-Hilfen-Wirtschaftsdienst-Amtsraet-de-j11314.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-0210a690ca00b6",
       "title": "Baumkontrolleur:in (w/m/d)",
@@ -2564,6 +2519,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-4a7c6b4d89c460",
+      "title": "Bauingenieur:innen (w/m/d) Straßenentwurf Bauingenieur:innen (w/m/d) Straßenbau",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-Bauingenieurinnen-wm-de-j8003.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-88366d2f8eba4c",
       "title": "Bauingenieur:innen (w/m/d) Straßenentwurf bzw. Straßenbau für das Programm/ Projekt „Energiewendeviertel FFM“",
       "employer": "Stadt Frankfurt am Main",
@@ -2846,6 +2816,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-des-Buergerinnen-und-Buergerbueros-de-j11372.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
+      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
