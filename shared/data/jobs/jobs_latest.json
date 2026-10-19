@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-19 07:30:12 UTC",
-  "generated_at_local": "2026-10-19 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-10-19 16:30:12 UTC",
+  "generated_at_local": "2026-10-19 18:30:11 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 189,
+  "count": 195,
   "source_counts": {
-    "stadt-kassel-jobs": 12,
+    "stadt-kassel-jobs": 13,
     "hessen-mobil-jobs": 9,
-    "stadt-frankfurt-jobs": 93,
+    "stadt-frankfurt-jobs": 98,
     "stadt-wiesbaden-jobs": 19,
     "stadt-darmstadt-jobs": 22,
     "stadt-offenbach-jobs": 26,
@@ -536,21 +536,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Paedagogische-r-Mitarbeiter-in-Gesundheit-und-Bewegung-wmd-de-j11388.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-89cbbd55bfc529",
-      "title": "Techniker:in (w/m/d) TGM Rathaus Römer",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "26.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Technikerin-wmd-TGM-Rathaus-Roemer-de-j11080.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1094,6 +1079,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "hessen-mobil-jobs-d3260718dcbccf",
+      "title": "Statikerin / Statiker (w/m/d) in der Brückeninstandhaltung",
+      "employer": "Hessen Mobil",
+      "location": "Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Sicherheit & Perspektive Krisensicheres Arbeitsverhältnis Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) bzw. nach Hessischem Besoldungsgesetz (HBesG) mit automatischem Stufenaufstieg Betriebliche Altersversorgung, Jahressonderzahlung, vermögenswirksame Leistungen und Kinderzulage Vereinbarkeit von Beruf & Privatleben 33 freie Tage: 30 Tage Jahresurlaub plus frei am 24.12. und 31.12. sowie an einem frei gewählten Datum („Flexitag“) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung Möglichkeit zum mobilen Arbeiten an bis zu 2 Tagen pro Woche Mobilität & Freizeit Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen zur Privatnutzung inkl. Mitnahmeregelung Zugang zu Angeboten bei bekannten Marken und Anbietern über Corporate Benefits Gesundheit & Wohlbefinden Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z. B. Kooperation mit dem Sport- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster ) Hessen Mobil-Gesundheitstage und Gesundheitsmanagement des Landes Hessen Entwicklung & Karriere Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Möglichkeit zur Teilnahme an internen und externen Fortbildungen Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Gute Aufstiegschancen – bereits für Berufsanfängerinnen und -anfänger Arbeitsmöglichkeiten an über 60 Orten in Hessen Mission & Vision Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Je nach Position und Aufgabengebiet können die Rahmenbedingungen / Arbeitszeiten variieren. Ausbildungsangebote Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter Standort: Hessenweit",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "31. Oktober 2026",
+      "reference": "STW-2027",
+      "source_name": "Hessen Mobil",
+      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
+      "source_id": "hessen-mobil-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-dc03fccc863bde",
       "title": "Forstwirtinnen / Forstwirte (w/m/d) für den Wiesbadener Stadtwald",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -1107,21 +1107,6 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Forstwirtinnen-Forstwirte-wmd-fuer-den-Wiesbadener-Stadtwa-de-j6842.html",
       "source_id": "stadt-wiesbaden-jobs"
-    },
-    {
-      "item_id": "hessen-mobil-jobs-d3260718dcbccf",
-      "title": "Statikerin / Statiker (w/m/d) in der Brückeninstandhaltung",
-      "employer": "Hessen Mobil",
-      "location": "Wiesbaden (Zentrale) Bewerbungsfrist: 18. Oktober 2026 Kennziffer: MR 26/10 Steuerung VIF Wiesbaden_MR_26_10.pdf (PDF/320.79 KB) Öffnet sich in einem neuen Fenster Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst Standort: Straßenmeisterei Idstein Bewerbungsfrist: keine Kennziffer: BVTA BVTA_Technikerin / Techniker (w/m/d) im Straßenbetriebsdienst (PDF/391.22 KB) Öffnet sich in einem neuen Fenster Was wir Ihnen bieten: Sicherheit & Perspektive Krisensicheres Arbeitsverhältnis Vergütung nach dem Tarifvertrag für den öffentlichen Dienst des Landes Hessen (TV-H) bzw. nach Hessischem Besoldungsgesetz (HBesG) mit automatischem Stufenaufstieg Betriebliche Altersversorgung, Jahressonderzahlung, vermögenswirksame Leistungen und Kinderzulage Vereinbarkeit von Beruf & Privatleben 33 freie Tage: 30 Tage Jahresurlaub plus frei am 24.12. und 31.12. sowie an einem frei gewählten Datum („Flexitag“) Gelebte Work-Life-Balance mit flexiblen Arbeitszeiten zwischen 6-20 Uhr ohne Kernarbeitszeit sowie vielfältige Modelle der Arbeitszeitgestaltung Möglichkeit zum mobilen Arbeiten an bis zu 2 Tagen pro Woche Mobilität & Freizeit Kostenfreies Landesticket Öffnet sich in einem neuen Fenster für den ÖPNV in Hessen zur Privatnutzung inkl. Mitnahmeregelung Zugang zu Angeboten bei bekannten Marken und Anbietern über Corporate Benefits Gesundheit & Wohlbefinden Zahlreiche Angebote zur Gesundheitsförderung und -beratung (z. B. Kooperation mit dem Sport- und Wellnessanbieter Wellhub Öffnet sich in einem neuen Fenster , kostenlose Beratungen über EAP Assist Öffnet sich in einem neuen Fenster ) Hessen Mobil-Gesundheitstage und Gesundheitsmanagement des Landes Hessen Entwicklung & Karriere Strukturiertes Onboarding mit Einarbeitungsplan und Mentoring Möglichkeit zur Teilnahme an internen und externen Fortbildungen Zahlreiche Weiterbildungs- und Karrieremöglichkeiten Gute Aufstiegschancen – bereits für Berufsanfängerinnen und -anfänger Arbeitsmöglichkeiten an über 60 Orten in Hessen Mission & Vision Sinnstiftende und erfüllende Tätigkeit für die Gesellschaft Innovationsgeist und Lösungsorientierung – für eine erfolgreiche Sicherstellung moderner Mobilität Moderne Arbeitskultur, Vielfalt und Wertschätzung Je nach Position und Aufgabengebiet können die Rahmenbedingungen / Arbeitszeiten variieren. Ausbildungsangebote Auszubildende (w/m/d) zur Straßenwärterin / zum Straßenwärter Standort: Hessenweit",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "31. Oktober 2026",
-      "reference": "STW-2027",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-strassenwaerterin_hessenweit.pdf",
-      "source_id": "hessen-mobil-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-363df64695fec6",
@@ -1904,6 +1889,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-477f0c99d3bb46",
+      "title": "stellvertretende :r Teamleiter :in (w/m/d) Kinder- und Jugendhilfe Sozialdienst Sozialrathaus Gallus",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "08.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/stellvertretende-r-Teamleiter-in-wmd-Kinder-und-Jugendhilf-de-j10931.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-giessen-jobs-275c8b7dd4a1cc",
       "title": "Leiter*in für die Kindertagesstätte Allendorf",
       "employer": "Universitätsstadt Gießen",
@@ -2024,6 +2024,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-9ee33b8db0148d",
+      "title": "Leiter: in der Abteilung Kraftfahrzeugangelegenheiten (Magistratsdirektor: in) (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Ordnungsamt",
+      "deadline": "09.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Leiter-in-der-Abteilung-Kraftfahrzeugangelegenheiten-Magis-de-j11440.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-a36963fbd131cc",
       "title": "Wissenschaftliche :n Volontär :in (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2039,6 +2054,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-7a119f418f41cd",
+      "title": "Landschaftsarchitekt: in Projektleitung Sportfreianlagen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitekt-in-Projektleitung-Sportfreianlagen-wm-de-j11445.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-55ffbde8334fa1",
+      "title": "Landschaftsarchitekt: in Projektsteuerung Friedhofsfreiflächen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitekt-in-Projektsteuerung-Friedhofsfreiflae-de-j10765.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-1bebb9959b6c5b",
       "title": "Sozialarb./Sozialpäd. Allgemeine Soziale Dienste (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2051,6 +2096,21 @@
       "reference": "",
       "source_name": "Stadt Kassel",
       "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Mehrere-Sozialarbeiterinnen-bzw.Sozialpaedagoginnen-Sozialarbeiter-bzw.Sozialpaedagogen-w-m-d-51-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-864d7030438ebe",
+      "title": "Straßenbauermeister/in bzw. Tiefbautechniker/in (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Straßenverkehrs- und Tiefbauamt",
+      "deadline": "15. November 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Strassenbauermeisterin-Strassenbauermeister-bzw.Tiefbautechnikerin-Tiefbautechniker-w-m-d-66-.php",
       "source_id": "stadt-kassel-jobs"
     },
     {
@@ -2099,8 +2159,8 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-6ae7717baa5654",
-      "title": "Sachbearbeiter:in (w/m/d) Vergabe/Logistik (Amtfrau:Amtmann)",
+      "item_id": "stadt-frankfurt-jobs-fec392ab246145",
+      "title": "Sachbearbeiter: in Vergabe/Logistik (Amtfrau:Amtmann) (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufserfahrene:r",
@@ -2110,7 +2170,7 @@
       "deadline": "16.11.2026",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterin-wmd-VergabeLogistik-AmtfrauAmtmann-de-j11429.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-VergabeLogistik-AmtfrauAmtmann-wmd-de-j11429.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2126,6 +2186,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagogen-wmd-de-j11247.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-89cbbd55bfc529",
+      "title": "Techniker:in (w/m/d) TGM Rathaus Römer",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "16.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Technikerin-wmd-TGM-Rathaus-Roemer-de-j11080.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2369,21 +2444,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-1ae3b4faa0319d",
-      "title": "Gärtner:innen (w/m/d) für anspruchsvolle gärtnerische Arbeiten",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Gaertnerinnen-wmd-fuer-anspruchsvolle-gaertnerische-Arbeit-de-j10325.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-576b646c4c6179",
       "title": "Hauptbrandmeister:in (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2549,6 +2609,36 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-477a53e8410e27",
+      "title": "Sachbearbeiter :in (w/m/d) Controlling Schwerpunkt Soziales (Amtfrau:Amtmann)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-wmd-Controlling-Schwerpunkt-Soziales-Amt-de-j11355.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a897412bfa3fe0",
+      "title": "Sachbearbeiter :in (w/m/d) Einnahmemanagement (Inspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-wmd-Einnahmemanagement-Inspektorin-de-j11354.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-1691e1ddaadf88",
       "title": "Sachgebietsleiter:in (w/m/d) des Bürgerinnen- und Bürgerbüros (Amtsrätin:Amtsrat)",
       "employer": "Stadt Frankfurt am Main",
@@ -2564,18 +2654,18 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-a98141ba57035c",
-      "title": "Sozialarbeiter:in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinderheim Rödelheim",
+      "item_id": "stadt-frankfurt-jobs-34d32a8673cdfa",
+      "title": "Sozialarbeiter :in (w/m/d) Soziale Hilfen (Schwerpunkt Eingliederungshilfe) Sozialrathaus Ost, Dienstort Bergen-Enkheim",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
       "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
       "contract_type": "",
       "pay_grade": "",
-      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "department": "Jugend- und Sozialamt",
       "deadline": "",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-SozialpaedagoginSozialpaedagoge-wmd-Kinde-de-j8388.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-wmd-Soziale-Hilfen-Schwerpunkt-Eingliede-de-j11421.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
