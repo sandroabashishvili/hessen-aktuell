@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-10-22 07:30:13 UTC",
-  "generated_at_local": "2026-10-22 09:30:11 Europe/Berlin",
+  "generated_at_utc": "2026-10-22 16:30:15 UTC",
+  "generated_at_local": "2026-10-22 18:30:13 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 201,
+  "count": 204,
   "source_counts": {
     "stadt-kassel-jobs": 14,
     "hessen-mobil-jobs": 9,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 19,
-    "stadt-darmstadt-jobs": 24,
-    "stadt-offenbach-jobs": 28,
+    "stadt-darmstadt-jobs": 26,
+    "stadt-offenbach-jobs": 29,
     "stadt-giessen-jobs": 8
   },
   "items": [
@@ -86,21 +86,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-Netzstrategie-und-Standardisierung-wmd-de-j11368.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-f9de78629db0d6",
-      "title": "Ingenieur :in TGA Projektingenieur (HKLS) / Versorgungstechnik (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "25.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-TGA-Projektingenieur-HKLS-Versorgungstechnik--de-j11098.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -974,21 +959,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-cc48987efc3687",
-      "title": "Arbeitsvorbereiter:in (w/m/d) Verfahrenstechnik",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "01.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Arbeitsvorbereiterin-wmd-Verfahrenstechnik-de-j10978.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-cb6dc3cdfe37ba",
       "title": "Bibliotheksangestellte:r (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1076,6 +1046,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-Regenwasserbewirtschaftung-und-ueberflutungss-de-j11451.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-f9de78629db0d6",
+      "title": "Ingenieur :in TGA Projektingenieur (HKLS) / Versorgungstechnik (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "01.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-TGA-Projektingenieur-HKLS-Versorgungstechnik--de-j11098.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1754,6 +1739,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-67b219dfd2d0e5",
+      "title": "stellv. Leiter :in Kinder- und Jugendhilfe Sozialdienst (Amtfrau :Amtmann) (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "05.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/stellv-Leiter-in-Kinder-und-Jugendhilfe-Sozialdienst-Amtfr-de-j11397.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "hessen-mobil-jobs-db0d6aacf0a5f8",
       "title": "Ingenieurin / Ingenieur (w/m/d) als Straßenmeistereileitung (Rheingau-Taunus-Kreis)",
       "employer": "Hessen Mobil",
@@ -1767,6 +1767,21 @@
       "source_name": "Hessen Mobil",
       "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-10/stellenausschreibung_ingenieur_in_geotechnik_pbh_26_18.pdf",
       "source_id": "hessen-mobil-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-cc48987efc3687",
+      "title": "Arbeitsvorbereiter:in (w/m/d) Verfahrenstechnik",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "08.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Arbeitsvorbereiterin-wmd-Verfahrenstechnik-de-j10978.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-9beb14b1ede1da",
@@ -1979,6 +1994,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-53a3c7635c7496",
+      "title": "Objektbetreuung (w/m/d) beim Kulturamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kulturamt",
+      "deadline": "09.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Objektbetreuung-wmd-beim-Kulturamt-de-j3092.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-a807af98659427",
       "title": "Sachbearbeitung (w/m/d) Gefahrgut beim Bürger- und Ordnungsamt, Stadtpolizei",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -2111,6 +2141,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Landschaftsarchitekt-in-Projektsteuerung-Friedhofsfreiflae-de-j10765.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-f5e9e8b5f40265",
+      "title": "Sozialarbeiter:in oder Sozialpädagogin:Sozialpädagoge (w/m/d) im Anerkennungsjahr im Sozialrathaus Nord",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Praktikant:in (Studium)",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11448.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2309,6 +2354,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-e249e3d6ad6a83",
+      "title": "Fachkraft (w/m/d) für Lagerlogistik",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "20.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Fachkraft-wmd-fuer-Lagerlogistik-de-j11353.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-3103953d386d6f",
       "title": "Stellvertretende:r Revierleiter :in Vogelhallen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2384,6 +2444,36 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-f4d70e6c2020f8",
+      "title": "Referatsleitung Finanzmanagement (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 11, A 12 HBesO",
+      "department": "Amt für Planen und Bauen",
+      "deadline": "06.12.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2177&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-80363f260d8f2e",
+      "title": "Duales Studium B. Eng. Bauingenieurwesen (w/m/d) 2027",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Studienplatz",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "13.12.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-B-Eng-Bauingenieurwesen-wmd-2027-de-j11463.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-7c26f287176636",
       "title": "Erzieher:in (w/m/d) im Berufspraktikum für das Kinderheim Rödelheim",
       "employer": "Stadt Frankfurt am Main",
@@ -2441,6 +2531,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Duales-Studium-als-Bachelor-of-Arts-Public-Administration--de-j3052.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-56947adc81c5f6",
+      "title": "Fachoberschulpraktikum (Form A) Informationstechnik (w/m/d)",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "14.02.2027",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Fachoberschulpraktikum-Form-A-Informationstechnik-wmd-de-j3071.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -2516,21 +2621,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Bauingenieurinnen-wmd-Strassenentwurf-bzw-Strassenbau-fuer-de-j10022.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6c5d9226b2346a",
-      "title": "Brandmeister:in (w/m/d) im mittleren feuerwehrtechnischen Dienst",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz, Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Brandmeisterin-wmd-im-mittleren-feuerwehrtechnischen-Diens-de-j436.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -2699,36 +2789,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-c7c01a26eac635",
-      "title": "Notfallsanitäter:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Notfallsanitaeterinnen-wmd-de-j7048.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6a550e48a4c25a",
-      "title": "Oberbrandmeister:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Oberbrandmeisterin-wmd-de-j8832.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-b73be7b877acb9",
       "title": "Pflasterbauer:innen / Straßenbauer:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2846,21 +2906,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Volontaer-in-wmd-de-j11262.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-e1b6d19314b84d",
-      "title": "Werkfeuerwehrfrau:Werkfeuerwehrmann (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/WerkfeuerwehrfrauWerkfeuerwehrmann-wmd-de-j435.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
