@@ -1,48 +1,18 @@
 {
-  "generated_at_utc": "2026-10-22 16:30:23 UTC",
-  "generated_at_local": "2026-10-22 18:30:22 Europe/Berlin",
+  "generated_at_utc": "2026-10-23 07:30:14 UTC",
+  "generated_at_local": "2026-10-23 09:30:12 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 204,
+  "count": 208,
   "source_counts": {
-    "stadt-kassel-jobs": 14,
+    "stadt-kassel-jobs": 15,
     "hessen-mobil-jobs": 9,
     "stadt-frankfurt-jobs": 99,
-    "stadt-wiesbaden-jobs": 19,
-    "stadt-darmstadt-jobs": 26,
+    "stadt-wiesbaden-jobs": 20,
+    "stadt-darmstadt-jobs": 25,
     "stadt-offenbach-jobs": 29,
-    "stadt-giessen-jobs": 8
+    "stadt-giessen-jobs": 11
   },
   "items": [
-    {
-      "item_id": "stadt-darmstadt-jobs-7b8a2be1076c3b",
-      "title": "Hilfspolizeibeamter/-beamtin (w/m/d) beim Bürger- und Ordnungsamt, Stadtpolizei, Dienstgruppe Überwachung ruhender Verkehr",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Bürger- und Ordnungsamt, Stadtpolizei, Dienstgruppe Überwachung ruhender Verkehr",
-      "deadline": "22.10.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Hilfspolizeibeamter-beamtin-wmd-beim-Buerger-und-Ordnungsa-de-j3043.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-808dbc689f123f",
-      "title": "Hilfspolizeibeamter/in (w/m/d) im Bereich Ordnung und Sicherheit Bürger- und Ordnungsamt, Stadtpolizei",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "22.10.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Hilfspolizeibeamterin-wmd-im-Bereich-Ordnung-und-Sicherhei-de-j3046.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
     {
       "item_id": "hessen-mobil-jobs-76ae21895e99a6",
       "title": "Auszubildende (w/m/d) zur Geomatikerin / zum Geomatiker",
@@ -1754,10 +1724,10 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-db0d6aacf0a5f8",
-      "title": "Ingenieurin / Ingenieur (w/m/d) als Straßenmeistereileitung (Rheingau-Taunus-Kreis)",
+      "item_id": "hessen-mobil-jobs-153a13cfacf6e2",
+      "title": "Sachbearbeiterin / Sachbearbeiter (w/m/d) für das Baustellenmanagement",
       "employer": "Hessen Mobil",
-      "location": "Darmstadt, Kassel oder Wetzlar",
+      "location": "Gelnhausen oder Schotten Bewerbungsfrist: 15. November 2026 Kennziffer: BV 26/30 BV 26/30_Sachbearbeiterin / Sachbearbeiter (w/m/d) für das Baustellenmanagement (PDF/367.32 KB) Öffnet sich in einem neuen Fenster Ingenieurin / Ingenieur (w/m/d) als Straßenmeistereileitung (Straßenmeisterei Groß-Gerau) Standort: Groß-Gerau Fristende: 20. November 2026 Kennziffer: PBH 26_10 Stellenausschreibung_PBH 26_10_Ing. SML Groß-Gerau (PDF/421.31 KB) Öffnet sich in einem neuen Fenster Ingenieurin / Ingenieur (w/m/d) als Straßenmeistereileitung (Rheingau-Taunus-Kreis) Standort: Straßenmeisterei Geisenheim und Kemel Bewerbungsfrist: 11. November 2026 Kennziffer: BV 26/37 Stellenausschreibung_ BV 26_37_Ing. SML Geisenheim Kemel.pdf (PDF/422.48 KB) Öffnet sich in einem neuen Fenster Ingenieurin / Ingenieur (w/m/d) mit Schwerpunkt Geotechnik Standort: Darmstadt, Kassel oder Wetzlar",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
@@ -2054,6 +2024,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-a644d492985da2",
+      "title": "Jurist/in (w/m/d) beim Rechtsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Rechtsamt",
+      "deadline": "10.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Juristin-wmd-beim-Rechtsamt-de-j3093.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-8e0b1c617d0c22",
       "title": "Sachbearbeiter/in (w/m/d) Parkraummanagement beim Mobilitäts- und Tiefbauamt, Abteilung Mobilität",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -2084,6 +2069,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-giessen-jobs-dd073754c301dc",
+      "title": "Sachgebietsleitung für die Abteilung Verwaltung, Sachgebiet Unterhaltsvorschuss für das Jugendamt",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Befristet",
+      "pay_grade": "9c",
+      "department": "Jugendamt",
+      "deadline": "11. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/3e568a69cb4192dad2bc7c7d9049b533e2ef13840?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-ef23a723b2ff26",
       "title": "Sachbearbeiter/-in für Veranstaltungsbetreuung und Gebäudeunterhaltung (w/m/d)",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -2112,6 +2112,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Wissenschaftliche-n-Volontaer-in-wmd-de-j11362.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-f013dbbd2deb8e",
+      "title": "Sportplatzwarte/-innen (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "13.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sportplatzwarte-innen-wmd-de-j7488.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-7a119f418f41cd",
@@ -2157,6 +2172,51 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11448.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-0e48e56337282a",
+      "title": "Leiter*in der Abteilung »Eingliederungshilfe gem. SGB IX«",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Befristet",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/b50cbf5e08db230d58792efc4829fe621b129af80?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-1358f64273fb6b",
+      "title": "Reinigungskräfte für den Bereich Schule",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "Entgeltgruppe 3 TVöD",
+      "department": "Schulverwaltungsamt",
+      "deadline": "15. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/5e83b24bbde91a2c3d4c0f9dc33ca50b5acb8d6e0?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-kassel-jobs-2d150196b05064",
+      "title": "Sachbearbeiter/in für die Bereiche IT und Wahlen (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Bürgeramt",
+      "deadline": "15. November 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Sachbearbeiterin-Sachbearbeiter-fuer-die-Bereiche-IT-und-Wahlen-w-m-d-33-.php",
+      "source_id": "stadt-kassel-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-1bebb9959b6c5b",
@@ -2789,6 +2849,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-455cdb09012475",
+      "title": "Leiter :in des Hauptamtes (Ltd. Magistratsdirektor:in) (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Dezernat I - Dezernat I – Hauptverwaltung, Sport und Stadtmarketing",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Leiter-in-des-Hauptamtes-Ltd-Magistratsdirektorin-wmd-de-j11496.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-b73be7b877acb9",
       "title": "Pflasterbauer:innen / Straßenbauer:innen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2846,21 +2921,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterinnen-wmd-Kinder-und-Jugendhilfe-Sozialdiens-de-j5607.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-83dd27564eabd7",
-      "title": "Studierende der Sozialen Arbeit oder Sozialpädagogik im studienintegrierten Zwischenpraktikum (von 120 bis 400-Stunden)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Praktikant:in (Studium)",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Studierende-der-Sozialen-Arbeit-oder-Sozialpaedagogik-im-s-de-j9373.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
