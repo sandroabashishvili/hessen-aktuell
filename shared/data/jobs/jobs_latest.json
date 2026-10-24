@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-23 16:30:09 UTC",
-  "generated_at_local": "2026-10-23 18:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-10-24 07:30:11 UTC",
+  "generated_at_local": "2026-10-24 09:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 217,
+  "count": 216,
   "source_counts": {
     "stadt-kassel-jobs": 15,
-    "hessen-mobil-jobs": 9,
+    "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 20,
     "stadt-darmstadt-jobs": 32,
@@ -13,21 +13,6 @@
     "stadt-giessen-jobs": 11
   },
   "items": [
-    {
-      "item_id": "hessen-mobil-jobs-76ae21895e99a6",
-      "title": "Auszubildende (w/m/d) zur Geomatikerin / zum Geomatiker",
-      "employer": "Hessen Mobil",
-      "location": "Kassel / Homburg (Efze)",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "23. Oktober 2026",
-      "reference": "GEO-2027",
-      "source_name": "Hessen Mobil",
-      "source_url": "https://mobil.hessen.de/sites/mobil.hessen.de/files/2026-09/ausbildung_2027-geomatikerin_homberg_efze_kassel.pdf",
-      "source_id": "hessen-mobil-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-ffc83571cfc94b",
       "title": "Abteilungsleiter:in (w/m/d) Abwasserbehandlung Betrieb",
