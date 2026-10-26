@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-26 08:30:10 UTC",
-  "generated_at_local": "2026-10-26 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-10-26 16:30:10 UTC",
+  "generated_at_local": "2026-10-26 17:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 204,
+  "count": 203,
   "source_counts": {
     "stadt-kassel-jobs": 14,
     "hessen-mobil-jobs": 8,
@@ -10,7 +10,7 @@
     "stadt-wiesbaden-jobs": 16,
     "stadt-darmstadt-jobs": 33,
     "stadt-offenbach-jobs": 27,
-    "stadt-giessen-jobs": 7
+    "stadt-giessen-jobs": 6
   },
   "items": [
     {
@@ -131,6 +131,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Assistentin-wmd-der-Sozialrathausleitung-Inspektorin-de-j11334.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-1691e1ddaadf88",
+      "title": "Sachgebietsleiter:in (w/m/d) des Bürgerinnen- und Bürgerbüros (Amtsrätin:Amtsrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Büro des Oberbürgermeisters",
+      "deadline": "27.10.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-des-Buergerinnen-und-Buergerbueros-de-j11372.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1799,21 +1814,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-darmstadt-jobs-77d1755fd57d17",
-      "title": "Sachbearbeitung (w/m/d) Bauleitplanverfahren beim Stadtplanungsamt",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtplanungsamt",
-      "deadline": "10.11.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Bauleitplanverfahren-beim-Stadtplanung-de-j3096.html",
-      "source_id": "stadt-darmstadt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-f9a159e678dce0",
       "title": "Tierpfleger :in Ukumariland (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1934,6 +1934,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-d94ce027f23435",
+      "title": "Sachbearbeiter :in (w/m/d) technisches Gebäudemanagement (Oberinspektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-wmd-technisches-Gebaeudemanagement-Oberi-de-j11480.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-f5e9e8b5f40265",
       "title": "Sozialarbeiter:in oder Sozialpädagogin:Sozialpädagoge (w/m/d) im Anerkennungsjahr im Sozialrathaus Nord",
       "employer": "Stadt Frankfurt am Main",
@@ -1947,21 +1962,6 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiterin-oder-SozialpaedagoginSozialpaedagoge-wmd--de-j11448.html",
       "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-giessen-jobs-0e48e56337282a",
-      "title": "Leiter*in der Abteilung »Eingliederungshilfe gem. SGB IX«",
-      "employer": "Universitätsstadt Gießen",
-      "location": "Gießen",
-      "employment_type": "Vollzeit",
-      "contract_type": "Befristet",
-      "pay_grade": "",
-      "department": "Jugendamt",
-      "deadline": "15.11.2026",
-      "reference": "",
-      "source_name": "Stadt Gießen",
-      "source_url": "https://karriere.giessen.de/jobposting/b50cbf5e08db230d58792efc4829fe621b129af80?ref=Homepage",
-      "source_id": "stadt-giessen-jobs"
     },
     {
       "item_id": "stadt-giessen-jobs-1358f64273fb6b",
@@ -2264,19 +2264,19 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-a90d294d74334d",
-      "title": "Gärtner: in für anspruchsvolle gärtnerische Arbeiten (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
+      "item_id": "stadt-darmstadt-jobs-77d1755fd57d17",
+      "title": "Sachbearbeitung (w/m/d) Bauleitplanverfahren beim Stadtplanungsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
-      "department": "Grünflächenamt",
+      "department": "Stadtplanungsamt",
       "deadline": "22.11.2026",
       "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Gaertner-in-fuer-anspruchsvolle-gaertnerische-Arbeiten-wmd-de-j11431.html",
-      "source_id": "stadt-frankfurt-jobs"
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Bauleitplanverfahren-beim-Stadtplanung-de-j3096.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-1509955e05432a",
@@ -2801,21 +2801,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Pflasterbauerinnen-Strassenbauerinnen-wmd-de-j10701.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-1691e1ddaadf88",
-      "title": "Sachgebietsleiter:in (w/m/d) des Bürgerinnen- und Bürgerbüros (Amtsrätin:Amtsrat)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Büro des Oberbürgermeisters",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachgebietsleiterin-wmd-des-Buergerinnen-und-Buergerbueros-de-j11372.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
