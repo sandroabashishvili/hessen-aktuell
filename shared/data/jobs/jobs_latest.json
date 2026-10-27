@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-10-27 08:30:12 UTC",
-  "generated_at_local": "2026-10-27 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-10-27 16:30:25 UTC",
+  "generated_at_local": "2026-10-27 17:30:23 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 202,
   "source_counts": {
     "stadt-kassel-jobs": 14,
     "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 99,
-    "stadt-wiesbaden-jobs": 16,
+    "stadt-wiesbaden-jobs": 15,
     "stadt-darmstadt-jobs": 32,
-    "stadt-offenbach-jobs": 27,
+    "stadt-offenbach-jobs": 28,
     "stadt-giessen-jobs": 6
   },
   "items": [
@@ -161,36 +161,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Business-Analystinnen-Schwerpunkt-KI-wmd-de-j11219.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-13e26b39fb8511",
-      "title": "KI-Architekt:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Informations- und Kommunikationstechnik",
-      "deadline": "28.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/KI-Architektin-wmd-de-j11217.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-8b52582573bc3a",
-      "title": "KI-Compliance-Manager:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Informations- und Kommunikationstechnik",
-      "deadline": "28.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/KI-Compliance-Managerin-wmd-de-j11216.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -701,21 +671,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-Kanalinformationssystem-KIS-wmd-de-j11369.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-77eaa410b5e6eb",
-      "title": "Ingenieur :in Regenwasserbewirtschaftung und Überflutungsschutz (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Stadtentwässerung Frankfurt am Main",
-      "deadline": "01.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-Regenwasserbewirtschaftung-und-ueberflutungss-de-j11451.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1244,6 +1199,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-34d32a8673cdfa",
+      "title": "Sozialarbeiter :in (w/m/d) Soziale Hilfen (Schwerpunkt Eingliederungshilfe) Sozialrathaus Ost, Dienstort Bergen-Enkheim",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "02.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-wmd-Soziale-Hilfen-Schwerpunkt-Eingliede-de-j11421.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-f2518d8d334d9a",
       "title": "Technische :n Angestellte :n Projektbetreuung (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1481,6 +1451,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/IT-Administratorin-wmd-de-j11427.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-77eaa410b5e6eb",
+      "title": "Ingenieur :in Regenwasserbewirtschaftung und Überflutungsschutz (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "08.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-Regenwasserbewirtschaftung-und-ueberflutungss-de-j11451.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1812,6 +1797,36 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Fahrerin-wmd-bei-der-Stadtbibliothek-de-j3102.html",
       "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-13e26b39fb8511",
+      "title": "KI-Architekt:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Informations- und Kommunikationstechnik",
+      "deadline": "11.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/KI-Architektin-wmd-de-j11217.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-8b52582573bc3a",
+      "title": "KI-Compliance-Manager:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Informations- und Kommunikationstechnik",
+      "deadline": "11.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/KI-Compliance-Managerin-wmd-de-j11216.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-ef23a723b2ff26",
@@ -2309,6 +2324,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-de65fb4adfb109",
+      "title": "Sozialarbeiter*in / Sozialpädagog*in schulergänzendes Integrations-/Orientierungsprojekt (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD S11b",
+      "department": "Jugendamt",
+      "deadline": "22.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2180&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-c0d48c884f0c3c",
       "title": "Spezialist*in Digitalisierung (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -2789,21 +2819,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-34d32a8673cdfa",
-      "title": "Sozialarbeiter :in (w/m/d) Soziale Hilfen (Schwerpunkt Eingliederungshilfe) Sozialrathaus Ost, Dienstort Bergen-Enkheim",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-wmd-Soziale-Hilfen-Schwerpunkt-Eingliede-de-j11421.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-c489369f07ded1",
       "title": "Sozialarbeiter:innen (w/m/d) Kinder- und Jugendhilfe Sozialdienst",
       "employer": "Stadt Frankfurt am Main",
@@ -2996,21 +3011,6 @@
       "reference": "",
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Leistungssachbearbeiter-innen-fuer-die-Leistungsgewaehrung-de-j209.html",
-      "source_id": "stadt-wiesbaden-jobs"
-    },
-    {
-      "item_id": "stadt-wiesbaden-jobs-863ee343d70b5f",
-      "title": "Mitarbeitende während der berufsbegleitenden Ausbildung zur/zum Erzieherin/Erzieher in unseren Kindertagesstätten (w/m/d) in Teilzeit",
-      "employer": "Landeshauptstadt Wiesbaden",
-      "location": "Wiesbaden",
-      "employment_type": "ohne Ausbildung",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Wiesbaden",
-      "source_url": "https://karriere.wiesbaden.de/Mitarbeitende-waehrend-der-berufsbegleitenden-Ausbildung-z-de-j6011.html",
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
