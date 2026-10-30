@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-30 08:30:11 UTC",
-  "generated_at_local": "2026-10-30 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-10-30 16:30:12 UTC",
+  "generated_at_local": "2026-10-30 17:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 207,
+  "count": 209,
   "source_counts": {
-    "stadt-kassel-jobs": 14,
+    "stadt-kassel-jobs": 15,
     "hessen-mobil-jobs": 8,
     "stadt-frankfurt-jobs": 99,
     "stadt-wiesbaden-jobs": 16,
-    "stadt-darmstadt-jobs": 35,
+    "stadt-darmstadt-jobs": 36,
     "stadt-offenbach-jobs": 28,
     "stadt-giessen-jobs": 7
   },
@@ -327,21 +327,6 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Forstwirtinnen-Forstwirte-wmd-fuer-den-Wiesbadener-Stadtwa-de-j6842.html",
       "source_id": "stadt-wiesbaden-jobs"
-    },
-    {
-      "item_id": "stadt-darmstadt-jobs-363df64695fec6",
-      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
-      "employer": "Wissenschaftsstadt Darmstadt",
-      "location": "Darmstadt",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Grünflächenamt, Abteilung Friedhöfe",
-      "deadline": "01.11.2026",
-      "reference": "",
-      "source_name": "Stadt Darmstadt",
-      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3066.html",
-      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-darmstadt-jobs-eb83d721a5e4ca",
@@ -1949,6 +1934,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-c08e43a20f370d",
+      "title": "Gärtner/in (w/m/d) Rosen-/Mathildenhöhe beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "16.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Gaertnerin-wmd-Rosen-Mathildenhoehe-beim-Gruenflaechenamt-de-j3112.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-667674cc3acbf8",
       "title": "Ingenieur/in (w/m/d) für Versorgungstechnik (HKLS) beim Eigenbetrieb Immobilienmanagement (IDA), Fachbereich Gebäudebetrieb, Technisches Objektmanagement",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -2007,6 +2007,21 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-allgemeine-Verwaltung-Buerger-und-Ordn-de-j3110.html",
       "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-bcd1d89a0d583d",
+      "title": "Prüfer:in in der Innenprüfung (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Revisionsamt",
+      "deadline": "16.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Prueferin-in-der-Innenpruefung-wmd-de-j11449.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-fec392ab246145",
@@ -2264,6 +2279,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-kassel-jobs-09326be3daad35",
+      "title": "Ingenieurin/Ingenieur für die technische Prüfung (w/m/d)",
+      "employer": "Stadt Kassel",
+      "location": "Kassel",
+      "employment_type": "Vollzeit/Teilzeit",
+      "contract_type": "unbefristet",
+      "pay_grade": "",
+      "department": "Revisionsamt",
+      "deadline": "22. November 2026",
+      "reference": "",
+      "source_name": "Stadt Kassel",
+      "source_url": "https://www.kassel.de/buerger/rathaus_und_politik/arbeit-und-ausbildung-bei-der-stadt/stellenangebote/stellenangebote/Ingenieurin-Ingenieur-fuer-die-technische-Pruefung-w-m-d-14-.php",
+      "source_id": "stadt-kassel-jobs"
+    },
+    {
       "item_id": "stadt-kassel-jobs-f3feb33cc1920e",
       "title": "Ärztin/Arzt bzw. Fachärztin/Facharzt (w/m/d)",
       "employer": "Stadt Kassel",
@@ -2501,6 +2531,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Berufspraktikum-als-Sozialarbeiterin-Sozialpaedagogein-im--de-j3098.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-363df64695fec6",
+      "title": "Fach-/Vorarbeiter/in (w/m/d) Alter Friedhof beim Grünflächenamt, Abteilung Friedhöfe",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt, Abteilung Friedhöfe",
+      "deadline": "01.12.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Fach-Vorarbeiterin-wmd-Alter-Friedhof-beim-Gruenflaechenam-de-j3066.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
@@ -2861,21 +2906,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Mitarbeiter-in-Praeventionsrat-wmd-de-j11318.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-c7c01a26eac635",
-      "title": "Notfallsanitäter:innen (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Notfallsanitaeterinnen-wmd-de-j7048.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
