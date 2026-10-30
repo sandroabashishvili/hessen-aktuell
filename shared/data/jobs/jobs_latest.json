@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-29 17:30:10 UTC",
-  "generated_at_local": "2026-10-29 18:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-10-30 08:30:11 UTC",
+  "generated_at_local": "2026-10-30 09:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 206,
+  "count": 207,
   "source_counts": {
     "stadt-kassel-jobs": 14,
     "hessen-mobil-jobs": 8,
@@ -10,24 +10,9 @@
     "stadt-wiesbaden-jobs": 16,
     "stadt-darmstadt-jobs": 35,
     "stadt-offenbach-jobs": 28,
-    "stadt-giessen-jobs": 6
+    "stadt-giessen-jobs": 7
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-fc6458dd2bfcb4",
-      "title": "Restaurator:in (w/m/d) (Papier)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Institut für Stadtgeschichte",
-      "deadline": "29.10.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Restauratorin-wmd-Papier-de-j11315.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-darmstadt-jobs-189c19832e5a78",
       "title": "Bezirksverwalter/in (w/m/d) bei der Bezirksverwaltung Arheilgen",
@@ -1724,6 +1709,21 @@
       "source_id": "stadt-wiesbaden-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-3756ee22c996ac",
+      "title": "Ingenieur :in Bau- oder Umweltingenieurwesen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "15.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-Bau-oder-Umweltingenieurwesen-wmd-de-j11266.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-7a119f418f41cd",
       "title": "Landschaftsarchitekt: in Projektleitung Sportfreianlagen (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2009,21 +2009,6 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-5ece7f1fd5f671",
-      "title": "Ausbildung Kraftfahrzeugmechatroniker :in (w/m/d) Fachrichtung Nutzfahrzeugtechnik",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Ausbildungsplatz",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "16.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ausbildung-Kraftfahrzeugmechatroniker-in-wmd-Fachrichtung--de-j10974.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-fec392ab246145",
       "title": "Sachbearbeiter: in Vergabe/Logistik (Amtfrau:Amtmann) (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2114,6 +2099,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-72028b1d63344a",
+      "title": "Sachbearbeiter :in (w/m/d) Soziale Hilfen für Heimbewohner:innen",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "18.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-wmd-Soziale-Hilfen-fuer-Heimbewohnerinne-de-j11483.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-e249e3d6ad6a83",
       "title": "Fachkraft (w/m/d) für Lagerlogistik",
       "employer": "Stadt Frankfurt am Main",
@@ -2192,7 +2192,7 @@
       "item_id": "hessen-mobil-jobs-fe8ca033a056c3",
       "title": "Ingenieurin / Ingenieur (w/m/d) Fachrichtung Bauingenieurwesen Siedlungs- / Wasserwirtschaft",
       "employer": "Hessen Mobil",
-      "location": "Gelnhausen Bewerbungsfrist: 26. November 2026 Kennziffer: PB 26/75 Stellenausschreibung PB 1.2.02_PB_26_75 (PDF/531.95 KB) Öffnet sich in einem neuen Fenster Ingenieurin / Ingenieur (w/m/d) im Projektmanagement für Infrastrukturprojekte Standort: Wiesbaden",
+      "location": "Gelnhausen Bewerbungsfrist: 26. November 2026 Kennziffer: PB 26/75 Stellenausschreibung PB 1.2.02_PB_26_75 (PDF/531.95 KB) Öffnet sich in einem neuen Fenster Ingenieurin / Ingenieur (w/m/d) Fachrichtung Landschaftsplanung, Landespflege, Umweltmanagement ... Umwelttechnik, Umweltverwaltung oder vergleichbar Standort: Bad Arolsen Bewerbungsfrist: 23. November 2026 Kennziffer: PBH 26_79 Stellenausschreibung_Landespflege_PBH 26_79 (PDF/485.44 KB) Öffnet sich in einem neuen Fenster Ingenieurin / Ingenieur (w/m/d) im Projektmanagement für Infrastrukturprojekte Standort: Wiesbaden",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
@@ -2217,6 +2217,36 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-wmd-Bauleitplanverfahren-beim-Stadtplanung-de-j3096.html",
       "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-f868de9354a946",
+      "title": "Abteilungsleiter :in (w/m/d) Erschließung, Flächenmanagement, Klimaanpassung und konzeptionelle Planung (Magistratsdirektor:in)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "22.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiter-in-wmd-Erschliessung-Flaechenmanagement-K-de-j11478.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-7fbadd9364deac",
+      "title": "Mitarbeiter*in für die Küche der Grundschule Gießen-West zur Abwesenheitsvertretung",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Teilzeit",
+      "contract_type": "befristet",
+      "pay_grade": "Entgeltgruppe 3 TVöD",
+      "department": "Schulverwaltungsamt",
+      "deadline": "22. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/0cc5ebc9b2be0b77b60b684087a908c1821abeee0?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
     },
     {
       "item_id": "stadt-kassel-jobs-1509955e05432a",
@@ -2846,21 +2876,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Notfallsanitaeterinnen-wmd-de-j7048.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-6a550e48a4c25a",
-      "title": "Oberbrandmeister:in (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Oberbrandmeisterin-wmd-de-j8832.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
