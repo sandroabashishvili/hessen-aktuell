@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-02 08:30:09 UTC",
-  "generated_at_local": "2026-11-02 09:30:08 Europe/Berlin",
+  "generated_at_utc": "2026-11-02 16:30:10 UTC",
+  "generated_at_local": "2026-11-02 17:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 165,
   "source_counts": {
@@ -27,21 +27,6 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Technische-Projektleitung-wmd-fuer-Heizung-Lueftung-und-Sa-de-j3084.html",
       "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-75f2c3212a7f82",
-      "title": "Projektmanager :in (w/m/d) für baubegleitendes Facility Management & ÖPP im Schulbau",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "02.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Projektmanager-in-wmd-fuer-baubegleitendes-Facility-Manage-de-j11097.html",
-      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-477a53e8410e27",
@@ -296,6 +281,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/ExpertinExperte-Sprachbildung-wmd-de-j11375.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-e249e3d6ad6a83",
+      "title": "Fachkraft (w/m/d) für Lagerlogistik",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Feuerwehr (Branddirektion)",
+      "deadline": "06.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Fachkraft-wmd-fuer-Lagerlogistik-de-j11353.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1124,6 +1124,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-75f2c3212a7f82",
+      "title": "Projektmanager :in (w/m/d) für baubegleitendes Facility Management & ÖPP im Schulbau",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "16.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Projektmanager-in-wmd-fuer-baubegleitendes-Facility-Manage-de-j11097.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-bcd1d89a0d583d",
       "title": "Prüfer:in in der Innenprüfung (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1241,21 +1256,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-wmd-Soziale-Hilfen-fuer-Heimbewohnerinne-de-j11483.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-e249e3d6ad6a83",
-      "title": "Fachkraft (w/m/d) für Lagerlogistik",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Feuerwehr (Branddirektion)",
-      "deadline": "20.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Fachkraft-wmd-fuer-Lagerlogistik-de-j11353.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
