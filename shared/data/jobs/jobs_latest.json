@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-11-03 08:30:18 UTC",
-  "generated_at_local": "2026-11-03 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-11-03 16:30:14 UTC",
+  "generated_at_local": "2026-11-03 17:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 161,
+  "count": 163,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 2,
-    "stadt-frankfurt-jobs": 86,
+    "stadt-frankfurt-jobs": 88,
     "stadt-wiesbaden-jobs": 11,
     "stadt-darmstadt-jobs": 33,
     "stadt-offenbach-jobs": 16,
@@ -446,21 +446,6 @@
       "reference": "",
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2165&site=stellenbeschreibung",
-      "source_id": "stadt-offenbach-jobs"
-    },
-    {
-      "item_id": "stadt-offenbach-jobs-a7f0bf528233e1",
-      "title": "Pädagogische Fachkraft Kita im Mathildenviertel (m/w/d)",
-      "employer": "Stadt Offenbach am Main",
-      "location": "Offenbach",
-      "employment_type": "",
-      "contract_type": "",
-      "pay_grade": "TVöD S8b",
-      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
-      "deadline": "08.11.2026",
-      "reference": "",
-      "source_name": "Stadt Offenbach",
-      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2166&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
     },
     {
@@ -1394,6 +1379,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-a7f0bf528233e1",
+      "title": "Pädagogische Fachkraft Kita im Mathildenviertel (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD S8b",
+      "department": "EKO (Eigenbetrieb Kindertagesstätten Offenbach)",
+      "deadline": "22.11.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2166&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-de65fb4adfb109",
       "title": "Sozialarbeiter*in / Sozialpädagog*in schulergänzendes Integrations-/Orientierungsprojekt (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1511,6 +1511,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Leiter-in-der-Abteilung-Foerderung-und-zentrale-Dienste-Ma-de-j11438.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-a5cb9cf23dd754",
+      "title": "Prozessmanager:in KommunalRegie (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "25.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Prozessmanagerin-KommunalRegie-wmd-de-j11460.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1751,6 +1766,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-B-Eng-Bauingenieurwesen-wmd-2027-de-j11463.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-ac6442217d758a",
+      "title": "Duales Studium Bachelor of Arts - Soziale Arbeit (BASA-dual) (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Studienplatz",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "31.12.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-Bachelor-of-Arts-Soziale-Arbeit-BASA-dual-w-de-j11532.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
