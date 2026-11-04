@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-11-04 08:30:22 UTC",
-  "generated_at_local": "2026-11-04 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-11-04 16:30:09 UTC",
+  "generated_at_local": "2026-11-04 17:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 159,
+  "count": 165,
   "source_counts": {
     "stadt-kassel-jobs": 9,
     "hessen-mobil-jobs": 2,
-    "stadt-frankfurt-jobs": 87,
+    "stadt-frankfurt-jobs": 90,
     "stadt-wiesbaden-jobs": 11,
-    "stadt-darmstadt-jobs": 31,
-    "stadt-offenbach-jobs": 16,
+    "stadt-darmstadt-jobs": 32,
+    "stadt-offenbach-jobs": 18,
     "stadt-giessen-jobs": 3
   },
   "items": [
@@ -1049,6 +1049,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-8f913b777ac026",
+      "title": "Leitung (w/m/d) der Kita „Ludwigshöhviertel“ beim Jugendamt, Kinderbetreuung",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugendamt, Kinderbetreuung",
+      "deadline": "18.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Leitung-wmd-der-Kita-Ludwigshoehviertel-beim-Jugendamt-Kin-de-j3113.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-bb1e0eefcc8291",
       "title": "Betriebswirt :in (w/m/d) Investive Maßnahmen",
       "employer": "Stadt Frankfurt am Main",
@@ -1211,6 +1226,36 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Leiter-in-des-Sachgebiets-Verkehrstechnische-Systeme-wmd-de-j11418.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-913f3c7c769194",
+      "title": "Sachbearbeiter :in Immobilienmarktdaten (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtvermessungsamt",
+      "deadline": "22.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-Immobilienmarktdaten-wmd-de-j11498.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-89f669c33bbc13",
+      "title": "Sozialarbeiter :in / Sozialpädagogin:Sozialpädagoge (w/m/d) Tagesgruppe Hermann-Luppe-Haus",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
+      "deadline": "22.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-SozialpaedagoginSozialpaedagoge-wmd-Tage-de-j11466.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1454,6 +1499,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-a90d294d74334d",
+      "title": "Gärtner: in für anspruchsvolle gärtnerische Arbeiten (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "29.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Gaertner-in-fuer-anspruchsvolle-gaertnerische-Arbeiten-wmd-de-j11431.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-wiesbaden-jobs-16af53218350f6",
       "title": "Mitarbeiter/-in für die Stabsstelle Öffentlichkeitsarbeit und Regionalkultur (w/m/d) in Teilzeit",
       "employer": "Landeshauptstadt Wiesbaden",
@@ -1679,6 +1739,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-5c5fbc4bd80957",
+      "title": "Sachbearbeiter*in Haushalt / zentrale Verwaltung (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 8, A 8 HBesO",
+      "department": "Ordnungsamt",
+      "deadline": "06.12.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2181&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-90ccbad952e14e",
       "title": "Leiter:in Kontrolldienst (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1707,6 +1782,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-B-Eng-Bauingenieurwesen-wmd-2027-de-j11463.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-fdf950fab2adc1",
+      "title": "Ausbildung Notfallsanitäter*innen (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVAöD Pflege",
+      "department": "Ausbildung",
+      "deadline": "13.12.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2182&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-ac6442217d758a",
