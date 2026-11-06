@@ -1,63 +1,18 @@
 {
-  "generated_at_utc": "2026-11-05 17:30:25 UTC",
-  "generated_at_local": "2026-11-05 18:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-11-06 08:30:15 UTC",
+  "generated_at_local": "2026-11-06 09:30:10 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 157,
+  "count": 169,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 2,
-    "stadt-frankfurt-jobs": 90,
-    "stadt-wiesbaden-jobs": 0,
+    "stadt-frankfurt-jobs": 86,
+    "stadt-wiesbaden-jobs": 12,
     "stadt-darmstadt-jobs": 32,
     "stadt-offenbach-jobs": 20,
-    "stadt-giessen-jobs": 3
+    "stadt-giessen-jobs": 7
   },
   "items": [
-    {
-      "item_id": "stadt-frankfurt-jobs-33ca361855fd46",
-      "title": "Persönliche Ansprechpartner:innen Jobcenter Frankfurt am Main (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jobcenter Frankfurt am Main",
-      "deadline": "05.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Persoenliche-Ansprechpartnerinnen-Jobcenter-Frankfurt-am-M-de-j11458.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-0a7f0077dc1bda",
-      "title": "Sachbearbeiter:innen Eingangsbereich Jobcenter (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jobcenter Frankfurt am Main",
-      "deadline": "05.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiterinnen-Eingangsbereich-Jobcenter-wmd-de-j11238.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-67b219dfd2d0e5",
-      "title": "stellv. Leiter :in Kinder- und Jugendhilfe Sozialdienst (Amtfrau :Amtmann) (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
-      "deadline": "05.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/stellv-Leiter-in-Kinder-und-Jugendhilfe-Sozialdienst-Amtfr-de-j11397.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
     {
       "item_id": "stadt-frankfurt-jobs-4b421603f87a50",
       "title": "Expertin:Experte Sprachbildung (w/m/d)",
@@ -314,6 +269,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-d0477f72d67f44",
+      "title": "Sozialpädagogische/n Familienhelfer/-in (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "08.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sozialpaedagogischen-Familienhelfer-in-wmd-de-j7393.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-a807af98659427",
       "title": "Sachbearbeitung (w/m/d) Gefahrgut beim Bürger- und Ordnungsamt, Stadtpolizei",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -494,6 +464,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-ef23a723b2ff26",
+      "title": "Sachbearbeiter/-in für Veranstaltungsbetreuung und Gebäudeunterhaltung (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "11.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sachbearbeiter-in-fuer-Veranstaltungsbetreuung-und-Gebaeud-de-j7451.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-1a7a9d089169fc",
       "title": "Berater:in existenzsichernde Leistungen (Oberinspektor:in) (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -537,6 +522,21 @@
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Leiter-in-des-Hauptamtes-Ltd-Magistratsdirektorin-wmd-de-j11496.html",
       "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-f013dbbd2deb8e",
+      "title": "Sportplatzwarte/-innen (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "13.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sportplatzwarte-innen-wmd-de-j7488.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-3756ee22c996ac",
@@ -1199,6 +1199,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-giessen-jobs-088fe7ccdff386",
+      "title": "Assistenz des Museumsteams und Büromanagement",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Befristet",
+      "pay_grade": "Entgeltgruppe 7 TVöD",
+      "department": "Kulturamt",
+      "deadline": "22. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/104b306ee0a7d1e419816af42f08c614613f5be50?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
       "item_id": "stadt-giessen-jobs-7fbadd9364deac",
       "title": "Mitarbeiter*in für die Küche der Grundschule Gießen-West zur Abwesenheitsvertretung",
       "employer": "Universitätsstadt Gießen",
@@ -1379,6 +1394,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-a412bd8a3142be",
+      "title": "Sachbearbeiterinnen / Sachbearbeiter für den Bereich Wirtschaftliche Jugendhilfe und Eingliederungshilfe (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "24.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sachbearbeiterinnen-Sachbearbeiter-fuer-den-Bereich-Wirtsc-de-j7015.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-06104471310e9a",
       "title": "Leiter: in der Abteilung Förderung und zentrale Dienste (Magistratsrätin:Magistratsrat) (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1439,6 +1469,21 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
+      "item_id": "stadt-wiesbaden-jobs-a879a9477fd53c",
+      "title": "Leistungssachbearbeiter/-innen für die Leistungsgewährung nach dem SGB XII (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "26.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Leistungssachbearbeiter-innen-fuer-die-Leistungsgewaehrung-de-j7517.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-a90d294d74334d",
       "title": "Gärtner: in für anspruchsvolle gärtnerische Arbeiten (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -1454,6 +1499,51 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-giessen-jobs-6d930b7b8ebc7f",
+      "title": "Mitarbeiter*in Abteilung Bilanzbuchhaltung",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Teilzeit",
+      "contract_type": "Unbefristet",
+      "pay_grade": "Entgeltgruppe 9b TVöD",
+      "department": "Kämmerei",
+      "deadline": "29. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/9c209e1e21e7d23a957209fd9e9a898f20d6d7f50?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-6737c59581ddf6",
+      "title": "Mitarbeiter*in Haushalt (Budgetierung)",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Unbefristet",
+      "pay_grade": "Entgeltgruppe 9c TVöD",
+      "department": "Kämmerei",
+      "deadline": "29. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/a7ae9c9c5e8b3bd56f5f7350d67d17d0b940a5340?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
+      "item_id": "stadt-giessen-jobs-ba3c2dc90aeb67",
+      "title": "Sachbearbeiter*in für die Abteilung Verwaltung; Sachgebiet Unterhaltsvorschuss",
+      "employer": "Universitätsstadt Gießen",
+      "location": "Gießen",
+      "employment_type": "Vollzeit",
+      "contract_type": "Unbefristet",
+      "pay_grade": "9b TVöD",
+      "department": "Jugendamt",
+      "deadline": "29. November 2026",
+      "reference": "",
+      "source_name": "Stadt Gießen",
+      "source_url": "https://karriere.giessen.de/jobposting/6d9b2e454e66a19794a78f34c51d1bb9d7bd5f1b0?ref=Homepage",
+      "source_id": "stadt-giessen-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-7cdf5744baa667",
       "title": "Stellvertretende Leitung Kita im Musikerviertel (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1467,6 +1557,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2184&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-16af53218350f6",
+      "title": "Mitarbeiter/-in für die Stabsstelle Öffentlichkeitsarbeit und Regionalkultur (w/m/d) in Teilzeit",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "29.11.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Mitarbeiter-in-fuer-die-Stabsstelle-oeffentlichkeitsarbeit-de-j7455.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-b429d5cd1065dc",
@@ -2069,21 +2174,6 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-a38f43f42d7597",
-      "title": "Ingenieur:innen (w/m/d) für Großprojekte der Verkehrsinfrastruktur",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Ingenieurinnen-wmd-fuer-Grossprojekte-der-Verkehrsinfrastr-de-j11327.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
       "item_id": "stadt-frankfurt-jobs-b9f3a5cc9693b1",
       "title": "Initiativbewerbung Ingenieur: in Bau oder Umwelt (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -2367,6 +2457,96 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2016&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-c8f1650eac1058",
+      "title": "Auszubildende für den Beruf der Erzieherin/des Erziehers in der praxisintegrierten Ausbildung PivA (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "ohne Ausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Auszubildende-fuer-den-Beruf-der-Erzieherindes-Erziehers-i-de-j5996.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-bacb88d0e35c0e",
+      "title": "Erzieherinnen / Erzieher (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Erzieherinnen-Erzieher-wmd-de-j5933.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-898c1ae3169b58",
+      "title": "Hauptsachbearbeiterin / Hauptsachbearbeiter in der Wohngeldbehörde (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung, abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Hauptsachbearbeiterin-Hauptsachbearbeiter-in-der-Wohngeldb-de-j6614.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-112ddd82ed3eb7",
+      "title": "Leistungssachbearbeiter/-innen für die Leistungsgewährung SGB II (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung, abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Leistungssachbearbeiter-innen-fuer-die-Leistungsgewaehrung-de-j209.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-c42c385e70a5b8",
+      "title": "Sozialassistentinnen und Sozialassistenten (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossene Berufsausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Sozialassistentinnen-und-Sozialassistenten-wmd-de-j6073.html",
+      "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-abdf630bb5b0d9",
+      "title": "Studentische Aushilfen für die Kinderbetreuung in unseren Kindertagesstätten (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "ohne Ausbildung",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Studentische-Aushilfen-fuer-die-Kinderbetreuung-in-unseren-de-j6080.html",
+      "source_id": "stadt-wiesbaden-jobs"
     }
   ]
 }
