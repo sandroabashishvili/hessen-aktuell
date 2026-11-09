@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-11-09 08:30:11 UTC",
-  "generated_at_local": "2026-11-09 09:30:09 Europe/Berlin",
+  "generated_at_utc": "2026-11-09 16:30:24 UTC",
+  "generated_at_local": "2026-11-09 17:30:23 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 158,
+  "count": 162,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 2,
-    "stadt-frankfurt-jobs": 78,
+    "stadt-frankfurt-jobs": 82,
     "stadt-wiesbaden-jobs": 13,
     "stadt-darmstadt-jobs": 35,
     "stadt-offenbach-jobs": 16,
@@ -1139,6 +1139,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-fcf3a2a065e319",
+      "title": "Kommunikationsdesigner:in (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Presse- und Informationsamt",
+      "deadline": "23.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Kommunikationsdesignerin-wmd-de-j11500.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-darmstadt-jobs-8e80609076a096",
       "title": "Koordinator/in (w/m/d) Umsetzung der Istanbul Konvention beim Frauenbüro",
       "employer": "Wissenschaftsstadt Darmstadt",
@@ -1166,6 +1181,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Leiterin-des-Sachgebietes-Zentrale-Dienste-wmd-de-j11475.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-ea30306c652fb4",
+      "title": "stellv. Teamleiter :in Kinder- und Jugendhilfe Sozialdienst Sozialrathaus Höchst (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "24.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/stellv-Teamleiter-in-Kinder-und-Jugendhilfe-Sozialdienst-S-de-j11513.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1604,6 +1634,21 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-7dd7d182088f52",
+      "title": "Abteilungsleiter: in (w/m/d) An- und Vermietung/Überlassung (Magistratsoberrätin:Magistratsoberrat)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "04.12.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiter-in-wmd-An-und-Vermietungueberlassung-Magi-de-j11481.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-ab161257f472ba",
       "title": "Forstwirt*in Stadtwald Offenbach (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1706,6 +1751,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-Bachelor-of-Arts-Soziale-Arbeit-BASA-dual-w-de-j11532.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-78d7cc018775b7",
+      "title": "Duales Studium Bachelor of Arts - Soziale Arbeit mit Kindern, Jugendlichen und Familien (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Studienplatz",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "31.12.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Duales-Studium-Bachelor-of-Arts-Soziale-Arbeit-mit-Kindern-de-j11531.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
