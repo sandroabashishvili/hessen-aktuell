@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-10 08:30:24 UTC",
-  "generated_at_local": "2026-11-10 09:30:07 Europe/Berlin",
+  "generated_at_utc": "2026-11-10 17:30:23 UTC",
+  "generated_at_local": "2026-11-10 18:30:07 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 147,
+  "count": 154,
   "source_counts": {
     "stadt-kassel-jobs": 8,
     "hessen-mobil-jobs": 2,
-    "stadt-frankfurt-jobs": 81,
+    "stadt-frankfurt-jobs": 84,
     "stadt-wiesbaden-jobs": 0,
-    "stadt-darmstadt-jobs": 34,
+    "stadt-darmstadt-jobs": 38,
     "stadt-offenbach-jobs": 16,
     "stadt-giessen-jobs": 6
   },
@@ -719,6 +719,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-f896c8e18c46b0",
+      "title": "Sachbearbeiter: in Personalentwicklung (Amtfrau:Amtmann) (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Personal- und Organisationsamt",
+      "deadline": "20.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-Personalentwicklung-AmtfrauAmtmann-wmd-de-j11535.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-2a5104f35fc3dc",
       "title": "Sozialarbeiter :in Jugendhilfe im Strafverfahren (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -731,6 +746,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-Jugendhilfe-im-Strafverfahren-wmd-de-j11506.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-3103953d386d6f",
+      "title": "Stellvertretende:r Revierleiter :in Vogelhallen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Zoologischer Garten Frankfurt",
+      "deadline": "20.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretender-Revierleiter-in-Vogelhallen-wmd-de-j11313.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -791,6 +821,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiter-in-wmd-Erschliessung-Flaechenmanagement-K-de-j11478.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-fa644191537b76",
+      "title": "Fachkraft für Rohr-, Kanal- und Industrieservice (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Stadtentwässerung Frankfurt am Main",
+      "deadline": "22.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Fachkraft-fuer-Rohr-Kanal-und-Industrieservice-wmd-de-j11514.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1274,6 +1319,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-5506230d80fb3f",
+      "title": "Abteilungsleitung der Abteilung Planung und Neubau / stellvertretende Amtsleitung beim Grünflächenamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Grünflächenamt",
+      "deadline": "30.11.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Abteilungsleitung-der-Abteilung-Planung-und-Neubau-stellve-de-j3120.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-b429d5cd1065dc",
       "title": "Ausbildung - Fachinformatiker :in (w/m/d) Systemintegration",
       "employer": "Stadt Frankfurt am Main",
@@ -1499,6 +1559,36 @@
       "source_id": "stadt-darmstadt-jobs"
     },
     {
+      "item_id": "stadt-darmstadt-jobs-455d4a73c089a1",
+      "title": "Sachbearbeitung sowie stellvertretende Leitung (w/m/d) der Abteilung Gaststätten- und Gewerbewesen beim Bürger- und Ordnungsamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Bürger- und Ordnungsamt",
+      "deadline": "01.12.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-sowie-stellvertretende-Leitung-wmd-der-Abt-de-j3121.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-5853ea1e3aa2ad",
+      "title": "Sachbearbeitung Koordination Kulturmanagement sowie stellvertretende Amtsleitung (w/m/d) beim Kulturamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kulturamt",
+      "deadline": "02.12.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-Koordination-Kulturmanagement-sowie-stellv-de-j3122.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-7dd7d182088f52",
       "title": "Abteilungsleiter: in (w/m/d) An- und Vermietung/Überlassung (Magistratsoberrätin:Magistratsoberrat)",
       "employer": "Stadt Frankfurt am Main",
@@ -1557,6 +1647,21 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2181&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-60b1c8f6dc64ac",
+      "title": "Sachbearbeiter/in (w/m/d) Service beim Kulturamt, Akademie für Tonkunst",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Kulturamt, Akademie für Tonkunst",
+      "deadline": "11.12.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-wmd-Service-beim-Kulturamt-Akademie-fuer--de-j3119.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-90ccbad952e14e",
