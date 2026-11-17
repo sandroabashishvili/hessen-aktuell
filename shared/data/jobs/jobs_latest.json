@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-11-17 08:30:12 UTC",
-  "generated_at_local": "2026-11-17 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-11-17 16:30:09 UTC",
+  "generated_at_local": "2026-11-17 17:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 149,
+  "count": 153,
   "source_counts": {
     "stadt-kassel-jobs": 10,
     "hessen-mobil-jobs": 3,
     "stadt-frankfurt-jobs": 76,
-    "stadt-wiesbaden-jobs": 14,
-    "stadt-darmstadt-jobs": 30,
-    "stadt-offenbach-jobs": 11,
+    "stadt-wiesbaden-jobs": 15,
+    "stadt-darmstadt-jobs": 31,
+    "stadt-offenbach-jobs": 13,
     "stadt-giessen-jobs": 5
   },
   "items": [
@@ -42,21 +42,6 @@
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Leitung-wmd-der-Kita-Ludwigshoehviertel-beim-Jugendamt-Kin-de-j3113.html",
       "source_id": "stadt-darmstadt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-bb1e0eefcc8291",
-      "title": "Betriebswirt :in (w/m/d) Investive Maßnahmen",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Bau und Immobilien",
-      "deadline": "18.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Betriebswirt-in-wmd-Investive-Massnahmen-de-j11402.html",
-      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-04ae0a63b26f47",
@@ -582,6 +567,21 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Sachbearbeiterinnen-Sachbearbeiter-fuer-den-Bereich-Wirtsc-de-j7015.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-bb1e0eefcc8291",
+      "title": "Betriebswirt :in (w/m/d) Investive Maßnahmen",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Bau und Immobilien",
+      "deadline": "25.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Betriebswirt-in-wmd-Investive-Massnahmen-de-j11402.html",
+      "source_id": "stadt-frankfurt-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-06104471310e9a",
@@ -1484,6 +1484,21 @@
       "source_id": "stadt-offenbach-jobs"
     },
     {
+      "item_id": "stadt-offenbach-jobs-488a6f3b4f50c7",
+      "title": "Referent*in kommunale Altersplanung (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 13",
+      "department": "Sozialamt",
+      "deadline": "13.12.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2188&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
       "item_id": "stadt-offenbach-jobs-64fb1d5b3335b2",
       "title": "Sachbearbeiter*in Vollstreckung (m/w/d)",
       "employer": "Stadt Offenbach am Main",
@@ -1497,6 +1512,36 @@
       "source_name": "Stadt Offenbach",
       "source_url": "https://karriere.offenbach.de/index.php?stellenid=2186&site=stellenbeschreibung",
       "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-offenbach-jobs-fde5875ed10b0d",
+      "title": "Volljurist*in Rechtsamt (m/w/d)",
+      "employer": "Stadt Offenbach am Main",
+      "location": "Offenbach",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "TVöD 14",
+      "department": "Rechtsamt",
+      "deadline": "13.12.2026",
+      "reference": "",
+      "source_name": "Stadt Offenbach",
+      "source_url": "https://karriere.offenbach.de/index.php?stellenid=2187&site=stellenbeschreibung",
+      "source_id": "stadt-offenbach-jobs"
+    },
+    {
+      "item_id": "stadt-wiesbaden-jobs-e9e6dcaa439a1b",
+      "title": "Berater/-in für Personal- und Führungskräfteentwicklung (w/m/d)",
+      "employer": "Landeshauptstadt Wiesbaden",
+      "location": "Wiesbaden",
+      "employment_type": "abgeschlossenes Studium",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "13.12.2026",
+      "reference": "",
+      "source_name": "Stadt Wiesbaden",
+      "source_url": "https://karriere.wiesbaden.de/Berater-in-fuer-Personal-und-Fuehrungskraefteentwicklung-w-de-j7542.html",
+      "source_id": "stadt-wiesbaden-jobs"
     },
     {
       "item_id": "stadt-frankfurt-jobs-3a3f9c3cf445e6",
@@ -1616,6 +1661,21 @@
       "reference": "",
       "source_name": "Stadt Darmstadt",
       "source_url": "https://karriere.darmstadt.de/Sachbearbeitung-JVA-wmd-beim-Buerger-und-Ordnungsamt-Abtei-de-j3117.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-a5e8e04babc630",
+      "title": "Ausbildung als Gärtner/in (w/m/d) - Garten- und Landschaftsbau",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "01.02.2027",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Ausbildung-als-Gaertnerin-wmd-Garten-und-Landschaftsbau-de-j3126.html",
       "source_id": "stadt-darmstadt-jobs"
     },
     {
