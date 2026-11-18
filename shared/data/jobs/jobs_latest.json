@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-11-18 08:30:18 UTC",
-  "generated_at_local": "2026-11-18 09:30:06 Europe/Berlin",
+  "generated_at_utc": "2026-11-18 16:30:21 UTC",
+  "generated_at_local": "2026-11-18 17:30:09 Europe/Berlin",
   "mode": "official_source_adapters",
-  "count": 154,
+  "count": 159,
   "source_counts": {
     "stadt-kassel-jobs": 11,
     "hessen-mobil-jobs": 3,
-    "stadt-frankfurt-jobs": 75,
+    "stadt-frankfurt-jobs": 78,
     "stadt-wiesbaden-jobs": 16,
-    "stadt-darmstadt-jobs": 31,
+    "stadt-darmstadt-jobs": 33,
     "stadt-offenbach-jobs": 13,
     "stadt-giessen-jobs": 5
   },
@@ -236,36 +236,6 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-SozialpaedagoginSozialpaedagoge-wmd-Tage-de-j11466.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-ab9b5f03b53969",
-      "title": "Techniker :in Bauüberwachung und Schadensmanagement (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "22.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Techniker-in-Bauueberwachung-und-Schadensmanagement-wmd-de-j11517.html",
-      "source_id": "stadt-frankfurt-jobs"
-    },
-    {
-      "item_id": "stadt-frankfurt-jobs-cca97f19b2bfaa",
-      "title": "Techniker:in Straßenbau und infrastrukturelle Projekte (w/m/d)",
-      "employer": "Stadt Frankfurt am Main",
-      "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r",
-      "contract_type": "",
-      "pay_grade": "",
-      "department": "Amt für Straßenbau und Erschließung",
-      "deadline": "22.11.2026",
-      "reference": "",
-      "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Technikerin-Strassenbau-und-infrastrukturelle-Projekte-wmd-de-j11519.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -599,6 +569,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-13eb45b4db505c",
+      "title": "Sachbearbeiter :in Vergabe und Bestellungen Bauunterhaltungsmaßnahmen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Sportamt",
+      "deadline": "25.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-Vergabe-und-Bestellungen-Bauunterhaltung-de-j11561.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-4ba5eb912ccc57",
       "title": "Sachbearbeiter: in Objektbetreuung Verwaltung (w/m/d)",
       "employer": "Stadt Frankfurt am Main",
@@ -731,6 +716,36 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Ingenieur-in-fuer-Leitsystem-Sicherheitsinfrastruktur-wmd-de-j11459.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-ab9b5f03b53969",
+      "title": "Techniker :in Bauüberwachung und Schadensmanagement (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "29.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Techniker-in-Bauueberwachung-und-Schadensmanagement-wmd-de-j11517.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-cca97f19b2bfaa",
+      "title": "Techniker:in Straßenbau und infrastrukturelle Projekte (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Amt für Straßenbau und Erschließung",
+      "deadline": "29.11.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Technikerin-Strassenbau-und-infrastrukturelle-Projekte-wmd-de-j11519.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1139,10 +1154,10 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
-      "item_id": "hessen-mobil-jobs-f6b8955d80e744",
-      "title": "Bauaufseherin/Bauaufseher oder Technikerin/Techniker (w/m/d) in der Funktion als Bauwartin/Bauwart",
+      "item_id": "hessen-mobil-jobs-9f6229fc6305d2",
+      "title": "Technikerin / Techniker (w/m/d) für die Verkehrstechnik",
       "employer": "Hessen Mobil",
-      "location": "Straßenmeisterei Alten-Buseck / Grünberg Bewerbungsfrist: 3. Dezember 2026 Kennziffer: UI 26/40 UI 26/40_Bauaufseherin / Bauaufseher oder Technikerin / Techniker (w/m/d) in der Funktion als Bauwartin / Bauwart (PDF/311.55 KB) Öffnet sich in einem neuen Fenster Bauaufseherin/Bauaufseher oder Technikerin/Techniker (w/m/d) in der Funktion als Bauwartin/Bauwart Standort: Straßenmeisterei Bad Arolsen und Bad Wildungen (im Verbund) oder Borken und Schwalmstadt (im Verbund)",
+      "location": "Wiesbaden oder Darmstadt Bewerbungsfrist: 7. Dezember 2026 Kennziffer: UI 24/94 UI 24/94_Technikerin / Techniker (w/m/d) für die Verkehrstechnik (PDF/313.25 KB) Öffnet sich in einem neuen Fenster Bauaufseherin/Bauaufseher oder Technikerin/Techniker (w/m/d) in der Funktion als Bauwartin/Bauwart Standort: Straßenmeisterei Alten-Buseck / Grünberg Bewerbungsfrist: 3. Dezember 2026 Kennziffer: UI 26/40 UI 26/40_Bauaufseherin / Bauaufseher oder Technikerin / Techniker (w/m/d) in der Funktion als Bauwartin / Bauwart (PDF/311.55 KB) Öffnet sich in einem neuen Fenster Bauaufseherin/Bauaufseher oder Technikerin/Techniker (w/m/d) in der Funktion als Bauwartin/Bauwart Standort: Straßenmeisterei Bad Arolsen und Bad Wildungen (im Verbund) oder Borken und Schwalmstadt (im Verbund)",
       "employment_type": "",
       "contract_type": "",
       "pay_grade": "",
@@ -1199,6 +1214,21 @@
       "source_id": "stadt-frankfurt-jobs"
     },
     {
+      "item_id": "stadt-frankfurt-jobs-883fedacd5fa07",
+      "title": "Assistent :in der Sozialrathausleitung Nord (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "03.12.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Assistent-in-der-Sozialrathausleitung-Nord-wmd-de-j11542.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
       "item_id": "stadt-frankfurt-jobs-7dd7d182088f52",
       "title": "Abteilungsleiter: in (w/m/d) An- und Vermietung/Überlassung (Magistratsoberrätin:Magistratsoberrat)",
       "employer": "Stadt Frankfurt am Main",
@@ -1211,6 +1241,21 @@
       "reference": "",
       "source_name": "Stadt Frankfurt",
       "source_url": "https://stadtfrankfurtjobs.de/Abteilungsleiter-in-wmd-An-und-Vermietungueberlassung-Magi-de-j11481.html",
+      "source_id": "stadt-frankfurt-jobs"
+    },
+    {
+      "item_id": "stadt-frankfurt-jobs-c36442bf3c68fa",
+      "title": "Sachbearbeiter :in Soziale Hilfen Wirtschaftsdienst (Oberinspektor:in) Sozialrathaus Sachsenhausen (w/m/d)",
+      "employer": "Stadt Frankfurt am Main",
+      "location": "Frankfurt",
+      "employment_type": "Berufserfahrene:r",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugend- und Sozialamt",
+      "deadline": "04.12.2026",
+      "reference": "",
+      "source_name": "Stadt Frankfurt",
+      "source_url": "https://stadtfrankfurtjobs.de/Sachbearbeiter-in-Soziale-Hilfen-Wirtschaftsdienst-Oberins-de-j11521.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
@@ -1347,6 +1392,36 @@
       "source_name": "Stadt Wiesbaden",
       "source_url": "https://karriere.wiesbaden.de/Sachbearbeiterin-Sachbearbeiter-fuer-das-Mietbuero-der-Alt-de-j7537.html",
       "source_id": "stadt-wiesbaden-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-51f9e4e3311827",
+      "title": "Leitung (w/m/d) des Sachgebiets Haushalts, Finanz- und Rechnungswesen Kinderbetreuungseinrichtungen beim Jugendamt",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "Jugendamt",
+      "deadline": "07.12.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Leitung-wmd-des-Sachgebiets-Haushalts-Finanz-und-Rechnungs-de-j3127.html",
+      "source_id": "stadt-darmstadt-jobs"
+    },
+    {
+      "item_id": "stadt-darmstadt-jobs-b7bff2891c93d2",
+      "title": "Sachbearbeiter/in Bank- und Zahlungsverkehr (w/m/d) bei der Finanzverwaltung, Abteilung Stadtkasse und kommunale Steuern",
+      "employer": "Wissenschaftsstadt Darmstadt",
+      "location": "Darmstadt",
+      "employment_type": "",
+      "contract_type": "",
+      "pay_grade": "",
+      "department": "",
+      "deadline": "08.12.2026",
+      "reference": "",
+      "source_name": "Stadt Darmstadt",
+      "source_url": "https://karriere.darmstadt.de/Sachbearbeiterin-Bank-und-Zahlungsverkehr-wmd-bei-der-Fina-de-j3128.html",
+      "source_id": "stadt-darmstadt-jobs"
     },
     {
       "item_id": "stadt-wiesbaden-jobs-6bca8e869b09f2",
