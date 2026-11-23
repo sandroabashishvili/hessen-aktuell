@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-23 08:30:12 UTC",
-  "generated_at_local": "2026-11-23 09:30:10 Europe/Berlin",
+  "generated_at_utc": "2026-11-23 16:30:10 UTC",
+  "generated_at_local": "2026-11-23 17:30:08 Europe/Berlin",
   "mode": "official_source_adapters",
   "count": 150,
   "source_counts": {
@@ -974,18 +974,18 @@
       "source_id": "stadt-kassel-jobs"
     },
     {
-      "item_id": "stadt-frankfurt-jobs-1a2e92edce1bbe",
-      "title": "Stellvertretende: r Teamleiter :in (w/m/d) Sozialdienst Auswärtige und Zugewiesene",
+      "item_id": "stadt-frankfurt-jobs-1b268e04fd9562",
+      "title": "Sozialarbeiter :in / Sozialpädagogin:Sozialpädagoge (w/m/d) Kinder- und Jugendhaus Fechenheim",
       "employer": "Stadt Frankfurt am Main",
       "location": "Frankfurt",
-      "employment_type": "Berufserfahrene:r, Führungskraft",
+      "employment_type": "Berufseinsteiger:in, Berufserfahrene:r",
       "contract_type": "",
       "pay_grade": "",
-      "department": "Jugend- und Sozialamt",
+      "department": "Kommunale Kinder-, Jugend- und Familienhilfe",
       "deadline": "06.12.2026",
       "reference": "",
       "source_name": "Stadt Frankfurt",
-      "source_url": "https://stadtfrankfurtjobs.de/Stellvertretende-r-Teamleiter-in-wmd-Sozialdienst-Auswaert-de-j11505.html",
+      "source_url": "https://stadtfrankfurtjobs.de/Sozialarbeiter-in-SozialpaedagoginSozialpaedagoge-wmd-Kind-de-j11553.html",
       "source_id": "stadt-frankfurt-jobs"
     },
     {
